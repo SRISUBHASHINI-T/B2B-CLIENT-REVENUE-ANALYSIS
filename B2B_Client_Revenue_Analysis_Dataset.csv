@@ -1,0 +1,1501 @@
+Invoice_ID,Order_Date,Client_ID,Client_Tier,Industry,City,Sales_Channel,Product_Category,Units_Sold,Revenue,Cost,Profit
+INV000001,2025-04-07,CL0059,Silver,Healthcare,Chennai,Direct Sales,Subscription,17,9828.44,5382.51,4445.93
+INV000002,2023-07-03,CL0108,Silver,Technology,Mumbai,Partner,Hardware,5,23490.23,7441.27,16048.96
+INV000003,2025-08-03,CL0087,Bronze,Finance,Delhi,Online,Subscription,11,16683.91,12779.51,3904.4
+INV000004,2025-04-04,CL0109,Silver,Technology,Pune,Online,Subscription,17,1544.96,864.22,680.74
+INV000005,2024-02-10,CL0092,Silver,Healthcare,Delhi,Online,Subscription,20,15334.97,13484.72,1850.25
+INV000006,2023-12-30,CL0010,Bronze,Retail,Bangalore,Direct Sales,Subscription,3,23625.81,9972.43,13653.38
+INV000007,2025-05-21,CL0159,Bronze,Manufacturing,Hyderabad,Online,Subscription,7,15984.36,2227.33,13757.03
+INV000008,2023-04-24,CL0140,Platinum,Healthcare,Hyderabad,Partner,Subscription,2,16190.62,6566.21,9624.41
+INV000009,2023-09-26,CL0200,Silver,Finance,Mumbai,Online,Software,4,18594.58,10831.78,7762.8
+INV000010,2023-10-22,CL0105,Silver,Healthcare,Pune,Direct Sales,Subscription,8,7751.36,6916.06,835.3
+INV000011,2024-06-11,CL0048,Bronze,Finance,Hyderabad,Online,Software,11,3371.73,2530.99,840.74
+INV000012,2024-03-19,CL0208,Platinum,Manufacturing,Mumbai,Direct Sales,Software,6,9735.87,3083.38,6652.49
+INV000013,2023-03-18,CL0103,Platinum,Healthcare,Hyderabad,Partner,Hardware,10,23114.39,10880.57,12233.82
+INV000014,2023-08-05,CL0056,Silver,Manufacturing,Hyderabad,Direct Sales,Software,15,21918.64,10866.73,11051.91
+INV000015,2025-05-12,CL0129,Gold,Technology,Mumbai,Partner,Hardware,9,24113.26,3991.95,20121.31
+INV000016,2025-06-01,CL0169,Silver,Technology,Mumbai,Partner,Subscription,7,22098.68,6258.12,15840.56
+INV000017,2025-02-16,CL0002,Gold,Technology,Bangalore,Partner,Hardware,9,8752.75,1717.51,7035.24
+INV000018,2025-05-03,CL0060,Platinum,Technology,Delhi,Direct Sales,Software,4,18703.9,13020.88,5683.02
+INV000019,2025-10-24,CL0080,Silver,Finance,Mumbai,Online,Services,14,13527.84,215.48,13312.36
+INV000020,2025-08-16,CL0197,Gold,Healthcare,Delhi,Online,Software,10,14229.14,8091.2,6137.94
+INV000021,2023-06-04,CL0107,Gold,Technology,Pune,Partner,Services,7,14722.52,12743.11,1979.41
+INV000022,2023-07-25,CL0103,Silver,Technology,Mumbai,Direct Sales,Hardware,5,24799.61,11945.57,12854.04
+INV000023,2025-07-03,CL0100,Platinum,Finance,Delhi,Online,Services,9,21764.15,10480.67,11283.48
+INV000024,2024-03-01,CL0228,Platinum,Healthcare,Mumbai,Partner,Subscription,6,7202.66,3797.7,3404.96
+INV000025,2023-06-03,CL0134,Bronze,Retail,Hyderabad,Direct Sales,Software,11,13525.76,12139.47,1386.29
+INV000026,2023-01-09,CL0163,Bronze,Finance,Hyderabad,Direct Sales,Services,6,14455.64,7027.92,7427.72
+INV000027,2023-10-06,CL0010,Bronze,Technology,Pune,Online,Services,6,14909.5,827.73,14081.77
+INV000028,2025-06-18,CL0059,Silver,Retail,Mumbai,Online,Services,9,1908.91,1376.51,532.4
+INV000029,2025-01-17,CL0199,Silver,Technology,Delhi,Partner,Software,4,2230.81,1860.95,369.86
+INV000030,2023-09-15,CL0023,Bronze,Finance,Delhi,Direct Sales,Hardware,12,20714.28,2422.92,18291.36
+INV000031,2024-04-19,CL0157,Silver,Technology,Chennai,Direct Sales,Subscription,7,15567.11,10703.55,4863.56
+INV000032,2024-09-21,CL0128,Bronze,Healthcare,Mumbai,Partner,Software,8,4899.6,667.84,4231.76
+INV000033,2025-06-28,CL0228,Bronze,Healthcare,Bangalore,Direct Sales,Services,9,18458.58,9116.34,9342.24
+INV000034,2024-10-03,CL0006,Gold,Healthcare,Bangalore,Online,Services,18,14937.77,7939.05,6998.72
+INV000035,2024-08-28,CL0206,Bronze,Retail,Hyderabad,Online,Services,11,7607.51,3473.15,4134.36
+INV000036,2024-10-31,CL0097,Gold,Finance,Bangalore,Partner,Hardware,1,20234.47,14537.39,5697.08
+INV000037,2024-08-14,CL0184,Silver,Healthcare,Pune,Direct Sales,Software,7,18604.25,6402.68,12201.57
+INV000038,2024-05-10,CL0146,Bronze,Manufacturing,Chennai,Partner,Software,7,16371.25,2581.2,13790.05
+INV000039,2023-09-27,CL0077,Bronze,Technology,Bangalore,Partner,Subscription,5,22563.97,2860.26,19703.71
+INV000040,2023-01-07,CL0102,Platinum,Retail,Bangalore,Partner,Hardware,11,23350.36,726.89,22623.47
+INV000041,2025-06-09,CL0024,Gold,Finance,Bangalore,Online,Subscription,7,3736.16,3099.82,636.34
+INV000042,2023-07-25,CL0205,Silver,Healthcare,Mumbai,Partner,Hardware,6,11190.25,2190.79,8999.46
+INV000043,2024-06-09,CL0205,Bronze,Healthcare,Bangalore,Partner,Hardware,14,4612.15,2237.99,2374.16
+INV000044,2025-03-20,CL0065,Gold,Finance,Hyderabad,Direct Sales,Hardware,4,13347.14,1056.19,12290.95
+INV000045,2023-03-02,CL0081,Silver,Retail,Delhi,Direct Sales,Hardware,9,23610.97,6664.02,16946.95
+INV000046,2024-06-06,CL0051,Gold,Retail,Bangalore,Direct Sales,Subscription,5,748.34,451.11,297.23
+INV000047,2024-09-16,CL0015,Bronze,Technology,Bangalore,Online,Software,13,13505.98,2568.53,10937.45
+INV000048,2023-02-06,CL0097,Silver,Finance,Bangalore,Online,Software,1,9291.51,2795.43,6496.08
+INV000049,2023-12-27,CL0066,Bronze,Retail,Mumbai,Online,Subscription,3,5691.01,1890.97,3800.04
+INV000050,2025-01-27,CL0097,Gold,Technology,Delhi,Direct Sales,Software,9,12680.65,6460.54,6220.11
+INV000051,2025-12-23,CL0057,Gold,Technology,Pune,Online,Services,10,6465.14,5427.13,1038.01
+INV000052,2024-05-12,CL0134,Bronze,Finance,Delhi,Direct Sales,Software,13,5709.8,3485.08,2224.72
+INV000053,2023-09-07,CL0196,Platinum,Manufacturing,Hyderabad,Partner,Hardware,20,18573.83,4378.02,14195.81
+INV000054,2025-12-30,CL0235,Gold,Manufacturing,Bangalore,Online,Services,15,23103.54,13027.6,10075.94
+INV000055,2025-09-30,CL0179,Bronze,Retail,Pune,Online,Hardware,14,8793.0,4792.4,4000.6
+INV000056,2024-01-29,CL0151,Bronze,Retail,Chennai,Direct Sales,Hardware,7,10872.48,6555.1,4317.38
+INV000057,2023-08-07,CL0241,Gold,Healthcare,Bangalore,Partner,Services,6,811.64,427.95,383.69
+INV000058,2025-04-30,CL0193,Platinum,Manufacturing,Delhi,Online,Software,9,3064.74,2353.81,710.93
+INV000059,2025-12-14,CL0187,Silver,Technology,Delhi,Online,Software,20,7945.28,6100.31,1844.97
+INV000060,2023-05-24,CL0228,Gold,Finance,Mumbai,Online,Services,15,6644.91,2461.05,4183.86
+INV000061,2024-05-31,CL0118,Gold,Healthcare,Bangalore,Direct Sales,Hardware,17,12752.56,7355.66,5396.9
+INV000062,2024-04-15,CL0019,Silver,Finance,Mumbai,Online,Software,11,15534.49,8494.4,7040.09
+INV000063,2025-03-29,CL0109,Bronze,Manufacturing,Mumbai,Online,Software,1,14727.64,1275.05,13452.59
+INV000064,2024-02-04,CL0062,Gold,Healthcare,Chennai,Online,Services,10,21799.37,1503.64,20295.73
+INV000065,2023-12-21,CL0049,Bronze,Finance,Chennai,Direct Sales,Software,7,20742.15,10213.81,10528.34
+INV000066,2024-09-01,CL0114,Gold,Manufacturing,Pune,Partner,Services,7,10410.68,4820.89,5589.79
+INV000067,2024-12-13,CL0179,Silver,Healthcare,Delhi,Partner,Subscription,16,3702.58,2402.22,1300.36
+INV000068,2023-12-02,CL0187,Gold,Retail,Chennai,Partner,Services,5,15291.54,7759.44,7532.1
+INV000069,2023-09-20,CL0082,Gold,Technology,Bangalore,Partner,Services,4,11184.8,873.88,10310.92
+INV000070,2024-08-28,CL0109,Silver,Healthcare,Chennai,Online,Software,16,1306.62,1086.23,220.39
+INV000071,2025-03-11,CL0098,Gold,Finance,Delhi,Direct Sales,Services,4,11004.0,5479.83,5524.17
+INV000072,2024-02-22,CL0017,Gold,Retail,Chennai,Direct Sales,Subscription,11,24553.63,5405.76,19147.87
+INV000073,2024-04-30,CL0075,Gold,Manufacturing,Bangalore,Online,Hardware,10,15043.32,8262.3,6781.02
+INV000074,2023-02-25,CL0037,Silver,Manufacturing,Pune,Partner,Hardware,9,13928.74,6800.23,7128.51
+INV000075,2024-09-13,CL0215,Gold,Retail,Mumbai,Online,Subscription,3,11138.21,3971.55,7166.66
+INV000076,2025-10-20,CL0130,Bronze,Healthcare,Mumbai,Online,Services,18,22053.01,3776.72,18276.29
+INV000077,2023-09-22,CL0091,Bronze,Retail,Chennai,Online,Software,15,24145.77,13919.49,10226.28
+INV000078,2024-02-19,CL0128,Bronze,Healthcare,Delhi,Online,Hardware,5,16259.06,11198.17,5060.89
+INV000079,2025-06-02,CL0221,Platinum,Technology,Pune,Online,Software,10,5019.15,742.19,4276.96
+INV000080,2023-04-26,CL0146,Platinum,Technology,Mumbai,Online,Services,19,15817.42,9835.83,5981.59
+INV000081,2024-12-14,CL0236,Bronze,Technology,Pune,Direct Sales,Hardware,14,17589.47,2414.54,15174.93
+INV000082,2024-06-24,CL0216,Bronze,Manufacturing,Delhi,Direct Sales,Services,20,4850.08,1258.18,3591.9
+INV000083,2024-09-13,CL0198,Bronze,Technology,Bangalore,Online,Software,6,12245.89,6224.99,6020.9
+INV000084,2025-12-18,CL0083,Platinum,Technology,Mumbai,Online,Services,12,21608.8,4636.33,16972.47
+INV000085,2023-12-06,CL0119,Gold,Manufacturing,Delhi,Direct Sales,Hardware,11,648.17,409.67,238.5
+INV000086,2023-10-16,CL0103,Silver,Manufacturing,Bangalore,Partner,Software,13,17423.16,914.15,16509.01
+INV000087,2024-11-07,CL0085,Silver,Retail,Chennai,Online,Hardware,13,19442.14,8073.16,11368.98
+INV000088,2023-11-17,CL0246,Silver,Technology,Chennai,Online,Software,2,24314.71,10741.02,13573.69
+INV000089,2023-06-26,CL0187,Gold,Manufacturing,Hyderabad,Partner,Software,6,15947.81,5574.71,10373.1
+INV000090,2025-05-27,CL0082,Gold,Healthcare,Pune,Online,Subscription,19,15113.12,8831.7,6281.42
+INV000091,2025-02-05,CL0124,Platinum,Manufacturing,Bangalore,Direct Sales,Subscription,20,17431.98,2210.0,15221.98
+INV000092,2024-09-06,CL0200,Bronze,Manufacturing,Chennai,Partner,Subscription,7,13625.92,7614.73,6011.19
+INV000093,2023-09-06,CL0112,Gold,Retail,Delhi,Online,Hardware,4,8963.42,291.25,8672.17
+INV000094,2025-05-29,CL0223,Bronze,Retail,Bangalore,Partner,Hardware,5,23814.08,13968.46,9845.62
+INV000095,2024-03-27,CL0089,Bronze,Retail,Bangalore,Online,Hardware,8,19399.26,3956.91,15442.35
+INV000096,2024-02-28,CL0048,Platinum,Technology,Mumbai,Direct Sales,Services,12,5727.39,3932.6,1794.79
+INV000097,2024-11-22,CL0116,Bronze,Healthcare,Pune,Online,Hardware,13,6475.26,297.87,6177.39
+INV000098,2024-08-01,CL0088,Silver,Manufacturing,Hyderabad,Partner,Services,16,19404.98,12599.66,6805.32
+INV000099,2025-10-09,CL0138,Bronze,Technology,Chennai,Online,Subscription,12,856.86,216.38,640.48
+INV000100,2023-01-08,CL0151,Gold,Technology,Hyderabad,Partner,Services,13,4785.39,1674.12,3111.27
+INV000101,2023-12-09,CL0080,Bronze,Retail,Delhi,Direct Sales,Software,3,15274.64,3326.42,11948.22
+INV000102,2024-02-19,CL0083,Silver,Healthcare,Chennai,Online,Services,18,3230.65,1252.61,1978.04
+INV000103,2025-03-23,CL0223,Gold,Technology,Bangalore,Direct Sales,Services,16,4613.14,2772.89,1840.25
+INV000104,2024-01-02,CL0201,Bronze,Retail,Bangalore,Online,Services,12,4651.99,3031.24,1620.75
+INV000105,2025-08-19,CL0167,Gold,Finance,Hyderabad,Online,Services,8,4051.69,671.8,3379.89
+INV000106,2023-05-08,CL0029,Bronze,Finance,Bangalore,Online,Hardware,11,6585.36,2671.67,3913.69
+INV000107,2025-09-29,CL0158,Silver,Healthcare,Mumbai,Partner,Subscription,9,9919.46,1419.52,8499.94
+INV000108,2025-05-02,CL0115,Silver,Technology,Pune,Online,Hardware,11,24099.54,13196.55,10902.99
+INV000109,2025-08-14,CL0142,Bronze,Healthcare,Chennai,Online,Services,14,19730.17,3237.33,16492.84
+INV000110,2023-01-31,CL0064,Bronze,Retail,Chennai,Online,Software,1,2231.7,507.29,1724.41
+INV000111,2024-07-05,CL0200,Gold,Healthcare,Mumbai,Direct Sales,Software,14,20031.16,12310.64,7720.52
+INV000112,2024-01-04,CL0083,Bronze,Technology,Bangalore,Partner,Services,10,11994.53,5630.8,6363.73
+INV000113,2023-03-29,CL0012,Gold,Healthcare,Pune,Direct Sales,Software,9,16125.75,9813.7,6312.05
+INV000114,2025-05-02,CL0042,Platinum,Retail,Bangalore,Online,Hardware,6,18753.89,2032.24,16721.65
+INV000115,2025-05-22,CL0244,Gold,Retail,Bangalore,Online,Software,20,21157.71,8901.96,12255.75
+INV000116,2025-06-21,CL0070,Gold,Finance,Mumbai,Online,Subscription,18,17119.16,6915.6,10203.56
+INV000117,2024-12-06,CL0193,Silver,Finance,Pune,Online,Hardware,3,23378.78,11329.28,12049.5
+INV000118,2023-05-23,CL0224,Silver,Finance,Pune,Direct Sales,Services,1,4698.86,1148.84,3550.02
+INV000119,2024-07-31,CL0225,Bronze,Retail,Pune,Online,Services,12,9936.33,6067.04,3869.29
+INV000120,2023-09-29,CL0124,Gold,Finance,Mumbai,Online,Services,12,23756.51,9526.31,14230.2
+INV000121,2024-05-11,CL0057,Bronze,Manufacturing,Delhi,Partner,Hardware,16,5638.64,1556.14,4082.5
+INV000122,2024-07-23,CL0222,Silver,Healthcare,Pune,Direct Sales,Software,17,16376.62,6878.5,9498.12
+INV000123,2025-07-29,CL0004,Platinum,Healthcare,Pune,Partner,Services,18,7369.99,5669.05,1700.94
+INV000124,2023-07-04,CL0217,Silver,Finance,Hyderabad,Online,Hardware,1,3906.32,2723.92,1182.4
+INV000125,2025-11-14,CL0226,Platinum,Technology,Delhi,Partner,Subscription,19,3022.48,463.69,2558.79
+INV000126,2025-11-30,CL0157,Bronze,Manufacturing,Pune,Partner,Services,8,18677.34,14919.12,3758.22
+INV000127,2024-12-07,CL0007,Bronze,Healthcare,Delhi,Online,Services,19,8433.9,5297.67,3136.23
+INV000128,2024-03-03,CL0203,Bronze,Technology,Bangalore,Direct Sales,Subscription,9,20033.2,8580.03,11453.17
+INV000129,2023-04-27,CL0022,Platinum,Healthcare,Pune,Direct Sales,Hardware,7,4823.36,2642.18,2181.18
+INV000130,2025-05-25,CL0022,Bronze,Technology,Mumbai,Online,Hardware,17,22352.68,12183.24,10169.44
+INV000131,2023-06-09,CL0075,Platinum,Healthcare,Pune,Partner,Services,19,2191.58,637.76,1553.82
+INV000132,2025-06-03,CL0188,Silver,Manufacturing,Bangalore,Partner,Hardware,5,22481.37,9140.51,13340.86
+INV000133,2025-04-15,CL0096,Platinum,Technology,Chennai,Partner,Software,7,11871.92,2848.79,9023.13
+INV000134,2025-10-02,CL0114,Platinum,Finance,Chennai,Partner,Hardware,3,13235.95,6455.64,6780.31
+INV000135,2025-06-23,CL0123,Bronze,Healthcare,Bangalore,Online,Hardware,18,14961.68,8513.96,6447.72
+INV000136,2025-03-06,CL0081,Platinum,Technology,Delhi,Online,Subscription,2,4699.35,2813.89,1885.46
+INV000137,2024-02-10,CL0207,Silver,Retail,Hyderabad,Partner,Services,7,10614.02,3977.06,6636.96
+INV000138,2024-07-06,CL0076,Platinum,Technology,Pune,Direct Sales,Hardware,1,9428.01,2242.97,7185.04
+INV000139,2023-06-01,CL0132,Bronze,Finance,Delhi,Direct Sales,Services,15,20682.37,14523.45,6158.92
+INV000140,2023-03-16,CL0121,Silver,Healthcare,Hyderabad,Partner,Subscription,11,21395.62,11125.39,10270.23
+INV000141,2023-03-16,CL0123,Platinum,Retail,Bangalore,Partner,Software,16,5233.49,1414.31,3819.18
+INV000142,2025-12-21,CL0200,Platinum,Technology,Chennai,Direct Sales,Software,15,4263.06,794.94,3468.12
+INV000143,2023-10-25,CL0101,Silver,Healthcare,Hyderabad,Partner,Hardware,5,1932.42,1013.22,919.2
+INV000144,2023-02-13,CL0207,Silver,Manufacturing,Mumbai,Partner,Services,4,6806.84,2258.05,4548.79
+INV000145,2025-11-23,CL0185,Bronze,Technology,Bangalore,Partner,Hardware,11,12741.13,7379.99,5361.14
+INV000146,2023-01-23,CL0111,Bronze,Technology,Pune,Direct Sales,Subscription,12,500.86,372.83,128.03
+INV000147,2024-04-14,CL0148,Silver,Finance,Bangalore,Online,Software,18,19308.89,1195.15,18113.74
+INV000148,2024-12-22,CL0240,Gold,Technology,Bangalore,Partner,Software,8,10323.14,3172.62,7150.52
+INV000149,2023-04-21,CL0158,Platinum,Finance,Chennai,Direct Sales,Software,15,7517.63,3692.79,3824.84
+INV000150,2024-04-01,CL0248,Gold,Retail,Hyderabad,Partner,Services,14,4297.75,698.71,3599.04
+INV000151,2023-05-27,CL0151,Platinum,Healthcare,Hyderabad,Partner,Services,16,5722.24,4323.2,1399.04
+INV000152,2023-09-06,CL0011,Bronze,Healthcare,Hyderabad,Partner,Subscription,17,15229.17,2381.96,12847.21
+INV000153,2024-03-20,CL0211,Platinum,Manufacturing,Bangalore,Online,Subscription,20,22263.6,9631.94,12631.66
+INV000154,2024-11-20,CL0223,Bronze,Retail,Pune,Online,Services,13,8060.97,5761.53,2299.44
+INV000155,2024-06-03,CL0186,Bronze,Healthcare,Pune,Online,Software,11,22172.18,4640.93,17531.25
+INV000156,2024-11-25,CL0059,Platinum,Healthcare,Bangalore,Online,Software,1,14644.93,2733.32,11911.61
+INV000157,2024-10-26,CL0067,Gold,Healthcare,Pune,Online,Subscription,8,1238.1,594.07,644.03
+INV000158,2024-07-14,CL0212,Bronze,Technology,Chennai,Online,Software,3,22505.67,3660.13,18845.54
+INV000159,2023-04-09,CL0047,Silver,Finance,Pune,Online,Hardware,12,22968.86,10009.21,12959.65
+INV000160,2025-06-23,CL0066,Platinum,Healthcare,Mumbai,Direct Sales,Subscription,15,22221.87,6234.45,15987.42
+INV000161,2024-06-18,CL0202,Silver,Manufacturing,Delhi,Partner,Hardware,12,9041.56,6969.13,2072.43
+INV000162,2024-03-17,CL0108,Gold,Manufacturing,Pune,Direct Sales,Services,10,14684.47,12240.7,2443.77
+INV000163,2025-01-03,CL0025,Gold,Retail,Hyderabad,Direct Sales,Hardware,15,5476.33,1023.89,4452.44
+INV000164,2023-09-08,CL0119,Platinum,Healthcare,Chennai,Online,Subscription,19,10322.6,3752.36,6570.24
+INV000165,2024-03-21,CL0126,Silver,Finance,Hyderabad,Online,Services,11,1344.86,259.19,1085.67
+INV000166,2025-03-16,CL0045,Silver,Finance,Bangalore,Partner,Software,5,3437.56,549.32,2888.24
+INV000167,2025-12-26,CL0183,Gold,Healthcare,Hyderabad,Online,Software,12,21598.19,7715.5,13882.69
+INV000168,2024-11-24,CL0136,Gold,Technology,Mumbai,Partner,Hardware,11,7001.31,595.19,6406.12
+INV000169,2024-08-14,CL0023,Platinum,Retail,Hyderabad,Partner,Software,16,9903.51,7911.18,1992.33
+INV000170,2023-08-03,CL0214,Platinum,Manufacturing,Hyderabad,Online,Subscription,6,20874.33,2253.07,18621.26
+INV000171,2025-09-11,CL0157,Platinum,Healthcare,Pune,Direct Sales,Services,4,12080.19,3622.86,8457.33
+INV000172,2023-09-04,CL0127,Gold,Healthcare,Mumbai,Partner,Subscription,4,14798.34,13174.43,1623.91
+INV000173,2023-01-30,CL0001,Bronze,Finance,Chennai,Online,Subscription,13,15117.18,4344.82,10772.36
+INV000174,2024-09-25,CL0032,Silver,Manufacturing,Chennai,Direct Sales,Subscription,7,15097.85,9011.64,6086.21
+INV000175,2023-09-27,CL0001,Gold,Retail,Chennai,Online,Subscription,6,16918.92,11860.86,5058.06
+INV000176,2023-03-07,CL0056,Silver,Technology,Delhi,Partner,Services,19,10269.8,793.83,9475.97
+INV000177,2023-09-05,CL0016,Gold,Healthcare,Hyderabad,Partner,Software,15,13134.25,8455.8,4678.45
+INV000178,2025-08-30,CL0117,Bronze,Retail,Chennai,Direct Sales,Services,6,14892.91,7415.74,7477.17
+INV000179,2023-06-07,CL0218,Platinum,Manufacturing,Bangalore,Partner,Services,11,21994.43,13477.52,8516.91
+INV000180,2023-02-25,CL0179,Platinum,Retail,Chennai,Partner,Software,17,4634.72,1186.12,3448.6
+INV000181,2024-10-05,CL0238,Bronze,Healthcare,Hyderabad,Direct Sales,Services,6,16077.28,8642.15,7435.13
+INV000182,2025-02-05,CL0169,Platinum,Technology,Bangalore,Partner,Hardware,9,2230.5,444.97,1785.53
+INV000183,2025-09-19,CL0004,Silver,Finance,Bangalore,Direct Sales,Services,11,18691.45,7678.62,11012.83
+INV000184,2023-02-24,CL0045,Platinum,Manufacturing,Mumbai,Online,Software,5,10149.34,6249.57,3899.77
+INV000185,2024-08-23,CL0147,Bronze,Healthcare,Hyderabad,Direct Sales,Software,4,11146.02,4255.55,6890.47
+INV000186,2024-08-17,CL0062,Platinum,Finance,Pune,Direct Sales,Subscription,1,6082.21,4623.02,1459.19
+INV000187,2025-10-30,CL0054,Bronze,Retail,Delhi,Online,Software,17,20059.7,11930.84,8128.86
+INV000188,2024-10-13,CL0187,Silver,Technology,Mumbai,Online,Subscription,7,692.42,584.1,108.32
+INV000189,2023-04-23,CL0110,Bronze,Healthcare,Mumbai,Direct Sales,Hardware,14,19433.41,11177.73,8255.68
+INV000190,2025-01-17,CL0061,Silver,Healthcare,Chennai,Partner,Services,16,12789.53,9152.32,3637.21
+INV000191,2024-06-07,CL0068,Bronze,Finance,Delhi,Online,Subscription,8,2873.65,775.63,2098.02
+INV000192,2023-06-18,CL0119,Silver,Retail,Bangalore,Partner,Subscription,3,11746.91,2273.2,9473.71
+INV000193,2025-02-07,CL0117,Bronze,Retail,Bangalore,Direct Sales,Services,1,5545.16,1982.1,3563.06
+INV000194,2025-07-04,CL0176,Platinum,Healthcare,Mumbai,Direct Sales,Subscription,4,11449.46,2545.21,8904.25
+INV000195,2024-07-17,CL0019,Bronze,Finance,Bangalore,Direct Sales,Services,20,21130.45,1224.6,19905.85
+INV000196,2024-12-05,CL0088,Bronze,Healthcare,Pune,Online,Hardware,1,21643.3,13605.01,8038.29
+INV000197,2023-03-26,CL0170,Platinum,Healthcare,Mumbai,Partner,Subscription,19,7078.45,3901.14,3177.31
+INV000198,2024-01-26,CL0166,Gold,Retail,Chennai,Online,Hardware,15,7893.45,4653.11,3240.34
+INV000199,2025-07-03,CL0209,Gold,Retail,Delhi,Partner,Subscription,13,21799.14,13879.85,7919.29
+INV000200,2023-02-21,CL0096,Bronze,Manufacturing,Mumbai,Online,Services,14,7908.54,6093.22,1815.32
+INV000201,2024-11-09,CL0231,Gold,Finance,Mumbai,Direct Sales,Hardware,7,859.7,660.48,199.22
+INV000202,2025-04-27,CL0112,Platinum,Healthcare,Pune,Direct Sales,Services,16,15988.49,1105.0,14883.49
+INV000203,2024-01-17,CL0236,Gold,Healthcare,Mumbai,Online,Services,3,18172.91,2397.63,15775.28
+INV000204,2024-12-21,CL0068,Silver,Technology,Pune,Direct Sales,Subscription,4,6972.04,431.81,6540.23
+INV000205,2025-07-06,CL0077,Silver,Manufacturing,Pune,Online,Hardware,2,14738.0,11193.32,3544.68
+INV000206,2024-12-10,CL0014,Platinum,Retail,Pune,Online,Services,18,12519.44,1419.27,11100.17
+INV000207,2023-07-11,CL0081,Silver,Healthcare,Hyderabad,Partner,Hardware,19,1791.34,1444.34,347.0
+INV000208,2023-07-16,CL0242,Bronze,Healthcare,Pune,Online,Hardware,3,6931.21,5209.25,1721.96
+INV000209,2025-01-08,CL0063,Bronze,Manufacturing,Chennai,Partner,Software,11,20788.67,861.5,19927.17
+INV000210,2025-03-04,CL0025,Bronze,Manufacturing,Chennai,Direct Sales,Hardware,8,1119.51,267.82,851.69
+INV000211,2024-12-12,CL0003,Gold,Finance,Bangalore,Online,Subscription,20,5104.71,2598.67,2506.04
+INV000212,2025-08-23,CL0166,Bronze,Finance,Hyderabad,Partner,Hardware,7,12900.33,10696.78,2203.55
+INV000213,2024-12-08,CL0191,Silver,Retail,Chennai,Partner,Services,3,10670.23,8321.05,2349.18
+INV000214,2024-11-16,CL0134,Gold,Finance,Hyderabad,Direct Sales,Software,6,20721.81,2840.87,17880.94
+INV000215,2024-03-29,CL0174,Gold,Healthcare,Pune,Partner,Software,7,1815.92,479.12,1336.8
+INV000216,2025-03-23,CL0130,Gold,Technology,Mumbai,Direct Sales,Subscription,15,21657.51,7245.37,14412.14
+INV000217,2024-11-26,CL0055,Silver,Technology,Pune,Partner,Subscription,2,17081.55,3977.83,13103.72
+INV000218,2025-09-30,CL0113,Bronze,Healthcare,Mumbai,Online,Subscription,18,7171.57,5483.12,1688.45
+INV000219,2024-04-22,CL0066,Gold,Manufacturing,Mumbai,Direct Sales,Services,5,17217.07,7751.43,9465.64
+INV000220,2024-02-02,CL0205,Platinum,Finance,Mumbai,Partner,Hardware,15,21993.12,14358.15,7634.97
+INV000221,2023-08-28,CL0076,Bronze,Finance,Chennai,Direct Sales,Subscription,18,20203.25,8446.76,11756.49
+INV000222,2025-06-15,CL0125,Bronze,Finance,Bangalore,Direct Sales,Software,19,13345.97,7621.0,5724.97
+INV000223,2023-10-23,CL0090,Silver,Retail,Delhi,Online,Hardware,14,8503.66,2092.13,6411.53
+INV000224,2024-05-19,CL0240,Gold,Technology,Mumbai,Partner,Hardware,20,24513.09,13070.36,11442.73
+INV000225,2023-09-13,CL0224,Platinum,Technology,Hyderabad,Online,Software,14,2308.36,1671.16,637.2
+INV000226,2024-11-08,CL0051,Bronze,Technology,Bangalore,Partner,Subscription,19,6014.52,1613.38,4401.14
+INV000227,2025-01-26,CL0206,Silver,Finance,Bangalore,Online,Subscription,13,4815.18,689.69,4125.49
+INV000228,2023-06-26,CL0127,Bronze,Healthcare,Mumbai,Partner,Services,17,4960.65,4182.29,778.36
+INV000229,2024-08-01,CL0202,Platinum,Manufacturing,Hyderabad,Direct Sales,Hardware,4,17800.19,7861.81,9938.38
+INV000230,2023-10-26,CL0207,Bronze,Healthcare,Pune,Partner,Hardware,12,11799.62,5723.32,6076.3
+INV000231,2024-09-02,CL0168,Silver,Technology,Bangalore,Partner,Subscription,15,21514.9,7210.1,14304.8
+INV000232,2024-10-14,CL0029,Platinum,Retail,Delhi,Partner,Hardware,13,1368.27,476.37,891.9
+INV000233,2023-07-31,CL0177,Gold,Retail,Pune,Online,Subscription,3,23745.33,6994.13,16751.2
+INV000234,2023-10-17,CL0055,Silver,Technology,Delhi,Direct Sales,Services,2,4346.83,2137.99,2208.84
+INV000235,2025-09-17,CL0248,Silver,Manufacturing,Delhi,Online,Hardware,9,14166.83,4317.82,9849.01
+INV000236,2025-06-07,CL0171,Platinum,Finance,Chennai,Partner,Hardware,8,19123.29,1494.1,17629.19
+INV000237,2025-10-04,CL0238,Gold,Finance,Bangalore,Partner,Subscription,2,7714.01,3732.78,3981.23
+INV000238,2025-10-08,CL0008,Silver,Retail,Chennai,Online,Software,15,17450.48,11481.41,5969.07
+INV000239,2024-02-18,CL0167,Bronze,Retail,Chennai,Online,Software,15,10576.87,5867.32,4709.55
+INV000240,2024-07-29,CL0079,Gold,Manufacturing,Pune,Direct Sales,Subscription,15,7188.88,3257.47,3931.41
+INV000241,2024-10-01,CL0231,Gold,Manufacturing,Pune,Online,Subscription,19,21542.32,1096.45,20445.87
+INV000242,2023-10-03,CL0184,Bronze,Healthcare,Delhi,Direct Sales,Software,19,5484.97,245.41,5239.56
+INV000243,2024-11-04,CL0030,Silver,Retail,Bangalore,Online,Services,3,23255.34,5326.09,17929.25
+INV000244,2025-02-12,CL0193,Gold,Technology,Pune,Partner,Hardware,15,16029.11,10179.41,5849.7
+INV000245,2023-03-27,CL0019,Silver,Healthcare,Chennai,Direct Sales,Software,18,22709.17,4598.08,18111.09
+INV000246,2023-06-12,CL0202,Bronze,Healthcare,Delhi,Partner,Software,3,7640.02,3529.14,4110.88
+INV000247,2025-12-21,CL0092,Silver,Technology,Bangalore,Online,Services,12,9940.32,7408.3,2532.02
+INV000248,2024-08-31,CL0111,Silver,Finance,Pune,Online,Subscription,18,17921.8,11892.06,6029.74
+INV000249,2023-04-14,CL0165,Silver,Manufacturing,Chennai,Online,Services,10,18300.96,10830.73,7470.23
+INV000250,2024-04-02,CL0057,Bronze,Manufacturing,Hyderabad,Online,Subscription,6,20782.46,13477.9,7304.56
+INV000251,2023-03-19,CL0149,Bronze,Manufacturing,Chennai,Online,Software,12,2835.84,632.93,2202.91
+INV000252,2023-01-23,CL0157,Platinum,Healthcare,Hyderabad,Online,Software,4,24605.44,9921.96,14683.48
+INV000253,2023-01-15,CL0157,Silver,Retail,Mumbai,Direct Sales,Subscription,8,22573.93,9567.7,13006.23
+INV000254,2024-10-08,CL0234,Platinum,Healthcare,Chennai,Direct Sales,Software,2,20354.62,12476.42,7878.2
+INV000255,2024-09-01,CL0090,Silver,Retail,Hyderabad,Partner,Subscription,20,20709.8,9380.57,11329.23
+INV000256,2023-12-28,CL0055,Gold,Retail,Delhi,Online,Hardware,15,16060.95,8162.95,7898.0
+INV000257,2025-06-19,CL0007,Bronze,Finance,Bangalore,Direct Sales,Subscription,19,19775.36,307.33,19468.03
+INV000258,2023-05-14,CL0006,Silver,Finance,Pune,Direct Sales,Hardware,15,7463.62,2030.06,5433.56
+INV000259,2024-02-15,CL0150,Gold,Healthcare,Delhi,Online,Services,14,11310.7,3220.91,8089.79
+INV000260,2025-10-30,CL0098,Bronze,Manufacturing,Bangalore,Direct Sales,Hardware,3,8472.26,1383.18,7089.08
+INV000261,2024-11-01,CL0055,Bronze,Manufacturing,Bangalore,Online,Hardware,12,11305.36,4092.14,7213.22
+INV000262,2023-12-31,CL0138,Silver,Retail,Chennai,Partner,Hardware,9,24847.98,6660.94,18187.04
+INV000263,2023-08-22,CL0044,Platinum,Finance,Mumbai,Online,Software,17,24589.41,9603.69,14985.72
+INV000264,2024-11-14,CL0077,Platinum,Retail,Pune,Partner,Services,17,2946.0,403.64,2542.36
+INV000265,2023-02-17,CL0133,Platinum,Technology,Delhi,Partner,Services,10,8954.21,6300.13,2654.08
+INV000266,2023-05-18,CL0241,Silver,Healthcare,Delhi,Partner,Services,3,21306.19,477.78,20828.41
+INV000267,2023-03-27,CL0099,Bronze,Retail,Pune,Partner,Subscription,6,1258.98,704.15,554.83
+INV000268,2023-01-19,CL0243,Platinum,Manufacturing,Chennai,Online,Subscription,10,16348.8,4723.01,11625.79
+INV000269,2024-03-16,CL0232,Gold,Technology,Bangalore,Online,Software,17,6312.55,637.46,5675.09
+INV000270,2024-06-29,CL0068,Platinum,Healthcare,Mumbai,Partner,Hardware,7,5434.84,1085.98,4348.86
+INV000271,2025-11-11,CL0156,Platinum,Manufacturing,Hyderabad,Partner,Software,16,15552.53,13141.31,2411.22
+INV000272,2024-02-09,CL0178,Bronze,Retail,Delhi,Direct Sales,Hardware,13,11698.35,1357.77,10340.58
+INV000273,2024-09-07,CL0032,Gold,Healthcare,Bangalore,Online,Services,7,1514.73,868.31,646.42
+INV000274,2024-11-26,CL0162,Gold,Technology,Bangalore,Direct Sales,Services,10,9952.88,4874.03,5078.85
+INV000275,2023-02-12,CL0212,Platinum,Manufacturing,Delhi,Direct Sales,Hardware,3,24714.61,6798.66,17915.95
+INV000276,2025-02-27,CL0191,Platinum,Finance,Mumbai,Direct Sales,Services,14,7328.8,2443.24,4885.56
+INV000277,2024-08-20,CL0071,Silver,Technology,Chennai,Online,Software,8,18524.38,8827.95,9696.43
+INV000278,2024-03-31,CL0105,Platinum,Manufacturing,Mumbai,Direct Sales,Services,12,19565.76,8880.58,10685.18
+INV000279,2023-09-17,CL0061,Silver,Retail,Pune,Direct Sales,Hardware,6,12878.91,5774.82,7104.09
+INV000280,2025-11-06,CL0165,Gold,Technology,Mumbai,Partner,Software,1,3241.35,1851.4,1389.95
+INV000281,2023-01-13,CL0236,Silver,Manufacturing,Mumbai,Online,Hardware,11,16911.53,8603.05,8308.48
+INV000282,2025-05-18,CL0136,Bronze,Retail,Delhi,Direct Sales,Hardware,20,8907.03,7012.65,1894.38
+INV000283,2025-02-12,CL0242,Bronze,Retail,Hyderabad,Partner,Software,6,18271.48,14254.44,4017.04
+INV000284,2024-07-29,CL0177,Platinum,Finance,Mumbai,Partner,Hardware,18,4471.09,3737.63,733.46
+INV000285,2025-04-17,CL0051,Platinum,Healthcare,Hyderabad,Partner,Software,15,15495.1,10387.01,5108.09
+INV000286,2025-08-16,CL0054,Gold,Retail,Mumbai,Partner,Hardware,15,21368.66,956.74,20411.92
+INV000287,2024-05-06,CL0127,Gold,Healthcare,Bangalore,Online,Hardware,4,14046.64,9899.46,4147.18
+INV000288,2023-08-10,CL0155,Platinum,Finance,Bangalore,Direct Sales,Software,3,6263.67,211.07,6052.6
+INV000289,2025-11-14,CL0247,Gold,Healthcare,Bangalore,Partner,Services,19,3774.98,2650.75,1124.23
+INV000290,2024-07-12,CL0209,Gold,Retail,Pune,Partner,Hardware,15,12509.39,4433.6,8075.79
+INV000291,2024-09-07,CL0120,Bronze,Technology,Delhi,Direct Sales,Hardware,15,956.73,205.78,750.95
+INV000292,2024-12-01,CL0099,Silver,Retail,Delhi,Partner,Software,7,1018.32,801.56,216.76
+INV000293,2024-08-18,CL0079,Gold,Retail,Hyderabad,Online,Software,20,18319.9,3002.92,15316.98
+INV000294,2025-11-03,CL0219,Silver,Finance,Pune,Direct Sales,Subscription,9,12810.35,9437.08,3373.27
+INV000295,2023-08-05,CL0091,Silver,Finance,Delhi,Direct Sales,Subscription,19,14257.73,2845.6,11412.13
+INV000296,2024-08-18,CL0212,Silver,Retail,Delhi,Partner,Services,12,18046.23,5988.72,12057.51
+INV000297,2023-06-29,CL0132,Silver,Finance,Chennai,Direct Sales,Hardware,1,1611.0,722.66,888.34
+INV000298,2024-07-15,CL0212,Platinum,Retail,Hyderabad,Partner,Services,14,1272.67,895.75,376.92
+INV000299,2025-06-18,CL0107,Silver,Manufacturing,Chennai,Online,Software,2,13414.56,4569.2,8845.36
+INV000300,2025-06-17,CL0181,Gold,Retail,Chennai,Online,Hardware,8,11551.43,3315.7,8235.73
+INV000301,2023-03-06,CL0214,Gold,Manufacturing,Hyderabad,Direct Sales,Hardware,10,14454.55,6626.7,7827.85
+INV000302,2025-04-21,CL0214,Silver,Finance,Delhi,Direct Sales,Hardware,17,18834.13,5307.35,13526.78
+INV000303,2025-10-11,CL0169,Platinum,Manufacturing,Hyderabad,Online,Services,7,19991.52,1624.73,18366.79
+INV000304,2024-09-01,CL0181,Platinum,Retail,Bangalore,Direct Sales,Software,2,18275.48,3612.79,14662.69
+INV000305,2023-09-07,CL0098,Platinum,Manufacturing,Hyderabad,Partner,Services,16,5405.6,1252.5,4153.1
+INV000306,2023-02-13,CL0013,Platinum,Manufacturing,Chennai,Partner,Hardware,17,10206.0,7345.32,2860.68
+INV000307,2024-11-08,CL0084,Silver,Retail,Bangalore,Direct Sales,Subscription,7,14476.9,10250.2,4226.7
+INV000308,2024-03-14,CL0217,Silver,Retail,Hyderabad,Partner,Hardware,4,23198.0,8619.08,14578.92
+INV000309,2023-08-26,CL0066,Bronze,Technology,Delhi,Online,Subscription,17,3848.27,1399.59,2448.68
+INV000310,2023-09-01,CL0005,Gold,Manufacturing,Pune,Online,Hardware,4,3332.35,2301.03,1031.32
+INV000311,2024-09-20,CL0164,Bronze,Retail,Pune,Online,Services,7,2336.37,1191.83,1144.54
+INV000312,2024-06-19,CL0165,Bronze,Technology,Hyderabad,Direct Sales,Software,12,8661.66,803.35,7858.31
+INV000313,2023-03-23,CL0104,Gold,Technology,Pune,Direct Sales,Software,5,20709.39,7163.98,13545.41
+INV000314,2024-07-10,CL0128,Bronze,Retail,Mumbai,Partner,Hardware,6,13553.0,3563.0,9990.0
+INV000315,2025-07-07,CL0140,Gold,Finance,Chennai,Online,Hardware,4,16797.53,10329.67,6467.86
+INV000316,2024-06-24,CL0148,Platinum,Technology,Pune,Online,Subscription,6,11088.5,4269.83,6818.67
+INV000317,2025-04-24,CL0222,Silver,Finance,Bangalore,Online,Subscription,2,5090.8,3427.31,1663.49
+INV000318,2024-06-20,CL0172,Bronze,Healthcare,Mumbai,Partner,Software,19,19807.7,7559.66,12248.04
+INV000319,2024-04-23,CL0201,Silver,Healthcare,Chennai,Partner,Services,5,8932.4,1349.17,7583.23
+INV000320,2024-10-03,CL0073,Silver,Finance,Mumbai,Partner,Services,13,24207.17,14926.97,9280.2
+INV000321,2024-11-05,CL0113,Gold,Retail,Pune,Online,Hardware,3,18176.01,3336.84,14839.17
+INV000322,2025-03-04,CL0133,Gold,Technology,Hyderabad,Direct Sales,Software,12,1797.76,976.33,821.43
+INV000323,2023-07-31,CL0066,Gold,Finance,Pune,Direct Sales,Subscription,8,5787.44,4128.06,1659.38
+INV000324,2024-06-11,CL0181,Gold,Technology,Pune,Direct Sales,Subscription,8,19435.7,7888.99,11546.71
+INV000325,2024-10-02,CL0213,Gold,Technology,Chennai,Direct Sales,Subscription,8,14821.3,3914.26,10907.04
+INV000326,2025-05-26,CL0145,Platinum,Healthcare,Mumbai,Direct Sales,Services,6,1342.31,1085.04,257.27
+INV000327,2025-09-12,CL0221,Platinum,Retail,Pune,Direct Sales,Services,2,1340.28,396.88,943.4
+INV000328,2025-12-05,CL0095,Bronze,Technology,Mumbai,Online,Hardware,16,9981.79,5627.66,4354.13
+INV000329,2023-12-10,CL0003,Platinum,Retail,Chennai,Online,Services,15,18396.45,7955.18,10441.27
+INV000330,2025-12-02,CL0115,Platinum,Technology,Mumbai,Partner,Hardware,15,17117.73,7832.14,9285.59
+INV000331,2025-07-21,CL0177,Bronze,Manufacturing,Delhi,Direct Sales,Subscription,20,3376.62,2188.37,1188.25
+INV000332,2025-04-09,CL0239,Platinum,Technology,Chennai,Online,Software,9,5083.34,261.16,4822.18
+INV000333,2025-01-17,CL0233,Platinum,Healthcare,Pune,Partner,Software,16,6211.74,4200.23,2011.51
+INV000334,2024-09-08,CL0031,Silver,Healthcare,Pune,Partner,Services,9,21643.8,13392.37,8251.43
+INV000335,2023-12-14,CL0211,Silver,Retail,Bangalore,Partner,Services,14,20098.04,2839.64,17258.4
+INV000336,2024-09-13,CL0230,Bronze,Finance,Bangalore,Direct Sales,Subscription,17,20328.16,962.18,19365.98
+INV000337,2023-07-04,CL0170,Silver,Finance,Delhi,Partner,Hardware,8,1577.7,1093.28,484.42
+INV000338,2025-09-13,CL0132,Gold,Technology,Hyderabad,Direct Sales,Hardware,14,7237.12,5161.09,2076.03
+INV000339,2025-02-18,CL0063,Silver,Retail,Delhi,Direct Sales,Services,2,20467.91,4930.71,15537.2
+INV000340,2025-10-26,CL0130,Silver,Manufacturing,Delhi,Direct Sales,Services,10,24005.4,12225.44,11779.96
+INV000341,2024-08-06,CL0026,Silver,Manufacturing,Mumbai,Direct Sales,Subscription,5,5917.49,3249.04,2668.45
+INV000342,2025-07-01,CL0187,Silver,Finance,Hyderabad,Partner,Subscription,6,16717.35,8099.99,8617.36
+INV000343,2023-05-02,CL0151,Platinum,Technology,Hyderabad,Online,Software,15,14978.55,11342.25,3636.3
+INV000344,2025-09-18,CL0166,Silver,Technology,Chennai,Online,Subscription,16,15468.86,6346.32,9122.54
+INV000345,2023-11-12,CL0149,Silver,Technology,Hyderabad,Direct Sales,Hardware,1,3891.67,2475.9,1415.77
+INV000346,2023-11-04,CL0144,Gold,Technology,Pune,Online,Subscription,1,15881.9,7043.04,8838.86
+INV000347,2023-02-23,CL0106,Gold,Retail,Hyderabad,Partner,Hardware,10,23312.61,13164.1,10148.51
+INV000348,2023-12-19,CL0179,Platinum,Healthcare,Mumbai,Online,Services,14,5407.61,2970.14,2437.47
+INV000349,2024-06-09,CL0021,Silver,Retail,Hyderabad,Direct Sales,Software,1,9253.01,4255.48,4997.53
+INV000350,2023-07-30,CL0063,Silver,Healthcare,Chennai,Online,Subscription,4,23109.51,6189.77,16919.74
+INV000351,2023-07-21,CL0019,Silver,Manufacturing,Delhi,Direct Sales,Services,3,2367.43,1174.61,1192.82
+INV000352,2025-01-11,CL0232,Silver,Technology,Mumbai,Direct Sales,Software,1,5664.01,1730.28,3933.73
+INV000353,2024-02-18,CL0094,Gold,Finance,Pune,Direct Sales,Hardware,16,15991.81,1997.27,13994.54
+INV000354,2024-07-27,CL0236,Platinum,Technology,Bangalore,Online,Services,16,5221.05,3454.76,1766.29
+INV000355,2023-05-04,CL0066,Platinum,Finance,Chennai,Partner,Software,18,15978.74,2837.66,13141.08
+INV000356,2024-06-05,CL0021,Platinum,Manufacturing,Hyderabad,Direct Sales,Hardware,13,9464.64,355.95,9108.69
+INV000357,2023-06-19,CL0172,Gold,Retail,Chennai,Partner,Hardware,8,4512.01,2863.23,1648.78
+INV000358,2025-03-12,CL0195,Silver,Retail,Chennai,Direct Sales,Services,1,18823.56,6707.46,12116.1
+INV000359,2023-09-02,CL0099,Gold,Technology,Pune,Direct Sales,Subscription,6,6272.66,978.65,5294.01
+INV000360,2025-12-31,CL0046,Silver,Finance,Chennai,Direct Sales,Services,1,12687.01,4642.82,8044.19
+INV000361,2025-03-12,CL0063,Platinum,Healthcare,Hyderabad,Direct Sales,Hardware,6,14035.06,4789.78,9245.28
+INV000362,2023-02-01,CL0241,Silver,Manufacturing,Chennai,Online,Hardware,1,1864.08,419.44,1444.64
+INV000363,2023-11-27,CL0039,Silver,Finance,Delhi,Direct Sales,Hardware,12,21052.8,10277.17,10775.63
+INV000364,2025-12-21,CL0116,Bronze,Finance,Pune,Partner,Services,12,17457.43,12927.32,4530.11
+INV000365,2024-03-22,CL0046,Bronze,Healthcare,Pune,Partner,Services,9,24669.25,4401.89,20267.36
+INV000366,2024-09-02,CL0086,Platinum,Manufacturing,Bangalore,Partner,Subscription,8,10061.63,1617.95,8443.68
+INV000367,2023-03-07,CL0072,Silver,Manufacturing,Delhi,Online,Hardware,4,11022.68,1557.85,9464.83
+INV000368,2024-07-21,CL0158,Silver,Manufacturing,Delhi,Direct Sales,Subscription,5,21372.09,1904.03,19468.06
+INV000369,2023-08-13,CL0076,Silver,Finance,Mumbai,Online,Subscription,18,20581.71,11494.4,9087.31
+INV000370,2025-10-11,CL0066,Gold,Technology,Hyderabad,Direct Sales,Hardware,9,13555.06,10919.47,2635.59
+INV000371,2025-12-05,CL0077,Gold,Retail,Chennai,Direct Sales,Subscription,15,10561.22,6945.36,3615.86
+INV000372,2025-08-13,CL0009,Silver,Healthcare,Chennai,Direct Sales,Services,14,23287.96,6270.08,17017.88
+INV000373,2023-11-17,CL0241,Bronze,Technology,Chennai,Online,Subscription,11,5409.78,4683.0,726.78
+INV000374,2023-05-19,CL0162,Silver,Technology,Hyderabad,Direct Sales,Subscription,12,18370.28,911.57,17458.71
+INV000375,2024-09-05,CL0170,Gold,Finance,Hyderabad,Direct Sales,Subscription,5,2359.85,1012.2,1347.65
+INV000376,2025-07-07,CL0232,Platinum,Finance,Hyderabad,Direct Sales,Subscription,9,5204.2,4290.62,913.58
+INV000377,2025-09-30,CL0169,Gold,Healthcare,Delhi,Online,Subscription,8,8810.15,3007.88,5802.27
+INV000378,2024-02-28,CL0079,Silver,Healthcare,Pune,Partner,Services,13,23891.64,7044.64,16847.0
+INV000379,2024-07-25,CL0175,Bronze,Technology,Chennai,Online,Subscription,3,4460.9,590.35,3870.55
+INV000380,2025-11-11,CL0014,Silver,Healthcare,Mumbai,Online,Software,13,3919.06,206.2,3712.86
+INV000381,2023-05-13,CL0137,Gold,Retail,Bangalore,Online,Subscription,12,9241.79,5098.59,4143.2
+INV000382,2023-02-25,CL0067,Platinum,Manufacturing,Mumbai,Partner,Software,16,4715.78,1391.06,3324.72
+INV000383,2025-06-13,CL0167,Platinum,Healthcare,Hyderabad,Online,Services,20,14921.72,6749.91,8171.81
+INV000384,2024-09-12,CL0151,Platinum,Manufacturing,Delhi,Online,Software,9,6698.79,1565.85,5132.94
+INV000385,2023-02-03,CL0128,Silver,Finance,Delhi,Partner,Hardware,7,7420.58,1625.33,5795.25
+INV000386,2024-10-11,CL0243,Bronze,Manufacturing,Hyderabad,Partner,Hardware,10,22375.06,10722.25,11652.81
+INV000387,2023-01-23,CL0165,Silver,Finance,Hyderabad,Online,Hardware,10,4527.41,1157.92,3369.49
+INV000388,2023-09-26,CL0141,Silver,Technology,Hyderabad,Partner,Hardware,11,7386.99,5706.07,1680.92
+INV000389,2024-10-17,CL0026,Gold,Retail,Mumbai,Direct Sales,Hardware,11,11678.64,5820.88,5857.76
+INV000390,2023-12-06,CL0186,Bronze,Technology,Bangalore,Online,Services,9,3108.51,1182.74,1925.77
+INV000391,2024-06-13,CL0095,Platinum,Finance,Pune,Online,Subscription,5,5669.92,4922.24,747.68
+INV000392,2023-04-14,CL0244,Gold,Finance,Delhi,Online,Hardware,20,23981.28,3563.11,20418.17
+INV000393,2023-01-07,CL0066,Bronze,Finance,Pune,Direct Sales,Services,14,5654.2,950.69,4703.51
+INV000394,2023-03-25,CL0152,Platinum,Retail,Delhi,Partner,Services,15,11543.6,4817.93,6725.67
+INV000395,2023-07-18,CL0050,Bronze,Technology,Pune,Direct Sales,Software,12,6831.07,1368.12,5462.95
+INV000396,2024-01-22,CL0135,Gold,Healthcare,Delhi,Online,Hardware,3,3885.48,2841.53,1043.95
+INV000397,2024-01-24,CL0231,Gold,Technology,Bangalore,Partner,Services,11,24661.48,10466.86,14194.62
+INV000398,2024-04-24,CL0197,Silver,Retail,Chennai,Online,Subscription,7,20976.08,4808.94,16167.14
+INV000399,2024-06-28,CL0086,Bronze,Technology,Hyderabad,Direct Sales,Software,7,3020.46,2172.58,847.88
+INV000400,2023-11-27,CL0067,Bronze,Retail,Bangalore,Online,Hardware,9,18204.86,9466.89,8737.97
+INV000401,2025-10-10,CL0130,Gold,Healthcare,Pune,Direct Sales,Hardware,17,881.11,280.96,600.15
+INV000402,2024-10-07,CL0235,Platinum,Technology,Pune,Partner,Hardware,15,2096.46,477.79,1618.67
+INV000403,2023-11-23,CL0184,Gold,Manufacturing,Chennai,Direct Sales,Services,13,9480.87,4604.71,4876.16
+INV000404,2025-08-02,CL0181,Bronze,Retail,Hyderabad,Online,Subscription,10,23334.37,8128.17,15206.2
+INV000405,2024-08-14,CL0009,Silver,Technology,Hyderabad,Direct Sales,Hardware,17,3307.08,549.12,2757.96
+INV000406,2024-11-20,CL0063,Bronze,Technology,Delhi,Partner,Software,6,19819.59,8208.1,11611.49
+INV000407,2024-01-01,CL0114,Platinum,Healthcare,Pune,Partner,Hardware,5,14025.64,9424.37,4601.27
+INV000408,2024-07-15,CL0211,Bronze,Healthcare,Hyderabad,Partner,Subscription,17,7811.07,4086.23,3724.84
+INV000409,2024-09-15,CL0222,Gold,Retail,Mumbai,Partner,Subscription,2,19540.61,11682.51,7858.1
+INV000410,2024-10-17,CL0243,Silver,Retail,Mumbai,Direct Sales,Hardware,7,19902.13,9244.71,10657.42
+INV000411,2025-05-10,CL0099,Platinum,Healthcare,Bangalore,Online,Hardware,10,13840.32,1259.38,12580.94
+INV000412,2024-07-31,CL0106,Silver,Retail,Bangalore,Direct Sales,Software,14,20682.57,4261.21,16421.36
+INV000413,2025-11-10,CL0192,Platinum,Healthcare,Hyderabad,Partner,Services,20,4541.27,3848.93,692.34
+INV000414,2023-09-21,CL0181,Gold,Finance,Mumbai,Direct Sales,Subscription,9,24733.57,8628.44,16105.13
+INV000415,2023-05-09,CL0090,Gold,Technology,Pune,Online,Services,18,19195.37,284.31,18911.06
+INV000416,2024-02-03,CL0199,Bronze,Manufacturing,Delhi,Direct Sales,Software,11,6678.27,2257.17,4421.1
+INV000417,2025-01-22,CL0137,Silver,Retail,Hyderabad,Partner,Services,12,14017.29,11867.94,2149.35
+INV000418,2024-02-10,CL0116,Gold,Manufacturing,Pune,Direct Sales,Services,20,18168.32,7096.03,11072.29
+INV000419,2023-07-30,CL0070,Silver,Manufacturing,Pune,Direct Sales,Hardware,7,18407.66,454.55,17953.11
+INV000420,2023-11-09,CL0247,Silver,Manufacturing,Chennai,Direct Sales,Services,18,7560.22,2703.95,4856.27
+INV000421,2025-09-15,CL0075,Silver,Technology,Hyderabad,Partner,Subscription,18,18438.87,1223.05,17215.82
+INV000422,2024-04-01,CL0211,Silver,Technology,Hyderabad,Online,Hardware,11,22683.58,14024.48,8659.1
+INV000423,2023-01-05,CL0030,Gold,Finance,Mumbai,Direct Sales,Services,7,4369.72,378.71,3991.01
+INV000424,2025-09-28,CL0201,Gold,Healthcare,Chennai,Online,Services,9,3563.94,1552.6,2011.34
+INV000425,2025-03-29,CL0149,Silver,Healthcare,Chennai,Online,Software,11,9111.15,7282.88,1828.27
+INV000426,2023-11-17,CL0083,Silver,Healthcare,Mumbai,Online,Hardware,11,11230.45,2966.13,8264.32
+INV000427,2025-07-11,CL0070,Bronze,Technology,Bangalore,Partner,Software,7,18212.27,8859.7,9352.57
+INV000428,2025-04-27,CL0096,Silver,Finance,Bangalore,Partner,Services,8,11151.98,325.9,10826.08
+INV000429,2024-08-09,CL0110,Gold,Retail,Chennai,Partner,Subscription,15,16958.84,2865.49,14093.35
+INV000430,2023-10-15,CL0234,Bronze,Retail,Chennai,Direct Sales,Subscription,9,17940.09,3529.65,14410.44
+INV000431,2023-08-01,CL0104,Bronze,Healthcare,Hyderabad,Online,Software,11,2618.28,1343.32,1274.96
+INV000432,2024-10-31,CL0039,Gold,Retail,Pune,Direct Sales,Software,20,4055.13,648.77,3406.36
+INV000433,2023-02-02,CL0060,Gold,Healthcare,Hyderabad,Online,Software,6,13122.86,11012.32,2110.54
+INV000434,2025-05-27,CL0161,Bronze,Finance,Chennai,Direct Sales,Hardware,18,4995.34,2286.08,2709.26
+INV000435,2024-08-08,CL0081,Silver,Manufacturing,Bangalore,Online,Software,1,20205.87,3175.91,17029.96
+INV000436,2024-01-19,CL0174,Gold,Finance,Chennai,Partner,Software,10,23579.5,9074.45,14505.05
+INV000437,2023-04-17,CL0079,Silver,Finance,Pune,Partner,Software,20,20368.74,8304.31,12064.43
+INV000438,2024-03-13,CL0101,Bronze,Finance,Delhi,Partner,Services,20,8960.2,2182.4,6777.8
+INV000439,2025-09-11,CL0241,Gold,Healthcare,Delhi,Direct Sales,Services,3,7003.68,5825.12,1178.56
+INV000440,2025-10-07,CL0050,Silver,Technology,Delhi,Partner,Hardware,5,17552.42,4077.17,13475.25
+INV000441,2024-05-07,CL0072,Gold,Healthcare,Chennai,Direct Sales,Software,8,902.18,715.52,186.66
+INV000442,2025-11-21,CL0062,Silver,Finance,Pune,Direct Sales,Subscription,14,5454.08,2398.78,3055.3
+INV000443,2024-01-23,CL0088,Silver,Healthcare,Delhi,Partner,Services,17,13475.1,3460.78,10014.32
+INV000444,2023-12-24,CL0121,Silver,Healthcare,Chennai,Online,Subscription,8,3941.07,2987.94,953.13
+INV000445,2024-11-23,CL0203,Platinum,Technology,Mumbai,Online,Software,12,16846.73,13957.07,2889.66
+INV000446,2023-07-28,CL0060,Platinum,Retail,Hyderabad,Online,Services,6,19280.77,3466.97,15813.8
+INV000447,2024-08-14,CL0094,Silver,Retail,Pune,Direct Sales,Services,3,5965.07,974.44,4990.63
+INV000448,2025-12-07,CL0093,Platinum,Healthcare,Hyderabad,Online,Hardware,12,3280.51,408.72,2871.79
+INV000449,2023-07-24,CL0136,Silver,Finance,Mumbai,Direct Sales,Subscription,14,15939.26,8736.35,7202.91
+INV000450,2025-07-29,CL0207,Platinum,Retail,Bangalore,Direct Sales,Software,15,9201.2,2208.88,6992.32
+INV000451,2024-10-04,CL0137,Platinum,Healthcare,Hyderabad,Direct Sales,Software,11,3668.59,2993.51,675.08
+INV000452,2024-11-04,CL0240,Silver,Technology,Chennai,Partner,Subscription,7,23022.87,13066.71,9956.16
+INV000453,2025-04-15,CL0037,Gold,Manufacturing,Hyderabad,Direct Sales,Hardware,6,8169.14,2685.5,5483.64
+INV000454,2025-08-26,CL0135,Platinum,Healthcare,Hyderabad,Online,Software,8,9632.94,8452.2,1180.74
+INV000455,2024-10-16,CL0146,Silver,Technology,Mumbai,Partner,Software,15,15120.48,4065.12,11055.36
+INV000456,2024-09-23,CL0242,Platinum,Retail,Pune,Online,Services,12,17665.65,9259.41,8406.24
+INV000457,2025-03-30,CL0250,Gold,Retail,Hyderabad,Direct Sales,Hardware,11,13078.41,5216.94,7861.47
+INV000458,2025-09-11,CL0064,Bronze,Finance,Chennai,Partner,Hardware,9,8181.62,3892.74,4288.88
+INV000459,2025-01-03,CL0050,Bronze,Manufacturing,Delhi,Direct Sales,Hardware,5,19989.29,12026.52,7962.77
+INV000460,2024-01-30,CL0132,Gold,Retail,Bangalore,Direct Sales,Services,1,23242.23,4263.08,18979.15
+INV000461,2024-12-19,CL0223,Bronze,Technology,Hyderabad,Online,Hardware,11,9249.86,4327.42,4922.44
+INV000462,2023-04-07,CL0170,Bronze,Retail,Hyderabad,Online,Services,6,22298.93,9595.91,12703.02
+INV000463,2025-01-08,CL0087,Gold,Healthcare,Mumbai,Direct Sales,Subscription,3,11933.8,5172.35,6761.45
+INV000464,2025-02-11,CL0096,Bronze,Retail,Chennai,Partner,Subscription,2,19093.13,11781.9,7311.23
+INV000465,2023-11-18,CL0183,Silver,Retail,Delhi,Partner,Hardware,16,7477.82,2175.82,5302.0
+INV000466,2025-05-26,CL0210,Gold,Technology,Mumbai,Partner,Services,3,8954.26,2484.78,6469.48
+INV000467,2025-07-15,CL0222,Bronze,Healthcare,Hyderabad,Direct Sales,Services,4,6657.0,1581.62,5075.38
+INV000468,2023-06-04,CL0016,Bronze,Healthcare,Delhi,Partner,Services,16,20371.76,4528.74,15843.02
+INV000469,2025-02-13,CL0229,Gold,Healthcare,Hyderabad,Online,Software,13,16878.19,3985.23,12892.96
+INV000470,2025-08-18,CL0110,Platinum,Healthcare,Bangalore,Online,Services,5,3604.09,1519.17,2084.92
+INV000471,2024-10-03,CL0129,Gold,Healthcare,Hyderabad,Online,Software,14,21136.14,9048.36,12087.78
+INV000472,2024-07-27,CL0182,Gold,Technology,Mumbai,Online,Hardware,16,23115.49,12537.19,10578.3
+INV000473,2025-01-05,CL0136,Bronze,Technology,Mumbai,Partner,Services,15,21952.87,12271.25,9681.62
+INV000474,2023-01-27,CL0020,Gold,Manufacturing,Pune,Direct Sales,Software,17,16158.04,2420.11,13737.93
+INV000475,2025-06-26,CL0196,Gold,Finance,Bangalore,Online,Hardware,20,1837.38,1449.16,388.22
+INV000476,2023-10-22,CL0036,Platinum,Finance,Delhi,Online,Software,12,16386.07,12653.33,3732.74
+INV000477,2025-06-30,CL0039,Platinum,Manufacturing,Bangalore,Partner,Hardware,9,17907.94,2126.71,15781.23
+INV000478,2024-03-06,CL0122,Platinum,Retail,Chennai,Partner,Software,7,5581.56,4083.13,1498.43
+INV000479,2023-10-23,CL0060,Bronze,Technology,Pune,Online,Services,7,6766.19,2591.13,4175.06
+INV000480,2023-02-28,CL0015,Gold,Retail,Pune,Online,Hardware,20,12388.19,3002.5,9385.69
+INV000481,2023-04-04,CL0042,Bronze,Healthcare,Pune,Direct Sales,Subscription,12,10627.3,7028.26,3599.04
+INV000482,2025-07-12,CL0120,Platinum,Technology,Bangalore,Direct Sales,Services,10,15027.17,3639.26,11387.91
+INV000483,2024-05-08,CL0132,Gold,Technology,Hyderabad,Partner,Hardware,11,7120.36,854.89,6265.47
+INV000484,2023-07-25,CL0029,Gold,Finance,Bangalore,Online,Hardware,19,1184.68,358.82,825.86
+INV000485,2025-09-05,CL0218,Silver,Manufacturing,Chennai,Direct Sales,Services,1,9125.68,1649.67,7476.01
+INV000486,2025-02-15,CL0090,Gold,Finance,Chennai,Direct Sales,Software,19,16127.42,4810.62,11316.8
+INV000487,2023-07-04,CL0038,Bronze,Manufacturing,Mumbai,Online,Services,14,13077.2,4001.44,9075.76
+INV000488,2024-04-17,CL0195,Bronze,Retail,Chennai,Online,Software,16,11025.23,4891.87,6133.36
+INV000489,2025-12-23,CL0109,Gold,Manufacturing,Hyderabad,Online,Hardware,1,13288.35,1259.35,12029.0
+INV000490,2023-05-25,CL0236,Gold,Healthcare,Delhi,Direct Sales,Hardware,19,8786.9,5144.63,3642.27
+INV000491,2023-05-10,CL0100,Bronze,Healthcare,Delhi,Direct Sales,Hardware,10,2353.06,831.96,1521.1
+INV000492,2024-11-21,CL0194,Silver,Manufacturing,Bangalore,Direct Sales,Subscription,4,15058.53,6726.94,8331.59
+INV000493,2025-12-22,CL0149,Silver,Healthcare,Pune,Direct Sales,Hardware,14,19754.84,13123.24,6631.6
+INV000494,2023-10-15,CL0010,Gold,Manufacturing,Bangalore,Online,Services,15,13344.35,10838.09,2506.26
+INV000495,2024-05-02,CL0157,Silver,Technology,Bangalore,Online,Subscription,17,14519.29,11332.08,3187.21
+INV000496,2024-02-25,CL0067,Silver,Finance,Chennai,Direct Sales,Software,1,10506.79,2284.96,8221.83
+INV000497,2025-08-01,CL0189,Gold,Healthcare,Mumbai,Partner,Hardware,1,24699.62,10216.49,14483.13
+INV000498,2024-08-13,CL0028,Gold,Manufacturing,Pune,Partner,Software,19,13272.45,10169.14,3103.31
+INV000499,2023-05-08,CL0176,Platinum,Finance,Bangalore,Direct Sales,Subscription,3,5120.76,3830.4,1290.36
+INV000500,2024-07-23,CL0222,Bronze,Technology,Hyderabad,Partner,Hardware,12,5585.0,3388.92,2196.08
+INV000501,2023-05-04,CL0230,Bronze,Retail,Pune,Partner,Software,11,12173.13,10077.41,2095.72
+INV000502,2024-11-15,CL0230,Platinum,Healthcare,Mumbai,Online,Software,6,22358.02,12366.64,9991.38
+INV000503,2023-05-14,CL0146,Gold,Finance,Delhi,Partner,Services,2,24747.22,3280.07,21467.15
+INV000504,2024-10-14,CL0226,Platinum,Technology,Bangalore,Direct Sales,Services,16,5602.67,589.3,5013.37
+INV000505,2023-10-09,CL0171,Silver,Finance,Bangalore,Direct Sales,Software,1,23313.07,13907.28,9405.79
+INV000506,2025-03-27,CL0207,Gold,Manufacturing,Chennai,Online,Subscription,6,2753.03,552.28,2200.75
+INV000507,2023-12-08,CL0200,Bronze,Manufacturing,Hyderabad,Partner,Services,12,3799.0,414.18,3384.82
+INV000508,2023-05-05,CL0054,Gold,Healthcare,Delhi,Online,Services,12,5893.28,2414.51,3478.77
+INV000509,2024-02-02,CL0100,Bronze,Technology,Hyderabad,Direct Sales,Hardware,6,2776.73,1056.34,1720.39
+INV000510,2025-08-17,CL0127,Gold,Technology,Chennai,Partner,Services,8,3462.75,1624.07,1838.68
+INV000511,2024-09-27,CL0237,Bronze,Technology,Mumbai,Direct Sales,Software,8,5726.01,4015.25,1710.76
+INV000512,2023-11-26,CL0080,Silver,Healthcare,Hyderabad,Online,Services,16,9603.88,5201.3,4402.58
+INV000513,2025-01-06,CL0154,Bronze,Healthcare,Hyderabad,Direct Sales,Services,8,16997.74,6198.91,10798.83
+INV000514,2023-03-13,CL0102,Silver,Finance,Pune,Direct Sales,Subscription,14,4326.59,2163.03,2163.56
+INV000515,2024-12-18,CL0249,Platinum,Retail,Hyderabad,Direct Sales,Services,11,22502.58,5278.65,17223.93
+INV000516,2024-11-10,CL0224,Platinum,Healthcare,Delhi,Online,Hardware,14,17461.58,9517.13,7944.45
+INV000517,2023-02-12,CL0136,Silver,Finance,Hyderabad,Direct Sales,Hardware,12,1149.28,430.5,718.78
+INV000518,2023-09-27,CL0074,Platinum,Finance,Pune,Direct Sales,Hardware,6,866.85,340.24,526.61
+INV000519,2025-05-01,CL0150,Gold,Healthcare,Delhi,Direct Sales,Subscription,15,22295.44,10555.4,11740.04
+INV000520,2023-07-29,CL0004,Platinum,Finance,Chennai,Partner,Subscription,8,13614.42,600.85,13013.57
+INV000521,2023-11-26,CL0009,Bronze,Retail,Hyderabad,Online,Software,15,6800.24,3062.67,3737.57
+INV000522,2024-12-03,CL0057,Platinum,Technology,Pune,Partner,Software,12,11072.94,4992.49,6080.45
+INV000523,2025-08-11,CL0075,Silver,Healthcare,Mumbai,Online,Services,18,5911.23,2444.1,3467.13
+INV000524,2025-06-13,CL0214,Bronze,Technology,Delhi,Online,Hardware,1,9290.71,379.71,8911.0
+INV000525,2023-03-03,CL0049,Platinum,Manufacturing,Mumbai,Direct Sales,Services,4,4311.37,3228.74,1082.63
+INV000526,2025-09-07,CL0117,Platinum,Finance,Hyderabad,Direct Sales,Hardware,2,18676.25,14875.7,3800.55
+INV000527,2025-03-07,CL0026,Gold,Healthcare,Delhi,Partner,Subscription,8,12807.3,11177.82,1629.48
+INV000528,2024-10-17,CL0028,Silver,Manufacturing,Chennai,Online,Software,9,2608.09,1411.54,1196.55
+INV000529,2023-08-03,CL0154,Gold,Finance,Chennai,Direct Sales,Hardware,5,22861.59,7838.93,15022.66
+INV000530,2025-07-21,CL0215,Platinum,Manufacturing,Hyderabad,Partner,Subscription,3,20802.88,5324.44,15478.44
+INV000531,2024-08-31,CL0108,Bronze,Manufacturing,Hyderabad,Online,Software,9,2378.45,1269.65,1108.8
+INV000532,2024-06-11,CL0116,Platinum,Manufacturing,Bangalore,Partner,Software,16,11734.18,2795.34,8938.84
+INV000533,2024-12-08,CL0136,Silver,Healthcare,Delhi,Online,Hardware,11,2211.96,684.64,1527.32
+INV000534,2025-11-25,CL0117,Platinum,Technology,Pune,Direct Sales,Hardware,18,24474.97,14733.12,9741.85
+INV000535,2024-01-16,CL0171,Gold,Technology,Hyderabad,Online,Services,20,12092.65,10511.2,1581.45
+INV000536,2023-05-13,CL0173,Platinum,Retail,Delhi,Partner,Subscription,5,9888.17,1731.81,8156.36
+INV000537,2024-04-04,CL0179,Silver,Finance,Mumbai,Partner,Software,20,13918.59,8471.24,5447.35
+INV000538,2025-06-23,CL0152,Gold,Retail,Hyderabad,Online,Software,20,20612.45,13943.29,6669.16
+INV000539,2024-07-23,CL0066,Bronze,Technology,Pune,Online,Hardware,16,10041.6,3302.22,6739.38
+INV000540,2024-05-29,CL0131,Gold,Technology,Hyderabad,Direct Sales,Software,1,6760.5,3127.42,3633.08
+INV000541,2025-06-18,CL0210,Platinum,Healthcare,Mumbai,Online,Services,7,6195.34,3872.52,2322.82
+INV000542,2023-02-28,CL0165,Silver,Healthcare,Pune,Online,Hardware,18,23858.93,3511.3,20347.63
+INV000543,2024-04-23,CL0121,Silver,Retail,Delhi,Partner,Subscription,3,23612.23,3783.9,19828.33
+INV000544,2023-08-20,CL0184,Bronze,Retail,Mumbai,Direct Sales,Subscription,7,13108.58,11123.73,1984.85
+INV000545,2023-02-02,CL0142,Silver,Manufacturing,Hyderabad,Partner,Hardware,19,19482.57,11266.13,8216.44
+INV000546,2023-02-08,CL0201,Gold,Technology,Pune,Partner,Hardware,3,24163.8,11661.86,12501.94
+INV000547,2025-07-23,CL0087,Gold,Retail,Bangalore,Online,Software,2,3634.21,1739.96,1894.25
+INV000548,2024-06-02,CL0166,Bronze,Retail,Pune,Partner,Services,11,11514.24,9060.84,2453.4
+INV000549,2025-09-29,CL0124,Silver,Technology,Delhi,Online,Services,8,22806.65,12219.71,10586.94
+INV000550,2023-03-18,CL0059,Bronze,Healthcare,Bangalore,Online,Hardware,11,22253.2,10023.66,12229.54
+INV000551,2024-09-16,CL0087,Bronze,Healthcare,Chennai,Partner,Software,19,11827.19,2577.8,9249.39
+INV000552,2023-05-17,CL0138,Platinum,Finance,Mumbai,Partner,Subscription,12,16448.41,6666.03,9782.38
+INV000553,2025-09-27,CL0156,Platinum,Finance,Pune,Partner,Hardware,14,11286.71,4452.81,6833.9
+INV000554,2024-11-02,CL0100,Silver,Technology,Bangalore,Partner,Software,1,7118.0,3572.35,3545.65
+INV000555,2025-06-03,CL0174,Bronze,Healthcare,Bangalore,Online,Software,13,10199.67,6800.67,3399.0
+INV000556,2025-08-23,CL0074,Gold,Technology,Chennai,Direct Sales,Services,6,24031.59,14663.0,9368.59
+INV000557,2023-06-06,CL0116,Gold,Healthcare,Pune,Partner,Services,15,14157.3,10441.39,3715.91
+INV000558,2024-05-14,CL0019,Silver,Manufacturing,Mumbai,Direct Sales,Subscription,12,22205.1,14577.26,7627.84
+INV000559,2024-01-29,CL0002,Bronze,Finance,Pune,Partner,Software,13,12346.77,8155.58,4191.19
+INV000560,2025-12-12,CL0149,Bronze,Technology,Bangalore,Direct Sales,Subscription,1,7284.53,6454.78,829.75
+INV000561,2025-02-07,CL0075,Silver,Finance,Chennai,Direct Sales,Subscription,3,918.85,737.04,181.81
+INV000562,2025-12-21,CL0137,Platinum,Finance,Mumbai,Direct Sales,Subscription,2,7493.38,2832.11,4661.27
+INV000563,2025-09-12,CL0026,Silver,Healthcare,Pune,Online,Subscription,19,11153.93,1677.83,9476.1
+INV000564,2024-05-28,CL0075,Platinum,Retail,Hyderabad,Online,Subscription,16,11262.71,4536.86,6725.85
+INV000565,2024-08-01,CL0038,Platinum,Manufacturing,Delhi,Direct Sales,Services,6,10470.69,9224.31,1246.38
+INV000566,2024-10-27,CL0210,Bronze,Technology,Hyderabad,Direct Sales,Services,14,4048.99,2654.55,1394.44
+INV000567,2024-11-09,CL0041,Platinum,Retail,Delhi,Direct Sales,Services,20,18943.57,13021.53,5922.04
+INV000568,2023-06-16,CL0049,Silver,Manufacturing,Bangalore,Direct Sales,Software,1,16002.92,5173.75,10829.17
+INV000569,2025-04-21,CL0107,Gold,Retail,Mumbai,Direct Sales,Hardware,2,17074.99,14664.82,2410.17
+INV000570,2024-12-02,CL0117,Platinum,Healthcare,Hyderabad,Online,Hardware,4,13230.56,6227.48,7003.08
+INV000571,2025-03-07,CL0147,Silver,Technology,Pune,Partner,Software,18,5584.99,3318.05,2266.94
+INV000572,2023-05-22,CL0196,Platinum,Retail,Mumbai,Partner,Hardware,17,9824.66,1315.54,8509.12
+INV000573,2024-10-04,CL0117,Gold,Healthcare,Chennai,Direct Sales,Software,20,13255.08,6737.01,6518.07
+INV000574,2023-02-16,CL0203,Gold,Finance,Hyderabad,Direct Sales,Services,18,22824.17,10389.35,12434.82
+INV000575,2024-07-05,CL0002,Silver,Retail,Delhi,Direct Sales,Hardware,17,7557.4,1779.25,5778.15
+INV000576,2023-08-31,CL0018,Gold,Technology,Mumbai,Direct Sales,Services,11,14976.03,12871.47,2104.56
+INV000577,2024-01-23,CL0003,Platinum,Retail,Hyderabad,Partner,Services,3,11888.8,7815.84,4072.96
+INV000578,2023-05-20,CL0222,Gold,Retail,Pune,Online,Subscription,16,13468.95,6968.86,6500.09
+INV000579,2025-08-22,CL0127,Bronze,Healthcare,Hyderabad,Partner,Services,2,5503.01,2804.32,2698.69
+INV000580,2024-09-26,CL0115,Platinum,Healthcare,Hyderabad,Partner,Services,11,20887.53,1290.21,19597.32
+INV000581,2024-03-02,CL0020,Platinum,Healthcare,Mumbai,Partner,Services,19,22458.85,11459.51,10999.34
+INV000582,2025-12-06,CL0079,Silver,Finance,Mumbai,Online,Hardware,3,17426.22,14538.24,2887.98
+INV000583,2023-05-01,CL0234,Bronze,Retail,Chennai,Partner,Software,8,16538.45,14352.6,2185.85
+INV000584,2023-06-23,CL0182,Silver,Finance,Mumbai,Online,Hardware,16,22702.86,5651.3,17051.56
+INV000585,2024-03-11,CL0112,Gold,Healthcare,Bangalore,Direct Sales,Subscription,18,24390.4,6625.12,17765.28
+INV000586,2025-08-27,CL0225,Bronze,Technology,Delhi,Online,Software,15,10784.54,8887.95,1896.59
+INV000587,2023-10-06,CL0099,Gold,Manufacturing,Pune,Partner,Hardware,3,21901.21,13963.75,7937.46
+INV000588,2024-04-21,CL0002,Platinum,Finance,Mumbai,Partner,Services,16,17973.88,10582.76,7391.12
+INV000589,2024-05-09,CL0076,Bronze,Manufacturing,Bangalore,Direct Sales,Subscription,3,5438.83,1013.26,4425.57
+INV000590,2025-05-13,CL0215,Platinum,Finance,Delhi,Partner,Software,7,2070.32,1528.49,541.83
+INV000591,2023-03-16,CL0249,Platinum,Technology,Chennai,Partner,Subscription,13,12177.01,7249.05,4927.96
+INV000592,2025-07-04,CL0001,Bronze,Finance,Mumbai,Online,Hardware,3,3011.59,961.07,2050.52
+INV000593,2023-05-04,CL0095,Bronze,Manufacturing,Pune,Partner,Software,11,19422.98,9312.13,10110.85
+INV000594,2025-08-08,CL0176,Gold,Technology,Delhi,Online,Services,12,23991.79,8080.31,15911.48
+INV000595,2024-01-03,CL0212,Platinum,Finance,Mumbai,Online,Software,14,22498.0,11390.58,11107.42
+INV000596,2025-09-07,CL0210,Silver,Retail,Delhi,Direct Sales,Subscription,12,8627.94,2165.04,6462.9
+INV000597,2023-09-16,CL0204,Platinum,Healthcare,Delhi,Partner,Hardware,2,3110.35,2221.23,889.12
+INV000598,2024-03-26,CL0055,Gold,Retail,Hyderabad,Online,Subscription,10,23231.59,10651.58,12580.01
+INV000599,2025-09-30,CL0214,Platinum,Technology,Chennai,Direct Sales,Software,12,16877.57,12585.92,4291.65
+INV000600,2025-09-09,CL0142,Silver,Retail,Chennai,Online,Hardware,6,11096.22,8047.9,3048.32
+INV000601,2024-04-02,CL0158,Silver,Technology,Delhi,Partner,Subscription,18,8283.29,1423.77,6859.52
+INV000602,2024-03-21,CL0243,Platinum,Manufacturing,Bangalore,Direct Sales,Services,13,4582.85,3540.32,1042.53
+INV000603,2025-09-23,CL0134,Platinum,Finance,Mumbai,Partner,Software,14,21263.79,5232.72,16031.07
+INV000604,2025-06-11,CL0121,Platinum,Retail,Mumbai,Direct Sales,Services,19,16746.18,12698.9,4047.28
+INV000605,2024-11-07,CL0222,Platinum,Finance,Mumbai,Partner,Services,2,13467.98,6876.02,6591.96
+INV000606,2023-07-26,CL0139,Gold,Healthcare,Pune,Online,Subscription,10,9774.39,8772.78,1001.61
+INV000607,2024-01-14,CL0070,Gold,Healthcare,Delhi,Partner,Hardware,12,2225.9,1024.92,1200.98
+INV000608,2023-08-08,CL0128,Gold,Technology,Delhi,Partner,Software,4,16636.5,1487.72,15148.78
+INV000609,2023-03-07,CL0133,Silver,Technology,Pune,Partner,Services,15,6238.81,3643.05,2595.76
+INV000610,2024-12-20,CL0177,Bronze,Manufacturing,Chennai,Direct Sales,Hardware,4,8874.04,4714.42,4159.62
+INV000611,2025-03-21,CL0087,Silver,Finance,Bangalore,Online,Subscription,17,2755.66,1299.69,1455.97
+INV000612,2025-04-25,CL0104,Bronze,Healthcare,Bangalore,Partner,Software,3,10772.85,9068.23,1704.62
+INV000613,2023-09-23,CL0223,Bronze,Technology,Delhi,Online,Subscription,13,1586.02,1376.85,209.17
+INV000614,2024-11-30,CL0214,Platinum,Manufacturing,Mumbai,Online,Hardware,16,4632.57,1155.62,3476.95
+INV000615,2024-11-14,CL0131,Gold,Healthcare,Chennai,Direct Sales,Hardware,10,22390.74,12937.02,9453.72
+INV000616,2023-05-13,CL0098,Gold,Healthcare,Bangalore,Partner,Subscription,3,20897.81,9459.25,11438.56
+INV000617,2024-12-25,CL0249,Bronze,Retail,Pune,Online,Subscription,1,16374.96,7945.77,8429.19
+INV000618,2024-01-02,CL0017,Silver,Technology,Bangalore,Partner,Hardware,7,18868.32,5243.53,13624.79
+INV000619,2025-05-27,CL0242,Silver,Retail,Chennai,Partner,Software,15,21957.16,11362.88,10594.28
+INV000620,2024-11-29,CL0183,Bronze,Retail,Hyderabad,Partner,Hardware,3,18532.18,3620.12,14912.06
+INV000621,2024-04-08,CL0210,Silver,Retail,Pune,Partner,Services,19,3596.09,707.16,2888.93
+INV000622,2024-05-06,CL0183,Gold,Healthcare,Pune,Online,Services,3,13061.18,2016.75,11044.43
+INV000623,2024-04-12,CL0034,Bronze,Retail,Chennai,Partner,Hardware,11,22558.99,8833.38,13725.61
+INV000624,2025-04-19,CL0246,Silver,Healthcare,Hyderabad,Partner,Services,13,18322.69,1211.36,17111.33
+INV000625,2023-10-22,CL0082,Platinum,Retail,Pune,Online,Hardware,6,20544.21,2308.61,18235.6
+INV000626,2023-01-03,CL0183,Gold,Retail,Pune,Direct Sales,Hardware,2,14321.01,8765.34,5555.67
+INV000627,2023-04-03,CL0125,Silver,Technology,Mumbai,Online,Subscription,19,5702.99,4429.62,1273.37
+INV000628,2025-10-12,CL0128,Gold,Manufacturing,Delhi,Online,Software,19,6940.33,3121.8,3818.53
+INV000629,2023-09-29,CL0213,Bronze,Finance,Pune,Online,Software,14,19815.19,14039.59,5775.6
+INV000630,2023-01-23,CL0154,Platinum,Retail,Chennai,Direct Sales,Hardware,7,10620.68,6304.78,4315.9
+INV000631,2024-09-08,CL0224,Gold,Healthcare,Hyderabad,Online,Software,9,16630.64,7055.34,9575.3
+INV000632,2023-02-16,CL0134,Gold,Retail,Delhi,Partner,Services,13,22125.03,1902.77,20222.26
+INV000633,2024-04-12,CL0207,Gold,Retail,Hyderabad,Online,Subscription,2,7062.31,2418.4,4643.91
+INV000634,2023-06-12,CL0144,Platinum,Technology,Pune,Direct Sales,Subscription,8,10325.29,556.29,9769.0
+INV000635,2023-03-27,CL0152,Bronze,Retail,Hyderabad,Online,Hardware,19,16848.12,570.3,16277.82
+INV000636,2024-01-20,CL0116,Gold,Retail,Mumbai,Direct Sales,Hardware,7,10729.47,1984.84,8744.63
+INV000637,2025-05-08,CL0048,Gold,Technology,Delhi,Direct Sales,Subscription,4,22628.29,6706.5,15921.79
+INV000638,2025-08-31,CL0091,Platinum,Healthcare,Mumbai,Partner,Subscription,4,14495.86,8432.09,6063.77
+INV000639,2023-02-04,CL0014,Gold,Finance,Pune,Online,Hardware,9,22413.24,10480.38,11932.86
+INV000640,2024-12-04,CL0109,Bronze,Technology,Mumbai,Online,Services,8,21648.64,1409.51,20239.13
+INV000641,2024-09-08,CL0111,Gold,Healthcare,Chennai,Partner,Software,15,1027.05,263.21,763.84
+INV000642,2023-05-03,CL0231,Bronze,Manufacturing,Hyderabad,Online,Hardware,16,6270.2,3021.06,3249.14
+INV000643,2025-09-15,CL0034,Bronze,Manufacturing,Chennai,Direct Sales,Software,4,14238.8,9268.92,4969.88
+INV000644,2025-01-22,CL0045,Platinum,Technology,Mumbai,Online,Hardware,9,20362.17,1758.58,18603.59
+INV000645,2024-11-11,CL0002,Bronze,Finance,Bangalore,Online,Software,4,14925.41,6392.3,8533.11
+INV000646,2023-08-25,CL0180,Silver,Manufacturing,Chennai,Online,Services,10,21267.8,3277.16,17990.64
+INV000647,2023-07-18,CL0021,Gold,Technology,Bangalore,Online,Hardware,12,7837.72,1151.28,6686.44
+INV000648,2025-07-20,CL0241,Silver,Retail,Bangalore,Online,Software,13,10235.28,7783.24,2452.04
+INV000649,2023-02-13,CL0098,Bronze,Retail,Delhi,Partner,Software,3,19111.24,7947.46,11163.78
+INV000650,2024-08-25,CL0093,Platinum,Healthcare,Bangalore,Online,Software,11,4704.0,3882.84,821.16
+INV000651,2023-01-23,CL0064,Silver,Finance,Mumbai,Partner,Software,7,14967.62,1883.04,13084.58
+INV000652,2024-05-26,CL0034,Bronze,Manufacturing,Mumbai,Partner,Services,17,19218.02,11559.11,7658.91
+INV000653,2025-07-24,CL0048,Bronze,Finance,Delhi,Direct Sales,Software,18,20412.82,2866.77,17546.05
+INV000654,2024-05-26,CL0012,Bronze,Retail,Chennai,Partner,Subscription,2,24435.11,10554.52,13880.59
+INV000655,2023-07-15,CL0001,Silver,Technology,Bangalore,Direct Sales,Software,3,15978.58,10340.77,5637.81
+INV000656,2024-03-26,CL0236,Platinum,Manufacturing,Bangalore,Direct Sales,Subscription,9,16314.57,7748.14,8566.43
+INV000657,2023-11-15,CL0117,Silver,Finance,Hyderabad,Direct Sales,Services,3,17155.53,14764.1,2391.43
+INV000658,2025-11-27,CL0110,Gold,Technology,Hyderabad,Online,Hardware,18,13454.21,6956.33,6497.88
+INV000659,2023-09-23,CL0227,Gold,Retail,Chennai,Online,Hardware,1,13268.55,9451.16,3817.39
+INV000660,2025-08-28,CL0110,Bronze,Healthcare,Chennai,Online,Services,12,13941.64,12408.57,1533.07
+INV000661,2025-03-29,CL0170,Silver,Finance,Delhi,Direct Sales,Services,5,11279.65,6403.25,4876.4
+INV000662,2023-03-26,CL0196,Bronze,Retail,Bangalore,Online,Hardware,1,20341.02,13311.5,7029.52
+INV000663,2024-05-08,CL0009,Gold,Retail,Chennai,Online,Hardware,19,21117.27,9422.76,11694.51
+INV000664,2025-06-15,CL0145,Platinum,Healthcare,Pune,Online,Services,19,6519.65,950.7,5568.95
+INV000665,2024-05-08,CL0059,Gold,Healthcare,Delhi,Partner,Software,3,16707.41,10222.39,6485.02
+INV000666,2023-09-04,CL0209,Gold,Healthcare,Chennai,Online,Hardware,8,8956.57,4613.98,4342.59
+INV000667,2025-07-21,CL0250,Bronze,Finance,Chennai,Partner,Software,8,788.58,599.75,188.83
+INV000668,2025-03-04,CL0041,Platinum,Technology,Bangalore,Partner,Subscription,5,21891.87,2799.56,19092.31
+INV000669,2025-03-31,CL0034,Silver,Healthcare,Hyderabad,Online,Services,15,14177.7,4476.17,9701.53
+INV000670,2025-05-12,CL0034,Gold,Retail,Chennai,Partner,Services,16,780.49,668.6,111.89
+INV000671,2023-03-27,CL0162,Platinum,Healthcare,Bangalore,Online,Services,14,7140.77,3229.14,3911.63
+INV000672,2024-10-06,CL0043,Gold,Finance,Mumbai,Online,Software,20,3705.3,2332.45,1372.85
+INV000673,2025-01-14,CL0248,Platinum,Retail,Chennai,Partner,Services,20,21299.21,3640.38,17658.83
+INV000674,2024-06-14,CL0227,Bronze,Retail,Pune,Direct Sales,Services,18,21762.73,13699.45,8063.28
+INV000675,2023-04-17,CL0107,Silver,Technology,Bangalore,Online,Hardware,18,11004.36,2063.41,8940.95
+INV000676,2025-04-03,CL0117,Bronze,Technology,Bangalore,Partner,Software,19,1854.67,492.39,1362.28
+INV000677,2025-10-04,CL0024,Silver,Manufacturing,Bangalore,Online,Services,19,9549.7,3654.43,5895.27
+INV000678,2025-02-19,CL0180,Silver,Retail,Delhi,Direct Sales,Hardware,3,14274.05,7186.87,7087.18
+INV000679,2023-11-18,CL0205,Bronze,Technology,Bangalore,Partner,Subscription,7,23745.73,4607.81,19137.92
+INV000680,2023-12-17,CL0237,Platinum,Manufacturing,Pune,Online,Subscription,7,16427.08,12882.61,3544.47
+INV000681,2024-09-09,CL0181,Gold,Manufacturing,Bangalore,Direct Sales,Subscription,2,16923.47,5909.73,11013.74
+INV000682,2025-07-08,CL0133,Silver,Technology,Bangalore,Direct Sales,Hardware,8,11755.29,3318.21,8437.08
+INV000683,2025-09-28,CL0153,Gold,Technology,Mumbai,Online,Subscription,2,5915.53,879.97,5035.56
+INV000684,2023-03-17,CL0243,Bronze,Technology,Hyderabad,Direct Sales,Services,5,13656.33,9287.94,4368.39
+INV000685,2024-10-19,CL0102,Bronze,Technology,Chennai,Direct Sales,Hardware,3,3258.71,623.88,2634.83
+INV000686,2025-08-03,CL0245,Gold,Manufacturing,Chennai,Partner,Services,14,24292.18,5171.23,19120.95
+INV000687,2025-11-07,CL0006,Bronze,Finance,Bangalore,Direct Sales,Software,20,14597.38,3286.22,11311.16
+INV000688,2025-02-04,CL0214,Platinum,Retail,Bangalore,Partner,Software,11,9631.32,2319.62,7311.7
+INV000689,2025-03-11,CL0161,Gold,Technology,Chennai,Online,Subscription,5,17930.82,10948.4,6982.42
+INV000690,2024-10-09,CL0011,Gold,Technology,Pune,Direct Sales,Services,16,8077.93,3812.25,4265.68
+INV000691,2024-12-15,CL0041,Silver,Retail,Chennai,Direct Sales,Services,11,19333.43,4484.18,14849.25
+INV000692,2023-10-25,CL0191,Bronze,Finance,Hyderabad,Partner,Services,18,5948.9,388.53,5560.37
+INV000693,2025-05-21,CL0111,Silver,Finance,Bangalore,Online,Software,7,6421.86,1161.42,5260.44
+INV000694,2024-02-16,CL0171,Gold,Manufacturing,Mumbai,Online,Subscription,7,16335.7,3160.32,13175.38
+INV000695,2025-10-17,CL0185,Gold,Manufacturing,Hyderabad,Partner,Services,20,15053.99,8608.5,6445.49
+INV000696,2023-11-24,CL0141,Silver,Finance,Bangalore,Direct Sales,Subscription,9,11238.13,9372.14,1865.99
+INV000697,2024-10-09,CL0236,Silver,Manufacturing,Delhi,Direct Sales,Subscription,1,20087.85,6825.46,13262.39
+INV000698,2025-01-25,CL0213,Platinum,Manufacturing,Hyderabad,Online,Software,19,4562.04,3060.51,1501.53
+INV000699,2023-09-04,CL0184,Gold,Finance,Delhi,Online,Software,16,10583.19,8040.16,2543.03
+INV000700,2024-02-21,CL0167,Silver,Manufacturing,Hyderabad,Partner,Software,19,18914.12,8302.19,10611.93
+INV000701,2023-10-04,CL0247,Platinum,Retail,Chennai,Direct Sales,Software,2,24207.6,8351.09,15856.51
+INV000702,2024-10-01,CL0159,Gold,Finance,Mumbai,Online,Hardware,4,20088.48,2709.85,17378.63
+INV000703,2025-06-26,CL0123,Silver,Finance,Chennai,Online,Subscription,16,20843.49,3713.87,17129.62
+INV000704,2024-03-12,CL0083,Silver,Healthcare,Chennai,Partner,Hardware,19,9957.42,7243.48,2713.94
+INV000705,2025-05-13,CL0026,Bronze,Manufacturing,Mumbai,Partner,Services,1,2703.0,1701.61,1001.39
+INV000706,2025-07-19,CL0199,Silver,Technology,Delhi,Direct Sales,Services,12,13923.22,11301.73,2621.49
+INV000707,2025-10-29,CL0071,Gold,Healthcare,Chennai,Partner,Hardware,20,11616.95,10454.27,1162.68
+INV000708,2023-04-28,CL0079,Platinum,Finance,Pune,Online,Software,5,5726.28,4020.27,1706.01
+INV000709,2025-07-24,CL0089,Bronze,Finance,Bangalore,Online,Subscription,13,12220.72,8629.45,3591.27
+INV000710,2024-06-26,CL0039,Platinum,Finance,Hyderabad,Online,Hardware,7,17033.86,3350.33,13683.53
+INV000711,2023-02-28,CL0045,Bronze,Finance,Bangalore,Direct Sales,Services,11,19810.37,12501.29,7309.08
+INV000712,2023-03-21,CL0130,Gold,Technology,Bangalore,Partner,Services,8,22326.98,6418.95,15908.03
+INV000713,2023-11-05,CL0127,Platinum,Finance,Bangalore,Partner,Hardware,3,13228.97,7947.11,5281.86
+INV000714,2024-01-21,CL0231,Gold,Manufacturing,Pune,Online,Software,20,21435.11,9275.67,12159.44
+INV000715,2023-08-04,CL0102,Platinum,Retail,Chennai,Partner,Services,11,3694.25,728.36,2965.89
+INV000716,2023-05-07,CL0023,Gold,Manufacturing,Bangalore,Partner,Subscription,1,17616.78,3705.34,13911.44
+INV000717,2024-06-07,CL0072,Platinum,Retail,Hyderabad,Online,Services,7,7514.17,355.5,7158.67
+INV000718,2024-01-22,CL0164,Bronze,Finance,Bangalore,Partner,Software,10,21582.23,2327.53,19254.7
+INV000719,2024-04-13,CL0240,Gold,Manufacturing,Bangalore,Online,Hardware,9,24182.32,9162.53,15019.79
+INV000720,2025-02-20,CL0155,Platinum,Technology,Mumbai,Partner,Subscription,2,8259.2,7243.1,1016.1
+INV000721,2025-05-13,CL0150,Gold,Manufacturing,Bangalore,Partner,Hardware,8,10875.03,5038.62,5836.41
+INV000722,2023-08-26,CL0166,Bronze,Retail,Pune,Online,Services,1,23860.98,2936.68,20924.3
+INV000723,2024-07-12,CL0106,Bronze,Healthcare,Pune,Direct Sales,Hardware,13,17097.28,5442.8,11654.48
+INV000724,2023-07-10,CL0059,Platinum,Healthcare,Bangalore,Partner,Subscription,13,4127.01,3565.56,561.45
+INV000725,2025-08-13,CL0118,Bronze,Finance,Bangalore,Partner,Subscription,8,16579.31,14235.98,2343.33
+INV000726,2025-04-03,CL0082,Gold,Healthcare,Mumbai,Direct Sales,Services,10,2305.31,2073.76,231.55
+INV000727,2025-02-26,CL0023,Bronze,Retail,Bangalore,Direct Sales,Software,4,13743.57,9133.35,4610.22
+INV000728,2024-09-02,CL0024,Gold,Technology,Hyderabad,Online,Subscription,7,16418.42,10078.77,6339.65
+INV000729,2024-10-21,CL0197,Bronze,Finance,Mumbai,Direct Sales,Hardware,8,24938.08,8300.67,16637.41
+INV000730,2023-07-15,CL0129,Silver,Retail,Chennai,Direct Sales,Software,19,2995.51,1253.25,1742.26
+INV000731,2024-05-21,CL0250,Platinum,Finance,Chennai,Online,Hardware,16,24598.1,9107.8,15490.3
+INV000732,2024-08-18,CL0137,Bronze,Retail,Hyderabad,Online,Hardware,14,22099.44,4962.09,17137.35
+INV000733,2024-12-17,CL0157,Bronze,Manufacturing,Bangalore,Direct Sales,Hardware,13,23677.86,9253.94,14423.92
+INV000734,2023-07-05,CL0069,Bronze,Healthcare,Pune,Partner,Services,9,19138.96,5625.24,13513.72
+INV000735,2024-06-10,CL0129,Platinum,Technology,Bangalore,Partner,Subscription,16,14121.52,10810.43,3311.09
+INV000736,2023-03-02,CL0180,Gold,Healthcare,Chennai,Online,Software,16,22156.96,1227.32,20929.64
+INV000737,2025-08-02,CL0060,Gold,Retail,Chennai,Direct Sales,Services,5,3150.99,681.12,2469.87
+INV000738,2024-04-27,CL0067,Bronze,Healthcare,Delhi,Partner,Software,7,18100.77,8188.86,9911.91
+INV000739,2025-05-16,CL0079,Silver,Manufacturing,Chennai,Online,Hardware,18,19547.56,9561.79,9985.77
+INV000740,2025-10-04,CL0091,Bronze,Finance,Delhi,Direct Sales,Software,12,15575.92,10790.92,4785.0
+INV000741,2024-08-12,CL0008,Platinum,Manufacturing,Bangalore,Online,Hardware,20,24197.4,11412.15,12785.25
+INV000742,2023-05-18,CL0038,Gold,Manufacturing,Chennai,Partner,Software,13,6483.94,3185.38,3298.56
+INV000743,2024-02-02,CL0172,Silver,Finance,Delhi,Partner,Software,18,14146.41,10113.94,4032.47
+INV000744,2024-10-09,CL0127,Gold,Retail,Pune,Online,Software,5,24390.83,7662.36,16728.47
+INV000745,2025-07-17,CL0111,Silver,Retail,Bangalore,Direct Sales,Services,12,6134.84,4145.86,1988.98
+INV000746,2024-02-07,CL0181,Bronze,Finance,Hyderabad,Direct Sales,Services,20,14156.1,4892.2,9263.9
+INV000747,2024-04-17,CL0190,Silver,Technology,Pune,Partner,Hardware,18,6082.44,4903.96,1178.48
+INV000748,2025-07-09,CL0038,Silver,Healthcare,Delhi,Direct Sales,Hardware,1,8001.51,5631.79,2369.72
+INV000749,2025-05-27,CL0023,Bronze,Healthcare,Bangalore,Partner,Software,20,23645.58,6582.1,17063.48
+INV000750,2025-02-06,CL0104,Gold,Retail,Delhi,Partner,Software,20,7878.52,1242.73,6635.79
+INV000751,2025-03-06,CL0187,Gold,Finance,Hyderabad,Direct Sales,Services,11,5106.99,3902.59,1204.4
+INV000752,2023-12-18,CL0209,Gold,Finance,Mumbai,Direct Sales,Services,16,22916.51,7731.46,15185.05
+INV000753,2023-09-10,CL0011,Gold,Technology,Chennai,Partner,Subscription,16,17606.29,8729.25,8877.04
+INV000754,2024-02-13,CL0133,Platinum,Technology,Mumbai,Partner,Subscription,5,3476.84,2239.23,1237.61
+INV000755,2025-11-14,CL0047,Platinum,Healthcare,Delhi,Online,Software,8,9917.21,4191.22,5725.99
+INV000756,2025-10-07,CL0250,Platinum,Manufacturing,Pune,Online,Hardware,6,3796.17,2534.25,1261.92
+INV000757,2023-07-28,CL0152,Silver,Technology,Hyderabad,Direct Sales,Software,3,10677.36,8459.8,2217.56
+INV000758,2023-02-07,CL0081,Gold,Manufacturing,Pune,Direct Sales,Software,19,2583.84,1715.85,867.99
+INV000759,2023-05-22,CL0184,Silver,Finance,Delhi,Online,Hardware,11,2857.52,1429.97,1427.55
+INV000760,2024-04-14,CL0034,Bronze,Healthcare,Hyderabad,Online,Hardware,13,23404.83,9358.89,14045.94
+INV000761,2023-06-28,CL0046,Platinum,Healthcare,Mumbai,Direct Sales,Software,10,15874.49,13747.89,2126.6
+INV000762,2023-12-15,CL0020,Bronze,Manufacturing,Bangalore,Partner,Services,8,12520.46,9105.04,3415.42
+INV000763,2025-01-23,CL0170,Gold,Healthcare,Hyderabad,Direct Sales,Software,19,24644.35,819.96,23824.39
+INV000764,2025-03-22,CL0199,Platinum,Retail,Bangalore,Online,Services,12,15232.02,8814.28,6417.74
+INV000765,2025-02-11,CL0009,Silver,Retail,Mumbai,Partner,Subscription,14,6581.77,2044.17,4537.6
+INV000766,2025-10-29,CL0234,Silver,Technology,Pune,Direct Sales,Services,12,7088.81,505.81,6583.0
+INV000767,2023-08-09,CL0095,Platinum,Retail,Chennai,Direct Sales,Software,16,1545.18,1108.78,436.4
+INV000768,2024-01-02,CL0107,Gold,Retail,Pune,Online,Services,9,4475.03,3553.34,921.69
+INV000769,2023-03-02,CL0027,Platinum,Retail,Bangalore,Partner,Services,7,6219.78,5321.17,898.61
+INV000770,2025-04-28,CL0001,Platinum,Finance,Mumbai,Partner,Services,2,18772.93,2157.41,16615.52
+INV000771,2023-05-28,CL0181,Gold,Retail,Bangalore,Direct Sales,Subscription,4,11968.27,6128.27,5840.0
+INV000772,2023-08-23,CL0167,Bronze,Manufacturing,Hyderabad,Direct Sales,Subscription,18,8915.78,4495.05,4420.73
+INV000773,2025-05-04,CL0203,Silver,Manufacturing,Mumbai,Partner,Software,9,15652.89,6708.45,8944.44
+INV000774,2023-07-21,CL0004,Silver,Finance,Mumbai,Online,Hardware,14,16805.95,8969.48,7836.47
+INV000775,2025-10-06,CL0242,Gold,Manufacturing,Delhi,Partner,Software,20,11870.24,7392.37,4477.87
+INV000776,2024-01-15,CL0124,Bronze,Manufacturing,Hyderabad,Partner,Software,11,15391.92,8505.59,6886.33
+INV000777,2023-07-13,CL0002,Bronze,Manufacturing,Mumbai,Partner,Subscription,4,6106.62,2714.51,3392.11
+INV000778,2024-01-29,CL0167,Gold,Retail,Bangalore,Online,Hardware,18,13883.87,6263.62,7620.25
+INV000779,2024-08-26,CL0193,Silver,Technology,Hyderabad,Direct Sales,Services,16,15283.1,8036.23,7246.87
+INV000780,2023-04-07,CL0156,Bronze,Retail,Bangalore,Online,Hardware,15,13888.47,9721.43,4167.04
+INV000781,2025-04-23,CL0023,Silver,Retail,Hyderabad,Online,Subscription,15,14707.3,7751.92,6955.38
+INV000782,2024-03-16,CL0160,Bronze,Finance,Hyderabad,Online,Subscription,1,2819.47,212.31,2607.16
+INV000783,2023-04-21,CL0130,Bronze,Retail,Bangalore,Partner,Subscription,13,5431.75,4528.68,903.07
+INV000784,2023-08-02,CL0163,Gold,Finance,Chennai,Online,Services,4,8671.29,2504.77,6166.52
+INV000785,2023-10-26,CL0061,Platinum,Healthcare,Bangalore,Direct Sales,Software,19,5651.22,4517.3,1133.92
+INV000786,2024-07-24,CL0069,Gold,Technology,Delhi,Online,Software,9,19304.0,11747.32,7556.68
+INV000787,2025-08-07,CL0033,Bronze,Retail,Hyderabad,Online,Services,14,8868.77,2549.91,6318.86
+INV000788,2023-10-12,CL0193,Platinum,Healthcare,Pune,Online,Services,14,13740.57,12194.98,1545.59
+INV000789,2024-05-06,CL0085,Silver,Finance,Hyderabad,Online,Services,20,2593.02,781.81,1811.21
+INV000790,2024-03-14,CL0071,Silver,Manufacturing,Chennai,Online,Services,7,24324.05,10404.7,13919.35
+INV000791,2024-02-18,CL0055,Silver,Manufacturing,Bangalore,Partner,Subscription,3,16810.86,1310.83,15500.03
+INV000792,2025-03-22,CL0003,Silver,Finance,Delhi,Partner,Software,14,512.65,418.09,94.56
+INV000793,2023-01-31,CL0113,Gold,Retail,Chennai,Partner,Software,5,10319.6,4163.01,6156.59
+INV000794,2024-04-10,CL0132,Platinum,Healthcare,Mumbai,Direct Sales,Hardware,18,22992.08,6045.54,16946.54
+INV000795,2024-08-29,CL0019,Gold,Technology,Pune,Online,Hardware,5,20624.11,11563.69,9060.42
+INV000796,2025-02-13,CL0139,Bronze,Healthcare,Pune,Online,Services,12,6707.45,1624.47,5082.98
+INV000797,2023-09-19,CL0171,Platinum,Manufacturing,Bangalore,Direct Sales,Hardware,13,11850.89,8175.79,3675.1
+INV000798,2025-06-07,CL0196,Platinum,Healthcare,Chennai,Partner,Subscription,3,4244.2,1733.8,2510.4
+INV000799,2025-04-12,CL0061,Bronze,Technology,Bangalore,Partner,Subscription,4,24534.74,2592.34,21942.4
+INV000800,2023-10-28,CL0242,Platinum,Retail,Delhi,Partner,Services,18,22120.65,4209.78,17910.87
+INV000801,2023-12-18,CL0091,Bronze,Retail,Pune,Direct Sales,Services,1,7089.92,5999.09,1090.83
+INV000802,2025-11-29,CL0097,Gold,Finance,Mumbai,Partner,Hardware,5,4441.07,3833.45,607.62
+INV000803,2023-07-14,CL0223,Gold,Healthcare,Chennai,Partner,Services,3,7135.26,3182.12,3953.14
+INV000804,2025-11-05,CL0235,Platinum,Retail,Delhi,Online,Software,11,995.69,566.82,428.87
+INV000805,2024-11-30,CL0022,Gold,Retail,Mumbai,Partner,Software,12,3286.78,2190.79,1095.99
+INV000806,2025-07-05,CL0140,Gold,Healthcare,Mumbai,Partner,Software,14,18683.34,7073.37,11609.97
+INV000807,2024-05-17,CL0239,Gold,Manufacturing,Chennai,Online,Hardware,19,15462.16,8605.83,6856.33
+INV000808,2024-10-29,CL0045,Platinum,Manufacturing,Pune,Partner,Services,5,5043.69,3921.7,1121.99
+INV000809,2025-09-26,CL0230,Platinum,Retail,Delhi,Direct Sales,Services,3,19826.61,6115.91,13710.7
+INV000810,2024-06-21,CL0190,Silver,Healthcare,Hyderabad,Direct Sales,Hardware,6,20630.19,5202.52,15427.67
+INV000811,2024-08-29,CL0097,Silver,Manufacturing,Pune,Partner,Subscription,10,17264.27,6644.42,10619.85
+INV000812,2024-11-10,CL0211,Platinum,Healthcare,Delhi,Direct Sales,Subscription,12,11617.46,252.94,11364.52
+INV000813,2023-02-12,CL0148,Silver,Finance,Bangalore,Partner,Subscription,6,7043.84,1540.2,5503.64
+INV000814,2023-09-29,CL0225,Silver,Retail,Delhi,Online,Software,2,14893.77,3562.29,11331.48
+INV000815,2024-10-25,CL0058,Platinum,Finance,Hyderabad,Online,Software,6,7744.04,1531.28,6212.76
+INV000816,2025-12-31,CL0003,Silver,Healthcare,Hyderabad,Direct Sales,Software,15,3918.1,3422.39,495.71
+INV000817,2024-12-04,CL0034,Gold,Retail,Chennai,Online,Services,11,18332.78,9133.52,9199.26
+INV000818,2023-12-14,CL0134,Bronze,Retail,Hyderabad,Online,Hardware,8,10645.96,9289.71,1356.25
+INV000819,2024-04-25,CL0178,Bronze,Healthcare,Mumbai,Partner,Software,8,5143.9,4139.42,1004.48
+INV000820,2025-10-31,CL0235,Bronze,Retail,Mumbai,Partner,Services,20,15443.67,9234.33,6209.34
+INV000821,2025-10-07,CL0090,Silver,Manufacturing,Hyderabad,Direct Sales,Hardware,1,19655.03,1416.09,18238.94
+INV000822,2024-02-24,CL0201,Silver,Manufacturing,Bangalore,Direct Sales,Services,14,14952.79,7933.27,7019.52
+INV000823,2023-09-26,CL0046,Bronze,Retail,Hyderabad,Online,Subscription,9,19705.9,2458.37,17247.53
+INV000824,2025-12-23,CL0171,Silver,Healthcare,Hyderabad,Direct Sales,Services,11,16223.8,239.28,15984.52
+INV000825,2024-06-22,CL0123,Gold,Healthcare,Mumbai,Direct Sales,Services,13,11240.47,8504.57,2735.9
+INV000826,2023-02-24,CL0210,Bronze,Retail,Hyderabad,Online,Subscription,20,19903.25,9510.55,10392.7
+INV000827,2024-12-16,CL0169,Gold,Retail,Mumbai,Direct Sales,Services,14,15197.53,13501.68,1695.85
+INV000828,2023-03-08,CL0218,Silver,Finance,Hyderabad,Direct Sales,Hardware,20,15985.9,11152.35,4833.55
+INV000829,2023-07-07,CL0198,Platinum,Healthcare,Delhi,Online,Subscription,10,3533.66,1474.11,2059.55
+INV000830,2023-09-28,CL0088,Bronze,Manufacturing,Hyderabad,Online,Software,5,5322.57,2464.74,2857.83
+INV000831,2023-03-29,CL0092,Platinum,Finance,Pune,Partner,Hardware,8,19478.96,9047.06,10431.9
+INV000832,2024-02-25,CL0143,Platinum,Finance,Bangalore,Direct Sales,Software,6,14224.53,9367.73,4856.8
+INV000833,2025-10-31,CL0232,Platinum,Healthcare,Pune,Partner,Hardware,10,11612.87,6664.39,4948.48
+INV000834,2023-09-13,CL0021,Gold,Healthcare,Chennai,Direct Sales,Services,4,11759.76,9149.54,2610.22
+INV000835,2024-06-13,CL0228,Platinum,Technology,Hyderabad,Direct Sales,Hardware,13,19542.58,5485.86,14056.72
+INV000836,2023-07-16,CL0248,Bronze,Finance,Delhi,Partner,Hardware,4,13024.12,8945.86,4078.26
+INV000837,2024-08-05,CL0175,Bronze,Manufacturing,Pune,Online,Software,18,9604.59,3174.08,6430.51
+INV000838,2025-04-28,CL0076,Silver,Healthcare,Delhi,Direct Sales,Hardware,5,18586.93,809.4,17777.53
+INV000839,2025-09-03,CL0150,Platinum,Healthcare,Delhi,Partner,Services,2,12974.79,4579.2,8395.59
+INV000840,2024-02-04,CL0218,Bronze,Retail,Pune,Partner,Software,19,16035.3,7992.75,8042.55
+INV000841,2023-08-10,CL0149,Platinum,Technology,Bangalore,Partner,Software,9,9506.97,4571.48,4935.49
+INV000842,2024-01-13,CL0152,Platinum,Manufacturing,Bangalore,Online,Services,2,14857.08,10953.05,3904.03
+INV000843,2025-12-08,CL0113,Silver,Technology,Delhi,Direct Sales,Hardware,7,2524.44,1386.97,1137.47
+INV000844,2023-07-15,CL0215,Gold,Manufacturing,Pune,Partner,Services,20,19821.83,1334.44,18487.39
+INV000845,2025-01-05,CL0242,Bronze,Finance,Pune,Direct Sales,Software,8,21609.88,10008.15,11601.73
+INV000846,2025-10-20,CL0219,Gold,Technology,Pune,Partner,Hardware,12,18330.16,2013.72,16316.44
+INV000847,2025-06-20,CL0118,Platinum,Retail,Delhi,Direct Sales,Software,6,10293.4,4887.03,5406.37
+INV000848,2025-05-20,CL0186,Gold,Finance,Bangalore,Direct Sales,Software,15,21722.17,9339.35,12382.82
+INV000849,2025-04-18,CL0168,Platinum,Finance,Bangalore,Partner,Hardware,1,16024.95,8917.37,7107.58
+INV000850,2023-10-19,CL0036,Gold,Technology,Mumbai,Direct Sales,Software,7,5464.64,3052.09,2412.55
+INV000851,2024-03-19,CL0131,Gold,Healthcare,Chennai,Direct Sales,Hardware,6,12223.68,4706.6,7517.08
+INV000852,2023-07-13,CL0017,Bronze,Retail,Bangalore,Partner,Software,2,17376.79,842.29,16534.5
+INV000853,2025-11-17,CL0067,Platinum,Finance,Hyderabad,Direct Sales,Hardware,10,17666.42,6499.52,11166.9
+INV000854,2023-10-02,CL0062,Platinum,Manufacturing,Delhi,Partner,Subscription,10,8926.98,1497.57,7429.41
+INV000855,2023-03-27,CL0077,Silver,Finance,Hyderabad,Online,Software,1,20063.57,9672.53,10391.04
+INV000856,2023-09-25,CL0153,Silver,Manufacturing,Bangalore,Partner,Subscription,18,23510.95,8960.29,14550.66
+INV000857,2023-07-15,CL0113,Gold,Healthcare,Delhi,Online,Services,13,8837.29,6796.25,2041.04
+INV000858,2023-11-13,CL0233,Bronze,Finance,Pune,Partner,Subscription,18,16535.97,8014.43,8521.54
+INV000859,2024-07-30,CL0158,Gold,Healthcare,Pune,Partner,Hardware,12,8047.12,2597.19,5449.93
+INV000860,2025-07-17,CL0153,Platinum,Technology,Bangalore,Partner,Hardware,7,18937.61,4676.6,14261.01
+INV000861,2025-10-13,CL0099,Bronze,Retail,Hyderabad,Partner,Software,8,24289.85,8837.16,15452.69
+INV000862,2025-08-22,CL0149,Gold,Retail,Mumbai,Online,Software,1,24154.19,5291.31,18862.88
+INV000863,2024-04-24,CL0055,Silver,Manufacturing,Delhi,Direct Sales,Software,2,9273.08,5396.99,3876.09
+INV000864,2025-01-24,CL0047,Gold,Finance,Mumbai,Direct Sales,Subscription,6,13549.4,6463.51,7085.89
+INV000865,2024-02-26,CL0068,Bronze,Technology,Delhi,Direct Sales,Subscription,20,11302.04,9142.39,2159.65
+INV000866,2024-07-02,CL0082,Gold,Technology,Bangalore,Online,Services,15,2080.8,1431.6,649.2
+INV000867,2024-03-31,CL0189,Silver,Finance,Bangalore,Online,Software,3,519.27,357.11,162.16
+INV000868,2025-01-19,CL0095,Bronze,Technology,Mumbai,Direct Sales,Subscription,7,20988.48,1466.92,19521.56
+INV000869,2025-11-01,CL0116,Bronze,Manufacturing,Mumbai,Partner,Services,7,6421.35,5204.7,1216.65
+INV000870,2024-04-28,CL0245,Bronze,Manufacturing,Hyderabad,Direct Sales,Subscription,19,13855.94,10946.26,2909.68
+INV000871,2025-04-08,CL0037,Bronze,Healthcare,Delhi,Partner,Services,5,20047.56,11810.47,8237.09
+INV000872,2023-06-15,CL0001,Bronze,Retail,Hyderabad,Partner,Subscription,17,15513.06,875.04,14638.02
+INV000873,2024-11-15,CL0041,Silver,Manufacturing,Delhi,Direct Sales,Services,5,16313.09,7772.53,8540.56
+INV000874,2025-09-12,CL0205,Silver,Manufacturing,Mumbai,Online,Hardware,14,20958.78,1787.53,19171.25
+INV000875,2024-09-15,CL0065,Bronze,Manufacturing,Hyderabad,Direct Sales,Software,13,17716.27,6417.16,11299.11
+INV000876,2025-03-14,CL0042,Gold,Retail,Hyderabad,Partner,Software,6,3047.14,674.63,2372.51
+INV000877,2025-10-17,CL0020,Silver,Technology,Mumbai,Partner,Software,6,11851.86,9420.26,2431.6
+INV000878,2023-06-23,CL0250,Gold,Retail,Bangalore,Online,Subscription,20,4687.28,3002.99,1684.29
+INV000879,2023-12-04,CL0212,Bronze,Manufacturing,Bangalore,Online,Software,12,19329.06,10259.15,9069.91
+INV000880,2023-12-17,CL0013,Gold,Manufacturing,Hyderabad,Partner,Subscription,10,14570.5,4980.95,9589.55
+INV000881,2023-03-05,CL0024,Gold,Manufacturing,Hyderabad,Partner,Hardware,7,24048.24,8300.51,15747.73
+INV000882,2024-10-10,CL0031,Platinum,Healthcare,Bangalore,Direct Sales,Services,3,564.08,342.27,221.81
+INV000883,2025-06-03,CL0108,Gold,Manufacturing,Hyderabad,Online,Services,7,6462.47,5095.92,1366.55
+INV000884,2025-05-01,CL0087,Silver,Healthcare,Bangalore,Online,Services,7,19926.64,11498.56,8428.08
+INV000885,2025-12-04,CL0182,Silver,Retail,Hyderabad,Direct Sales,Hardware,3,19570.16,11144.52,8425.64
+INV000886,2024-10-23,CL0212,Silver,Manufacturing,Delhi,Partner,Subscription,2,24078.43,6340.33,17738.1
+INV000887,2024-01-27,CL0213,Platinum,Manufacturing,Pune,Partner,Services,4,20485.87,13890.71,6595.16
+INV000888,2023-05-04,CL0069,Platinum,Manufacturing,Bangalore,Direct Sales,Software,17,3005.55,1991.82,1013.73
+INV000889,2023-12-24,CL0038,Bronze,Healthcare,Pune,Online,Hardware,9,7852.66,6114.06,1738.6
+INV000890,2025-12-29,CL0248,Gold,Technology,Chennai,Direct Sales,Hardware,20,23877.77,263.87,23613.9
+INV000891,2024-03-10,CL0249,Gold,Manufacturing,Hyderabad,Partner,Subscription,6,13003.03,8823.87,4179.16
+INV000892,2024-05-10,CL0033,Bronze,Manufacturing,Bangalore,Partner,Software,17,20055.93,14157.65,5898.28
+INV000893,2024-02-24,CL0098,Gold,Technology,Pune,Partner,Hardware,19,8944.74,6375.57,2569.17
+INV000894,2023-08-16,CL0135,Gold,Healthcare,Delhi,Direct Sales,Services,10,521.41,399.92,121.49
+INV000895,2025-01-11,CL0024,Silver,Healthcare,Chennai,Direct Sales,Subscription,15,7515.54,2468.57,5046.97
+INV000896,2024-08-11,CL0100,Bronze,Finance,Hyderabad,Direct Sales,Software,17,3729.04,569.64,3159.4
+INV000897,2025-10-22,CL0216,Platinum,Finance,Delhi,Direct Sales,Hardware,8,9805.77,5751.63,4054.14
+INV000898,2025-10-28,CL0248,Platinum,Technology,Hyderabad,Partner,Software,16,17072.84,2252.71,14820.13
+INV000899,2023-03-10,CL0110,Gold,Technology,Chennai,Direct Sales,Hardware,19,16866.41,5918.26,10948.15
+INV000900,2024-10-08,CL0035,Silver,Technology,Hyderabad,Partner,Services,4,18415.05,8785.5,9629.55
+INV000901,2025-08-31,CL0009,Bronze,Retail,Hyderabad,Online,Software,19,16738.41,4453.08,12285.33
+INV000902,2023-06-22,CL0189,Silver,Technology,Mumbai,Partner,Subscription,1,3944.76,2178.38,1766.38
+INV000903,2024-06-18,CL0075,Gold,Manufacturing,Pune,Online,Services,14,3299.19,1926.12,1373.07
+INV000904,2023-01-08,CL0201,Gold,Retail,Hyderabad,Partner,Subscription,9,2107.31,540.64,1566.67
+INV000905,2023-09-23,CL0097,Bronze,Healthcare,Hyderabad,Partner,Hardware,1,17678.58,8876.12,8802.46
+INV000906,2023-09-26,CL0126,Silver,Healthcare,Bangalore,Direct Sales,Hardware,17,19254.55,832.69,18421.86
+INV000907,2024-12-26,CL0011,Gold,Finance,Delhi,Online,Hardware,10,3907.7,1974.13,1933.57
+INV000908,2023-04-01,CL0113,Silver,Technology,Chennai,Direct Sales,Subscription,2,865.27,355.21,510.06
+INV000909,2023-04-16,CL0182,Gold,Healthcare,Mumbai,Partner,Hardware,2,4543.0,236.93,4306.07
+INV000910,2023-04-15,CL0012,Gold,Finance,Pune,Online,Hardware,16,19274.25,6356.68,12917.57
+INV000911,2024-12-04,CL0179,Gold,Technology,Delhi,Partner,Hardware,10,18902.41,7642.78,11259.63
+INV000912,2025-02-26,CL0191,Platinum,Finance,Pune,Partner,Software,7,15259.6,7091.72,8167.88
+INV000913,2024-07-16,CL0247,Gold,Retail,Pune,Direct Sales,Software,10,14275.48,12663.25,1612.23
+INV000914,2023-07-20,CL0234,Silver,Finance,Pune,Partner,Subscription,13,6070.98,2975.4,3095.58
+INV000915,2023-10-10,CL0177,Silver,Finance,Mumbai,Online,Subscription,18,14599.79,3526.68,11073.11
+INV000916,2023-02-20,CL0050,Silver,Manufacturing,Chennai,Partner,Software,15,18395.39,3683.36,14712.03
+INV000917,2024-05-25,CL0138,Bronze,Manufacturing,Pune,Online,Hardware,18,6953.46,644.97,6308.49
+INV000918,2025-10-27,CL0129,Platinum,Finance,Pune,Online,Software,19,13161.01,5884.45,7276.56
+INV000919,2024-07-10,CL0178,Bronze,Finance,Hyderabad,Partner,Hardware,18,6940.78,5594.08,1346.7
+INV000920,2025-10-27,CL0005,Platinum,Finance,Hyderabad,Partner,Services,2,22564.61,531.28,22033.33
+INV000921,2025-06-29,CL0240,Gold,Manufacturing,Mumbai,Online,Software,13,23468.42,9798.84,13669.58
+INV000922,2023-07-03,CL0199,Gold,Healthcare,Chennai,Partner,Subscription,6,2117.6,1893.7,223.9
+INV000923,2024-11-18,CL0164,Silver,Manufacturing,Mumbai,Direct Sales,Software,3,10853.3,7330.66,3522.64
+INV000924,2023-11-28,CL0214,Gold,Healthcare,Chennai,Direct Sales,Subscription,11,18219.79,7303.66,10916.13
+INV000925,2023-01-24,CL0013,Gold,Retail,Delhi,Partner,Hardware,7,19972.57,14068.39,5904.18
+INV000926,2024-05-02,CL0197,Gold,Retail,Chennai,Direct Sales,Subscription,8,12632.27,7432.46,5199.81
+INV000927,2023-03-11,CL0100,Gold,Finance,Pune,Direct Sales,Subscription,7,14077.87,8944.78,5133.09
+INV000928,2025-07-02,CL0052,Bronze,Retail,Hyderabad,Direct Sales,Subscription,8,782.48,505.05,277.43
+INV000929,2023-10-01,CL0124,Gold,Finance,Mumbai,Direct Sales,Software,20,20169.68,5954.12,14215.56
+INV000930,2023-02-14,CL0198,Silver,Finance,Chennai,Direct Sales,Services,2,20664.02,4268.38,16395.64
+INV000931,2024-03-28,CL0216,Bronze,Finance,Pune,Direct Sales,Software,19,661.43,537.19,124.24
+INV000932,2025-07-09,CL0034,Platinum,Healthcare,Pune,Partner,Subscription,18,13582.34,7099.17,6483.17
+INV000933,2023-01-05,CL0226,Platinum,Technology,Hyderabad,Online,Subscription,5,9942.47,2910.93,7031.54
+INV000934,2024-12-12,CL0004,Silver,Finance,Chennai,Online,Software,9,22764.32,11363.16,11401.16
+INV000935,2025-02-22,CL0002,Gold,Manufacturing,Pune,Partner,Software,17,7469.28,4767.03,2702.25
+INV000936,2025-05-12,CL0005,Gold,Healthcare,Bangalore,Partner,Services,10,23307.21,14950.71,8356.5
+INV000937,2023-08-31,CL0119,Silver,Technology,Pune,Partner,Services,20,4673.5,3767.45,906.05
+INV000938,2025-10-20,CL0066,Gold,Healthcare,Hyderabad,Partner,Services,6,3380.32,362.88,3017.44
+INV000939,2024-03-29,CL0206,Silver,Technology,Delhi,Online,Software,9,14551.02,9498.73,5052.29
+INV000940,2023-08-13,CL0173,Silver,Finance,Delhi,Partner,Hardware,14,21330.26,11514.77,9815.49
+INV000941,2025-02-01,CL0008,Gold,Finance,Chennai,Partner,Services,11,20285.36,5212.15,15073.21
+INV000942,2025-11-06,CL0154,Silver,Finance,Hyderabad,Online,Services,6,931.46,835.76,95.7
+INV000943,2024-09-02,CL0009,Silver,Healthcare,Delhi,Direct Sales,Software,15,17802.04,6249.94,11552.1
+INV000944,2024-06-25,CL0172,Silver,Finance,Bangalore,Direct Sales,Subscription,10,10996.8,6514.4,4482.4
+INV000945,2023-09-26,CL0235,Gold,Technology,Pune,Direct Sales,Subscription,18,13113.36,3199.42,9913.94
+INV000946,2025-12-06,CL0122,Silver,Manufacturing,Chennai,Direct Sales,Services,2,13228.29,3662.63,9565.66
+INV000947,2023-12-27,CL0157,Gold,Healthcare,Bangalore,Partner,Subscription,2,11967.19,4740.49,7226.7
+INV000948,2025-02-14,CL0204,Bronze,Retail,Hyderabad,Direct Sales,Services,19,20422.8,14109.03,6313.77
+INV000949,2024-03-02,CL0244,Platinum,Technology,Delhi,Online,Services,20,11565.55,2556.69,9008.86
+INV000950,2023-01-04,CL0042,Platinum,Finance,Mumbai,Partner,Subscription,14,1375.66,1102.12,273.54
+INV000951,2025-12-16,CL0050,Silver,Healthcare,Mumbai,Partner,Services,13,11659.46,6093.08,5566.38
+INV000952,2023-04-15,CL0244,Silver,Retail,Delhi,Online,Software,7,3033.36,1669.74,1363.62
+INV000953,2023-11-07,CL0150,Silver,Finance,Bangalore,Online,Services,20,18117.81,10678.0,7439.81
+INV000954,2024-01-05,CL0140,Platinum,Manufacturing,Hyderabad,Partner,Subscription,10,19353.6,5653.21,13700.39
+INV000955,2025-08-01,CL0175,Bronze,Manufacturing,Chennai,Partner,Hardware,19,21529.7,9892.21,11637.49
+INV000956,2024-09-26,CL0225,Silver,Retail,Hyderabad,Direct Sales,Hardware,16,9023.89,7107.85,1916.04
+INV000957,2023-09-13,CL0052,Platinum,Healthcare,Mumbai,Partner,Services,18,10400.97,4398.89,6002.08
+INV000958,2025-01-25,CL0201,Platinum,Manufacturing,Delhi,Partner,Hardware,6,11969.62,8790.52,3179.1
+INV000959,2025-02-16,CL0176,Platinum,Finance,Bangalore,Online,Software,19,23983.88,2618.37,21365.51
+INV000960,2023-09-09,CL0014,Gold,Finance,Pune,Partner,Services,16,3270.51,1006.08,2264.43
+INV000961,2024-06-04,CL0064,Silver,Manufacturing,Bangalore,Partner,Subscription,15,14964.78,9758.97,5205.81
+INV000962,2023-04-29,CL0219,Platinum,Healthcare,Hyderabad,Online,Subscription,5,6007.22,435.98,5571.24
+INV000963,2025-06-04,CL0080,Silver,Technology,Hyderabad,Partner,Hardware,13,23959.34,4734.63,19224.71
+INV000964,2023-02-28,CL0072,Silver,Healthcare,Delhi,Online,Subscription,6,9211.53,5666.89,3544.64
+INV000965,2023-10-07,CL0192,Bronze,Retail,Chennai,Partner,Services,16,13074.94,3435.84,9639.1
+INV000966,2025-12-29,CL0033,Silver,Manufacturing,Pune,Direct Sales,Hardware,7,10402.06,2843.21,7558.85
+INV000967,2024-12-06,CL0150,Silver,Manufacturing,Mumbai,Partner,Subscription,7,11523.46,3616.06,7907.4
+INV000968,2023-08-31,CL0134,Gold,Manufacturing,Delhi,Online,Subscription,7,1088.94,724.2,364.74
+INV000969,2025-03-22,CL0052,Gold,Finance,Pune,Online,Hardware,4,3795.32,3088.04,707.28
+INV000970,2025-12-04,CL0110,Bronze,Finance,Chennai,Online,Hardware,6,19018.57,723.5,18295.07
+INV000971,2025-08-31,CL0242,Silver,Retail,Delhi,Direct Sales,Subscription,18,8604.44,688.11,7916.33
+INV000972,2023-06-16,CL0140,Gold,Technology,Delhi,Direct Sales,Services,4,12534.27,5293.21,7241.06
+INV000973,2024-09-28,CL0146,Platinum,Technology,Hyderabad,Partner,Software,12,2569.5,1702.3,867.2
+INV000974,2023-12-02,CL0173,Silver,Manufacturing,Mumbai,Online,Hardware,14,15846.88,7514.51,8332.37
+INV000975,2025-04-10,CL0236,Silver,Finance,Mumbai,Direct Sales,Subscription,19,21451.53,244.46,21207.07
+INV000976,2025-06-24,CL0171,Silver,Technology,Delhi,Partner,Services,2,12296.93,6073.72,6223.21
+INV000977,2023-03-17,CL0041,Silver,Finance,Mumbai,Online,Software,8,14919.39,8844.2,6075.19
+INV000978,2024-10-28,CL0077,Silver,Manufacturing,Delhi,Online,Services,14,16155.5,14162.49,1993.01
+INV000979,2025-06-26,CL0111,Platinum,Manufacturing,Pune,Partner,Services,2,12898.39,10167.56,2730.83
+INV000980,2025-08-30,CL0078,Platinum,Healthcare,Hyderabad,Online,Software,11,14361.68,6898.48,7463.2
+INV000981,2023-03-24,CL0022,Platinum,Retail,Delhi,Direct Sales,Hardware,9,4798.57,2334.07,2464.5
+INV000982,2023-01-07,CL0150,Gold,Finance,Hyderabad,Online,Subscription,16,14751.42,3210.05,11541.37
+INV000983,2023-11-11,CL0232,Gold,Manufacturing,Delhi,Online,Software,18,16659.67,252.42,16407.25
+INV000984,2025-08-19,CL0202,Bronze,Technology,Chennai,Partner,Subscription,6,5653.38,3919.08,1734.3
+INV000985,2025-01-20,CL0072,Gold,Retail,Mumbai,Partner,Services,19,4714.35,867.31,3847.04
+INV000986,2024-08-09,CL0111,Gold,Manufacturing,Chennai,Online,Services,13,22869.11,2560.97,20308.14
+INV000987,2025-04-27,CL0088,Gold,Retail,Bangalore,Direct Sales,Subscription,3,1449.75,1255.44,194.31
+INV000988,2025-01-03,CL0033,Gold,Finance,Delhi,Online,Services,1,13920.39,9977.8,3942.59
+INV000989,2024-08-27,CL0246,Bronze,Manufacturing,Hyderabad,Direct Sales,Software,19,17381.98,6218.27,11163.71
+INV000990,2025-10-03,CL0087,Platinum,Retail,Delhi,Partner,Subscription,18,9268.53,6745.92,2522.61
+INV000991,2025-11-07,CL0031,Silver,Retail,Hyderabad,Partner,Subscription,10,7067.32,3506.05,3561.27
+INV000992,2023-12-28,CL0166,Bronze,Manufacturing,Chennai,Online,Subscription,9,3366.87,2749.12,617.75
+INV000993,2025-02-15,CL0023,Bronze,Technology,Bangalore,Online,Services,15,729.96,294.73,435.23
+INV000994,2024-10-23,CL0215,Silver,Finance,Bangalore,Partner,Hardware,9,19326.59,4134.28,15192.31
+INV000995,2025-06-23,CL0049,Platinum,Healthcare,Bangalore,Online,Subscription,9,13523.79,11077.53,2446.26
+INV000996,2025-12-29,CL0143,Platinum,Retail,Delhi,Partner,Services,20,2526.4,2041.57,484.83
+INV000997,2025-07-28,CL0162,Bronze,Retail,Mumbai,Direct Sales,Software,19,12975.39,10262.9,2712.49
+INV000998,2025-07-02,CL0002,Gold,Finance,Chennai,Direct Sales,Services,19,23810.43,606.19,23204.24
+INV000999,2023-03-09,CL0065,Platinum,Retail,Delhi,Online,Services,9,18407.12,8662.01,9745.11
+INV001000,2023-03-31,CL0056,Gold,Healthcare,Pune,Partner,Subscription,1,22821.02,14951.76,7869.26
+INV001001,2024-01-04,CL0066,Silver,Healthcare,Mumbai,Partner,Services,2,12141.13,1638.71,10502.42
+INV001002,2025-11-14,CL0247,Gold,Healthcare,Bangalore,Direct Sales,Hardware,8,24442.78,13309.22,11133.56
+INV001003,2023-03-18,CL0056,Platinum,Healthcare,Pune,Direct Sales,Software,14,20980.82,3023.41,17957.41
+INV001004,2025-03-28,CL0167,Bronze,Technology,Bangalore,Online,Services,16,24429.75,13454.63,10975.12
+INV001005,2023-07-08,CL0067,Gold,Finance,Bangalore,Online,Services,2,10774.15,7262.35,3511.8
+INV001006,2023-09-05,CL0063,Silver,Technology,Mumbai,Partner,Hardware,18,8564.5,676.65,7887.85
+INV001007,2023-05-19,CL0103,Platinum,Retail,Pune,Online,Services,4,12849.55,3316.91,9532.64
+INV001008,2023-12-15,CL0029,Gold,Healthcare,Mumbai,Direct Sales,Services,12,2279.07,2036.69,242.38
+INV001009,2025-04-11,CL0064,Gold,Technology,Hyderabad,Partner,Hardware,16,10734.78,1589.1,9145.68
+INV001010,2023-01-12,CL0007,Silver,Healthcare,Delhi,Partner,Software,11,12104.37,4348.56,7755.81
+INV001011,2023-11-25,CL0103,Gold,Healthcare,Chennai,Partner,Subscription,17,5856.57,2629.11,3227.46
+INV001012,2023-02-22,CL0135,Bronze,Healthcare,Hyderabad,Partner,Software,11,8332.06,7247.24,1084.82
+INV001013,2024-01-09,CL0181,Gold,Healthcare,Delhi,Online,Services,18,13430.77,6406.09,7024.68
+INV001014,2025-07-17,CL0096,Gold,Healthcare,Bangalore,Online,Services,11,1260.69,647.31,613.38
+INV001015,2024-09-30,CL0072,Silver,Retail,Pune,Direct Sales,Services,2,11208.46,565.36,10643.1
+INV001016,2023-10-27,CL0096,Gold,Finance,Pune,Online,Subscription,3,15567.82,13849.97,1717.85
+INV001017,2023-09-07,CL0010,Platinum,Retail,Hyderabad,Online,Subscription,18,12892.07,4981.62,7910.45
+INV001018,2025-09-05,CL0144,Bronze,Retail,Hyderabad,Partner,Services,10,8928.77,4097.94,4830.83
+INV001019,2025-07-29,CL0110,Gold,Technology,Chennai,Direct Sales,Software,19,22499.63,707.01,21792.62
+INV001020,2024-06-12,CL0184,Silver,Technology,Delhi,Direct Sales,Hardware,5,5712.6,1433.57,4279.03
+INV001021,2024-06-14,CL0096,Bronze,Finance,Hyderabad,Partner,Software,18,22180.91,4859.55,17321.36
+INV001022,2023-12-30,CL0065,Bronze,Technology,Hyderabad,Direct Sales,Subscription,9,14370.69,1361.03,13009.66
+INV001023,2023-01-14,CL0036,Bronze,Healthcare,Pune,Online,Subscription,12,16055.41,12018.09,4037.32
+INV001024,2025-06-03,CL0102,Platinum,Technology,Delhi,Direct Sales,Software,9,20961.46,8643.99,12317.47
+INV001025,2023-08-27,CL0014,Platinum,Finance,Pune,Online,Subscription,1,14473.7,9639.27,4834.43
+INV001026,2025-06-27,CL0146,Gold,Healthcare,Delhi,Direct Sales,Hardware,13,24233.29,5288.92,18944.37
+INV001027,2023-05-08,CL0098,Gold,Technology,Hyderabad,Direct Sales,Subscription,19,11256.57,2737.37,8519.2
+INV001028,2025-05-19,CL0243,Platinum,Healthcare,Bangalore,Partner,Services,4,14169.46,7558.27,6611.19
+INV001029,2025-08-30,CL0056,Bronze,Healthcare,Bangalore,Partner,Subscription,2,13307.8,3334.71,9973.09
+INV001030,2024-05-25,CL0137,Silver,Manufacturing,Delhi,Online,Subscription,3,24032.56,6190.24,17842.32
+INV001031,2023-09-03,CL0221,Bronze,Retail,Hyderabad,Direct Sales,Services,2,9982.97,565.75,9417.22
+INV001032,2024-08-30,CL0020,Gold,Finance,Delhi,Online,Hardware,13,14515.98,10926.28,3589.7
+INV001033,2024-01-12,CL0047,Bronze,Manufacturing,Pune,Online,Services,17,15324.81,8926.06,6398.75
+INV001034,2023-02-11,CL0113,Silver,Retail,Pune,Direct Sales,Software,8,10668.86,8285.8,2383.06
+INV001035,2025-04-03,CL0095,Platinum,Healthcare,Chennai,Direct Sales,Subscription,8,7914.08,5788.87,2125.21
+INV001036,2024-04-11,CL0192,Platinum,Healthcare,Mumbai,Direct Sales,Software,17,20564.88,4869.77,15695.11
+INV001037,2025-03-15,CL0175,Silver,Manufacturing,Pune,Direct Sales,Hardware,19,18773.18,10247.68,8525.5
+INV001038,2024-08-11,CL0132,Silver,Healthcare,Chennai,Online,Hardware,10,8947.57,4401.77,4545.8
+INV001039,2025-03-22,CL0071,Silver,Retail,Bangalore,Partner,Subscription,2,21068.22,11483.63,9584.59
+INV001040,2025-10-23,CL0211,Bronze,Manufacturing,Hyderabad,Partner,Services,20,14295.65,12244.96,2050.69
+INV001041,2023-02-11,CL0136,Bronze,Manufacturing,Mumbai,Online,Hardware,2,12054.71,1734.46,10320.25
+INV001042,2023-01-05,CL0190,Platinum,Manufacturing,Delhi,Partner,Subscription,5,18610.13,5552.46,13057.67
+INV001043,2025-03-19,CL0132,Platinum,Finance,Mumbai,Online,Subscription,12,11734.88,7547.49,4187.39
+INV001044,2023-12-23,CL0041,Gold,Finance,Hyderabad,Partner,Software,19,3205.12,2791.69,413.43
+INV001045,2023-06-22,CL0005,Bronze,Manufacturing,Hyderabad,Direct Sales,Services,9,17904.69,12374.82,5529.87
+INV001046,2024-01-07,CL0227,Silver,Healthcare,Delhi,Direct Sales,Subscription,3,19592.55,3512.61,16079.94
+INV001047,2024-03-21,CL0169,Platinum,Healthcare,Delhi,Partner,Software,13,15255.7,7589.41,7666.29
+INV001048,2025-11-22,CL0010,Silver,Healthcare,Mumbai,Partner,Subscription,4,15732.4,8316.15,7416.25
+INV001049,2023-08-07,CL0171,Silver,Technology,Hyderabad,Partner,Subscription,18,5570.36,3283.82,2286.54
+INV001050,2025-11-22,CL0014,Platinum,Manufacturing,Pune,Online,Hardware,7,5561.79,1971.94,3589.85
+INV001051,2025-12-05,CL0143,Gold,Healthcare,Mumbai,Online,Software,15,7042.77,3963.52,3079.25
+INV001052,2024-10-23,CL0149,Platinum,Retail,Mumbai,Direct Sales,Subscription,18,23518.77,2845.07,20673.7
+INV001053,2025-10-31,CL0192,Bronze,Retail,Chennai,Online,Hardware,19,2963.6,1523.65,1439.95
+INV001054,2025-01-03,CL0225,Platinum,Retail,Delhi,Partner,Hardware,1,21567.94,3351.52,18216.42
+INV001055,2024-04-06,CL0195,Gold,Healthcare,Chennai,Partner,Subscription,15,15467.97,7829.5,7638.47
+INV001056,2023-11-26,CL0147,Gold,Manufacturing,Mumbai,Direct Sales,Software,18,8551.12,1637.19,6913.93
+INV001057,2025-11-05,CL0224,Platinum,Technology,Mumbai,Partner,Software,9,6192.14,1817.48,4374.66
+INV001058,2023-11-09,CL0045,Bronze,Manufacturing,Mumbai,Direct Sales,Hardware,8,17635.62,12968.53,4667.09
+INV001059,2023-11-05,CL0199,Platinum,Finance,Bangalore,Direct Sales,Services,20,21953.75,14140.42,7813.33
+INV001060,2025-12-22,CL0176,Platinum,Healthcare,Mumbai,Online,Software,2,20945.0,9049.92,11895.08
+INV001061,2024-12-13,CL0045,Bronze,Technology,Hyderabad,Online,Software,9,19126.74,14151.25,4975.49
+INV001062,2023-09-20,CL0158,Silver,Retail,Bangalore,Online,Subscription,13,5408.93,1256.74,4152.19
+INV001063,2023-11-21,CL0207,Silver,Manufacturing,Pune,Direct Sales,Services,1,6703.47,2856.98,3846.49
+INV001064,2025-09-09,CL0066,Platinum,Finance,Chennai,Partner,Services,18,13101.92,6192.75,6909.17
+INV001065,2025-08-27,CL0081,Platinum,Manufacturing,Bangalore,Direct Sales,Hardware,7,9233.93,3435.83,5798.1
+INV001066,2023-07-10,CL0229,Silver,Healthcare,Mumbai,Online,Services,14,9422.32,600.02,8822.3
+INV001067,2023-06-02,CL0139,Silver,Retail,Mumbai,Online,Software,15,22263.68,10565.47,11698.21
+INV001068,2025-09-18,CL0218,Silver,Manufacturing,Bangalore,Online,Services,1,7086.91,5309.89,1777.02
+INV001069,2023-06-25,CL0192,Platinum,Technology,Hyderabad,Partner,Hardware,6,20133.89,12149.85,7984.04
+INV001070,2025-12-16,CL0078,Silver,Finance,Chennai,Online,Services,4,18298.72,1532.2,16766.52
+INV001071,2023-02-24,CL0066,Platinum,Retail,Chennai,Direct Sales,Hardware,12,5996.31,1173.27,4823.04
+INV001072,2025-12-16,CL0206,Silver,Retail,Pune,Direct Sales,Software,19,5969.35,3189.87,2779.48
+INV001073,2025-10-01,CL0202,Bronze,Finance,Chennai,Direct Sales,Software,9,23941.28,13204.36,10736.92
+INV001074,2023-07-30,CL0190,Silver,Finance,Bangalore,Online,Hardware,1,12756.24,933.42,11822.82
+INV001075,2025-12-01,CL0106,Platinum,Retail,Delhi,Partner,Subscription,19,10054.53,1820.49,8234.04
+INV001076,2023-10-03,CL0237,Platinum,Retail,Chennai,Direct Sales,Services,4,20368.38,13792.76,6575.62
+INV001077,2024-04-18,CL0196,Silver,Retail,Bangalore,Direct Sales,Software,13,11005.3,8927.61,2077.69
+INV001078,2025-03-22,CL0112,Gold,Healthcare,Delhi,Online,Software,14,15216.26,2853.23,12363.03
+INV001079,2023-05-24,CL0125,Silver,Technology,Chennai,Partner,Software,10,6280.63,5595.62,685.01
+INV001080,2023-01-06,CL0105,Gold,Retail,Bangalore,Direct Sales,Hardware,20,20985.0,8512.56,12472.44
+INV001081,2023-05-23,CL0144,Bronze,Finance,Hyderabad,Online,Subscription,4,11780.65,5835.24,5945.41
+INV001082,2025-07-29,CL0093,Bronze,Technology,Hyderabad,Direct Sales,Software,14,16991.79,3887.48,13104.31
+INV001083,2024-01-20,CL0027,Bronze,Retail,Delhi,Direct Sales,Services,19,24597.39,12467.65,12129.74
+INV001084,2025-07-10,CL0167,Gold,Finance,Hyderabad,Partner,Hardware,10,24780.94,622.98,24157.96
+INV001085,2024-02-27,CL0065,Bronze,Technology,Bangalore,Online,Software,3,3117.87,2234.65,883.22
+INV001086,2024-11-28,CL0146,Gold,Manufacturing,Hyderabad,Direct Sales,Services,7,20047.21,6516.72,13530.49
+INV001087,2025-06-14,CL0033,Silver,Finance,Bangalore,Online,Hardware,20,9059.19,4857.57,4201.62
+INV001088,2025-02-20,CL0184,Gold,Healthcare,Hyderabad,Online,Hardware,9,2053.37,1196.6,856.77
+INV001089,2023-03-30,CL0044,Bronze,Healthcare,Mumbai,Partner,Services,4,2231.96,848.83,1383.13
+INV001090,2024-09-20,CL0189,Gold,Retail,Mumbai,Direct Sales,Software,8,5344.28,467.05,4877.23
+INV001091,2023-03-25,CL0112,Gold,Manufacturing,Hyderabad,Direct Sales,Hardware,5,9383.27,6892.02,2491.25
+INV001092,2023-05-17,CL0148,Silver,Healthcare,Pune,Online,Subscription,9,8245.91,7329.55,916.36
+INV001093,2024-04-29,CL0181,Platinum,Manufacturing,Hyderabad,Partner,Software,13,6671.77,4156.11,2515.66
+INV001094,2023-09-24,CL0236,Bronze,Finance,Chennai,Online,Software,10,13725.18,11800.3,1924.88
+INV001095,2025-01-06,CL0186,Platinum,Finance,Mumbai,Online,Subscription,17,15565.78,5601.56,9964.22
+INV001096,2023-06-01,CL0049,Gold,Technology,Pune,Partner,Software,17,10695.21,2972.84,7722.37
+INV001097,2023-05-02,CL0191,Silver,Finance,Mumbai,Partner,Software,17,23495.88,883.1,22612.78
+INV001098,2023-04-06,CL0125,Gold,Retail,Bangalore,Partner,Subscription,9,21748.83,14947.8,6801.03
+INV001099,2025-03-06,CL0007,Platinum,Healthcare,Chennai,Online,Subscription,13,14477.53,10349.55,4127.98
+INV001100,2024-12-16,CL0070,Gold,Healthcare,Pune,Direct Sales,Hardware,18,19975.51,1030.37,18945.14
+INV001101,2023-11-19,CL0182,Gold,Retail,Pune,Online,Services,7,23922.06,11654.7,12267.36
+INV001102,2023-11-03,CL0160,Bronze,Finance,Chennai,Direct Sales,Subscription,2,22360.06,7925.37,14434.69
+INV001103,2023-08-07,CL0074,Bronze,Manufacturing,Mumbai,Partner,Hardware,10,19281.26,1752.62,17528.64
+INV001104,2023-11-28,CL0166,Gold,Finance,Pune,Partner,Subscription,5,24821.97,10493.05,14328.92
+INV001105,2024-07-11,CL0148,Gold,Finance,Bangalore,Partner,Subscription,3,12739.12,8761.98,3977.14
+INV001106,2023-09-25,CL0197,Platinum,Healthcare,Delhi,Partner,Hardware,10,11597.82,6944.83,4652.99
+INV001107,2024-05-08,CL0034,Bronze,Healthcare,Bangalore,Partner,Software,9,8920.82,289.62,8631.2
+INV001108,2024-12-24,CL0051,Platinum,Manufacturing,Hyderabad,Direct Sales,Services,11,7747.58,4097.94,3649.64
+INV001109,2025-12-31,CL0228,Silver,Technology,Delhi,Online,Services,18,8113.66,2235.87,5877.79
+INV001110,2023-06-08,CL0218,Gold,Technology,Delhi,Online,Services,7,15731.77,9156.68,6575.09
+INV001111,2024-08-21,CL0096,Platinum,Retail,Chennai,Partner,Hardware,20,13135.53,8987.75,4147.78
+INV001112,2025-04-28,CL0019,Gold,Manufacturing,Mumbai,Partner,Services,13,21468.73,4352.41,17116.32
+INV001113,2024-10-26,CL0051,Bronze,Technology,Mumbai,Direct Sales,Software,4,12489.22,8510.72,3978.5
+INV001114,2025-01-22,CL0033,Silver,Manufacturing,Delhi,Online,Hardware,6,17482.66,2021.35,15461.31
+INV001115,2023-10-15,CL0190,Gold,Finance,Bangalore,Online,Software,5,11079.73,2553.45,8526.28
+INV001116,2025-11-06,CL0226,Platinum,Technology,Bangalore,Direct Sales,Subscription,14,6844.74,3367.03,3477.71
+INV001117,2024-06-17,CL0109,Gold,Technology,Bangalore,Direct Sales,Hardware,4,16339.73,4349.75,11989.98
+INV001118,2024-01-25,CL0166,Gold,Healthcare,Delhi,Partner,Hardware,1,21780.9,14315.87,7465.03
+INV001119,2023-01-03,CL0023,Bronze,Healthcare,Hyderabad,Direct Sales,Hardware,8,22240.48,3557.34,18683.14
+INV001120,2024-11-19,CL0248,Silver,Technology,Chennai,Partner,Hardware,18,15290.82,2675.72,12615.1
+INV001121,2024-11-27,CL0001,Silver,Healthcare,Hyderabad,Direct Sales,Hardware,14,7764.68,6426.75,1337.93
+INV001122,2024-04-23,CL0063,Gold,Retail,Mumbai,Partner,Services,18,1437.41,1105.84,331.57
+INV001123,2024-06-04,CL0225,Bronze,Finance,Hyderabad,Direct Sales,Software,17,5693.76,972.17,4721.59
+INV001124,2025-04-21,CL0051,Bronze,Retail,Pune,Partner,Subscription,14,2756.14,1378.55,1377.59
+INV001125,2025-03-01,CL0001,Bronze,Manufacturing,Pune,Online,Subscription,18,1843.71,479.88,1363.83
+INV001126,2023-08-02,CL0130,Gold,Technology,Hyderabad,Online,Hardware,10,9554.25,6704.43,2849.82
+INV001127,2025-06-13,CL0201,Gold,Healthcare,Hyderabad,Online,Subscription,4,11227.58,7269.2,3958.38
+INV001128,2024-04-30,CL0019,Silver,Retail,Delhi,Online,Services,6,14250.4,12117.08,2133.32
+INV001129,2025-01-13,CL0128,Gold,Healthcare,Mumbai,Direct Sales,Subscription,15,5236.1,3378.09,1858.01
+INV001130,2023-08-27,CL0036,Silver,Manufacturing,Chennai,Direct Sales,Subscription,15,2254.51,1968.86,285.65
+INV001131,2023-08-06,CL0046,Silver,Manufacturing,Delhi,Direct Sales,Hardware,17,12796.4,9587.09,3209.31
+INV001132,2024-05-13,CL0103,Bronze,Manufacturing,Chennai,Direct Sales,Subscription,2,4875.43,624.06,4251.37
+INV001133,2025-02-14,CL0001,Silver,Retail,Bangalore,Partner,Software,20,23429.27,13480.42,9948.85
+INV001134,2023-03-04,CL0111,Silver,Retail,Pune,Direct Sales,Hardware,4,14844.11,7622.83,7221.28
+INV001135,2023-03-31,CL0167,Gold,Healthcare,Pune,Partner,Services,3,16204.59,1124.29,15080.3
+INV001136,2023-11-30,CL0140,Silver,Manufacturing,Pune,Partner,Software,7,19069.98,12534.18,6535.8
+INV001137,2023-09-01,CL0035,Bronze,Healthcare,Delhi,Partner,Hardware,8,19749.09,13350.78,6398.31
+INV001138,2025-07-30,CL0213,Gold,Healthcare,Mumbai,Partner,Subscription,14,9985.12,7390.31,2594.81
+INV001139,2024-01-17,CL0199,Bronze,Retail,Chennai,Partner,Software,14,6523.61,1464.76,5058.85
+INV001140,2023-09-15,CL0128,Gold,Manufacturing,Hyderabad,Partner,Software,18,16405.17,226.06,16179.11
+INV001141,2023-05-24,CL0030,Gold,Finance,Hyderabad,Partner,Software,17,8348.68,2735.04,5613.64
+INV001142,2023-05-29,CL0102,Bronze,Retail,Delhi,Online,Services,11,1502.19,882.56,619.63
+INV001143,2024-12-19,CL0219,Silver,Retail,Pune,Online,Hardware,13,13609.09,1070.01,12539.08
+INV001144,2024-11-10,CL0206,Bronze,Technology,Hyderabad,Partner,Hardware,4,11565.62,7344.28,4221.34
+INV001145,2025-09-18,CL0155,Gold,Technology,Mumbai,Partner,Software,10,18034.33,10377.89,7656.44
+INV001146,2024-11-16,CL0110,Gold,Technology,Delhi,Online,Subscription,11,1765.19,1265.72,499.47
+INV001147,2025-01-27,CL0212,Gold,Manufacturing,Hyderabad,Online,Software,4,701.84,297.48,404.36
+INV001148,2025-05-24,CL0243,Bronze,Technology,Hyderabad,Online,Software,13,23027.53,9907.8,13119.73
+INV001149,2023-09-28,CL0242,Gold,Retail,Mumbai,Direct Sales,Software,14,4455.55,2780.61,1674.94
+INV001150,2023-03-06,CL0076,Platinum,Technology,Pune,Online,Software,2,4424.85,3552.36,872.49
+INV001151,2023-11-08,CL0012,Gold,Manufacturing,Chennai,Direct Sales,Subscription,9,21999.6,9990.67,12008.93
+INV001152,2025-05-26,CL0133,Bronze,Retail,Chennai,Direct Sales,Subscription,3,11222.59,5298.95,5923.64
+INV001153,2023-08-26,CL0142,Silver,Finance,Mumbai,Online,Hardware,4,15811.59,10725.9,5085.69
+INV001154,2023-10-30,CL0132,Platinum,Retail,Hyderabad,Online,Services,3,21346.7,1864.48,19482.22
+INV001155,2024-08-09,CL0220,Silver,Finance,Chennai,Online,Software,9,23721.09,7806.4,15914.69
+INV001156,2025-12-01,CL0176,Gold,Finance,Mumbai,Partner,Hardware,2,13273.21,11299.87,1973.34
+INV001157,2024-12-12,CL0156,Bronze,Healthcare,Chennai,Partner,Subscription,10,6018.16,1301.88,4716.28
+INV001158,2025-08-16,CL0061,Platinum,Retail,Hyderabad,Online,Hardware,6,16034.86,4410.79,11624.07
+INV001159,2023-08-10,CL0139,Gold,Healthcare,Bangalore,Direct Sales,Subscription,4,8986.61,3242.11,5744.5
+INV001160,2024-12-11,CL0067,Platinum,Manufacturing,Chennai,Direct Sales,Hardware,13,6298.92,4746.36,1552.56
+INV001161,2025-04-20,CL0169,Platinum,Healthcare,Hyderabad,Direct Sales,Services,15,23436.75,6455.89,16980.86
+INV001162,2023-12-13,CL0140,Gold,Manufacturing,Bangalore,Partner,Services,2,12906.63,6351.42,6555.21
+INV001163,2023-01-30,CL0043,Bronze,Finance,Delhi,Online,Services,8,24274.41,1549.63,22724.78
+INV001164,2023-01-26,CL0061,Bronze,Finance,Bangalore,Online,Services,12,5460.0,2468.42,2991.58
+INV001165,2024-12-13,CL0039,Bronze,Manufacturing,Bangalore,Partner,Software,10,4022.23,1057.66,2964.57
+INV001166,2025-04-30,CL0152,Gold,Manufacturing,Delhi,Online,Software,1,4652.65,4146.53,506.12
+INV001167,2023-04-11,CL0156,Bronze,Retail,Hyderabad,Online,Software,17,19650.16,5685.0,13965.16
+INV001168,2025-12-19,CL0063,Silver,Retail,Chennai,Direct Sales,Subscription,17,19570.08,659.13,18910.95
+INV001169,2024-12-25,CL0021,Silver,Healthcare,Pune,Partner,Services,11,18442.81,5099.98,13342.83
+INV001170,2025-05-10,CL0206,Silver,Retail,Pune,Direct Sales,Software,4,16022.56,4961.53,11061.03
+INV001171,2024-05-23,CL0223,Bronze,Technology,Hyderabad,Direct Sales,Services,8,21532.49,10173.67,11358.82
+INV001172,2024-03-18,CL0005,Gold,Retail,Pune,Direct Sales,Subscription,3,20236.89,6086.8,14150.09
+INV001173,2023-09-29,CL0171,Platinum,Retail,Pune,Direct Sales,Software,14,24207.4,5576.33,18631.07
+INV001174,2025-09-18,CL0231,Bronze,Finance,Bangalore,Partner,Software,1,5821.54,2662.22,3159.32
+INV001175,2023-10-09,CL0144,Silver,Finance,Delhi,Direct Sales,Subscription,9,20667.03,3469.75,17197.28
+INV001176,2023-08-14,CL0034,Platinum,Finance,Mumbai,Partner,Software,16,17868.95,2828.61,15040.34
+INV001177,2025-05-17,CL0166,Gold,Finance,Pune,Online,Services,7,1722.85,258.8,1464.05
+INV001178,2025-07-05,CL0106,Silver,Healthcare,Hyderabad,Direct Sales,Subscription,13,20445.97,3879.57,16566.4
+INV001179,2023-12-23,CL0019,Bronze,Manufacturing,Mumbai,Partner,Software,7,21221.59,11858.09,9363.5
+INV001180,2024-02-27,CL0089,Gold,Retail,Pune,Online,Services,2,8307.02,6359.01,1948.01
+INV001181,2025-01-29,CL0245,Platinum,Healthcare,Mumbai,Partner,Hardware,16,22260.28,258.67,22001.61
+INV001182,2024-04-22,CL0103,Silver,Retail,Delhi,Online,Subscription,17,9075.43,1807.67,7267.76
+INV001183,2025-06-27,CL0041,Bronze,Healthcare,Bangalore,Partner,Hardware,16,24119.88,7708.96,16410.92
+INV001184,2023-11-28,CL0234,Platinum,Technology,Hyderabad,Partner,Software,15,5431.11,4744.09,687.02
+INV001185,2023-01-19,CL0111,Gold,Finance,Pune,Partner,Subscription,11,14234.68,10777.11,3457.57
+INV001186,2024-08-26,CL0063,Bronze,Retail,Chennai,Partner,Services,7,7764.64,1291.56,6473.08
+INV001187,2025-08-22,CL0222,Silver,Manufacturing,Delhi,Direct Sales,Subscription,17,10722.66,7324.27,3398.39
+INV001188,2023-07-27,CL0009,Platinum,Finance,Pune,Partner,Hardware,10,9425.07,3576.3,5848.77
+INV001189,2025-03-02,CL0086,Bronze,Manufacturing,Hyderabad,Partner,Subscription,5,9701.49,496.73,9204.76
+INV001190,2025-06-22,CL0247,Bronze,Manufacturing,Pune,Partner,Hardware,15,4249.89,2154.43,2095.46
+INV001191,2024-09-22,CL0120,Platinum,Finance,Hyderabad,Online,Hardware,15,3077.33,1097.93,1979.4
+INV001192,2025-02-25,CL0051,Gold,Retail,Pune,Partner,Services,4,9325.41,5922.04,3403.37
+INV001193,2024-08-02,CL0099,Gold,Technology,Delhi,Direct Sales,Services,13,19658.46,11461.33,8197.13
+INV001194,2025-08-09,CL0222,Gold,Finance,Pune,Partner,Services,5,9792.62,211.46,9581.16
+INV001195,2025-08-02,CL0029,Gold,Healthcare,Delhi,Direct Sales,Hardware,5,18752.83,13901.06,4851.77
+INV001196,2023-12-10,CL0191,Gold,Healthcare,Chennai,Partner,Services,3,23969.64,14651.77,9317.87
+INV001197,2023-01-05,CL0066,Bronze,Technology,Mumbai,Partner,Subscription,15,24208.11,6674.5,17533.61
+INV001198,2023-08-31,CL0097,Gold,Finance,Delhi,Partner,Hardware,3,19084.03,8868.08,10215.95
+INV001199,2023-06-24,CL0078,Platinum,Finance,Mumbai,Online,Subscription,4,8932.84,659.29,8273.55
+INV001200,2024-03-04,CL0017,Silver,Manufacturing,Bangalore,Online,Software,4,18007.71,10382.81,7624.9
+INV001201,2025-07-16,CL0162,Gold,Manufacturing,Hyderabad,Online,Software,20,10089.4,8895.38,1194.02
+INV001202,2023-12-19,CL0175,Gold,Healthcare,Mumbai,Online,Software,20,18966.44,9569.76,9396.68
+INV001203,2024-02-05,CL0030,Platinum,Healthcare,Pune,Direct Sales,Subscription,20,15177.94,4049.83,11128.11
+INV001204,2023-01-18,CL0112,Gold,Healthcare,Pune,Direct Sales,Hardware,11,23697.76,11004.25,12693.51
+INV001205,2023-08-19,CL0197,Bronze,Technology,Hyderabad,Direct Sales,Hardware,8,12995.06,3316.96,9678.1
+INV001206,2023-03-14,CL0167,Platinum,Manufacturing,Delhi,Partner,Services,17,24999.51,10074.42,14925.09
+INV001207,2023-06-27,CL0240,Gold,Retail,Hyderabad,Online,Subscription,15,21160.46,10214.84,10945.62
+INV001208,2025-03-30,CL0039,Silver,Manufacturing,Mumbai,Partner,Hardware,3,871.43,488.53,382.9
+INV001209,2025-05-12,CL0135,Silver,Manufacturing,Delhi,Partner,Software,15,10522.64,394.38,10128.26
+INV001210,2024-09-02,CL0115,Bronze,Retail,Chennai,Online,Subscription,5,2016.64,258.1,1758.54
+INV001211,2023-10-16,CL0061,Bronze,Retail,Pune,Online,Services,16,2036.6,1284.59,752.01
+INV001212,2025-08-29,CL0230,Platinum,Manufacturing,Hyderabad,Online,Services,1,13834.91,11576.94,2257.97
+INV001213,2025-06-17,CL0243,Bronze,Technology,Chennai,Direct Sales,Subscription,10,11179.94,6703.39,4476.55
+INV001214,2023-10-04,CL0058,Bronze,Finance,Hyderabad,Online,Services,11,21238.82,11313.78,9925.04
+INV001215,2023-06-18,CL0109,Platinum,Technology,Chennai,Partner,Software,8,4332.65,723.34,3609.31
+INV001216,2023-02-03,CL0169,Bronze,Retail,Hyderabad,Online,Software,15,13316.54,8774.28,4542.26
+INV001217,2023-02-07,CL0076,Platinum,Manufacturing,Delhi,Online,Hardware,15,3006.27,232.06,2774.21
+INV001218,2025-02-07,CL0133,Silver,Healthcare,Mumbai,Online,Software,20,15927.26,1599.04,14328.22
+INV001219,2023-01-26,CL0227,Gold,Finance,Mumbai,Partner,Software,2,16611.39,8995.22,7616.17
+INV001220,2023-07-17,CL0100,Bronze,Healthcare,Bangalore,Partner,Services,17,19216.38,10035.89,9180.49
+INV001221,2024-10-11,CL0209,Bronze,Technology,Hyderabad,Partner,Subscription,15,18059.75,12076.68,5983.07
+INV001222,2024-09-27,CL0212,Silver,Healthcare,Delhi,Direct Sales,Software,17,12935.43,9012.36,3923.07
+INV001223,2024-05-17,CL0137,Bronze,Finance,Bangalore,Partner,Software,2,22840.11,10121.45,12718.66
+INV001224,2024-07-20,CL0189,Gold,Retail,Delhi,Direct Sales,Subscription,11,17308.46,3295.72,14012.74
+INV001225,2023-05-28,CL0081,Bronze,Finance,Pune,Online,Software,18,21377.66,12385.86,8991.8
+INV001226,2024-06-26,CL0033,Platinum,Healthcare,Hyderabad,Partner,Services,17,19571.27,7329.58,12241.69
+INV001227,2024-08-23,CL0027,Platinum,Finance,Chennai,Direct Sales,Subscription,20,21233.81,337.68,20896.13
+INV001228,2024-05-10,CL0151,Silver,Finance,Mumbai,Direct Sales,Subscription,19,2634.56,1435.41,1199.15
+INV001229,2025-02-23,CL0126,Platinum,Retail,Bangalore,Online,Services,20,14479.06,12489.63,1989.43
+INV001230,2025-05-24,CL0173,Bronze,Manufacturing,Delhi,Direct Sales,Software,20,12330.12,2039.78,10290.34
+INV001231,2025-05-06,CL0203,Gold,Healthcare,Delhi,Online,Software,13,12015.78,4648.04,7367.74
+INV001232,2025-06-09,CL0088,Silver,Manufacturing,Bangalore,Online,Hardware,13,9512.9,5765.37,3747.53
+INV001233,2024-09-25,CL0080,Platinum,Technology,Hyderabad,Partner,Services,2,16162.95,9370.62,6792.33
+INV001234,2024-08-30,CL0021,Bronze,Finance,Pune,Direct Sales,Subscription,14,19904.59,7068.15,12836.44
+INV001235,2025-11-09,CL0199,Platinum,Healthcare,Pune,Partner,Software,4,16854.86,12908.01,3946.85
+INV001236,2023-03-09,CL0181,Gold,Healthcare,Delhi,Online,Software,16,15682.6,13062.59,2620.01
+INV001237,2024-08-15,CL0221,Gold,Finance,Bangalore,Direct Sales,Software,15,7843.35,3985.18,3858.17
+INV001238,2023-08-29,CL0184,Bronze,Manufacturing,Chennai,Online,Services,5,10989.26,4733.46,6255.8
+INV001239,2024-12-08,CL0041,Bronze,Finance,Mumbai,Online,Services,15,11379.11,2361.9,9017.21
+INV001240,2023-08-14,CL0001,Platinum,Finance,Mumbai,Direct Sales,Subscription,14,17195.76,5229.69,11966.07
+INV001241,2023-08-26,CL0189,Bronze,Retail,Hyderabad,Online,Subscription,3,15524.45,1364.22,14160.23
+INV001242,2025-10-30,CL0005,Silver,Finance,Delhi,Partner,Hardware,19,8667.22,3297.51,5369.71
+INV001243,2025-04-05,CL0009,Silver,Finance,Pune,Direct Sales,Hardware,12,8551.86,4702.61,3849.25
+INV001244,2024-08-20,CL0135,Platinum,Finance,Chennai,Direct Sales,Software,9,22892.16,7179.57,15712.59
+INV001245,2025-08-26,CL0084,Platinum,Retail,Chennai,Partner,Subscription,12,17300.84,10031.76,7269.08
+INV001246,2023-07-06,CL0155,Platinum,Finance,Chennai,Partner,Software,10,24252.35,8636.27,15616.08
+INV001247,2025-02-25,CL0098,Bronze,Retail,Bangalore,Direct Sales,Hardware,16,18735.79,3048.78,15687.01
+INV001248,2024-11-20,CL0129,Silver,Finance,Chennai,Direct Sales,Software,20,9134.01,1928.65,7205.36
+INV001249,2025-07-29,CL0195,Silver,Retail,Pune,Online,Services,9,8028.27,5276.37,2751.9
+INV001250,2024-07-11,CL0246,Bronze,Finance,Hyderabad,Partner,Services,5,12112.31,3788.57,8323.74
+INV001251,2024-02-21,CL0020,Platinum,Retail,Hyderabad,Online,Subscription,1,14784.89,12802.3,1982.59
+INV001252,2024-06-04,CL0144,Bronze,Retail,Delhi,Direct Sales,Software,3,20314.47,626.82,19687.65
+INV001253,2023-11-25,CL0250,Gold,Technology,Bangalore,Partner,Services,2,5160.85,3013.79,2147.06
+INV001254,2023-04-02,CL0224,Silver,Manufacturing,Delhi,Online,Hardware,13,6918.25,1882.65,5035.6
+INV001255,2024-10-10,CL0239,Silver,Finance,Hyderabad,Partner,Hardware,2,20888.85,2266.54,18622.31
+INV001256,2023-02-13,CL0189,Gold,Healthcare,Delhi,Partner,Services,19,16011.33,8100.58,7910.75
+INV001257,2023-05-07,CL0150,Platinum,Finance,Mumbai,Direct Sales,Services,17,16180.53,4041.06,12139.47
+INV001258,2025-03-20,CL0007,Silver,Manufacturing,Chennai,Partner,Software,11,19376.29,13114.51,6261.78
+INV001259,2024-04-02,CL0237,Silver,Healthcare,Bangalore,Partner,Software,19,23800.55,7553.87,16246.68
+INV001260,2023-01-29,CL0173,Bronze,Manufacturing,Pune,Direct Sales,Services,8,13789.01,11724.74,2064.27
+INV001261,2023-07-12,CL0097,Gold,Manufacturing,Delhi,Direct Sales,Hardware,2,21169.23,10754.24,10414.99
+INV001262,2025-03-09,CL0128,Bronze,Retail,Pune,Direct Sales,Subscription,1,24657.05,2110.09,22546.96
+INV001263,2024-08-27,CL0113,Bronze,Manufacturing,Chennai,Online,Services,1,6620.63,5143.33,1477.3
+INV001264,2023-10-18,CL0062,Silver,Manufacturing,Delhi,Partner,Services,11,6470.81,959.18,5511.63
+INV001265,2024-02-26,CL0075,Gold,Finance,Chennai,Partner,Subscription,19,14189.77,11081.91,3107.86
+INV001266,2023-08-21,CL0061,Platinum,Manufacturing,Mumbai,Partner,Hardware,15,14854.56,9500.93,5353.63
+INV001267,2025-05-27,CL0011,Silver,Manufacturing,Chennai,Direct Sales,Services,2,11003.39,9086.99,1916.4
+INV001268,2024-01-10,CL0155,Silver,Manufacturing,Bangalore,Direct Sales,Software,3,10543.45,5703.82,4839.63
+INV001269,2023-08-04,CL0169,Silver,Finance,Mumbai,Online,Hardware,13,20445.98,1671.34,18774.64
+INV001270,2023-04-11,CL0144,Gold,Retail,Chennai,Partner,Subscription,13,2253.93,270.89,1983.04
+INV001271,2024-10-17,CL0180,Platinum,Retail,Bangalore,Online,Hardware,14,21885.55,3600.76,18284.79
+INV001272,2023-08-08,CL0199,Gold,Finance,Hyderabad,Partner,Subscription,4,11418.72,1055.1,10363.62
+INV001273,2024-05-08,CL0175,Silver,Retail,Delhi,Online,Services,4,19903.17,4582.36,15320.81
+INV001274,2025-09-29,CL0145,Gold,Retail,Bangalore,Direct Sales,Software,13,23579.71,1548.21,22031.5
+INV001275,2025-01-28,CL0244,Platinum,Technology,Hyderabad,Partner,Software,13,3920.4,423.8,3496.6
+INV001276,2023-04-20,CL0223,Platinum,Healthcare,Bangalore,Partner,Hardware,2,18467.99,9196.09,9271.9
+INV001277,2025-10-10,CL0185,Bronze,Retail,Pune,Direct Sales,Hardware,4,5598.57,865.52,4733.05
+INV001278,2025-06-16,CL0009,Bronze,Manufacturing,Bangalore,Direct Sales,Subscription,15,14313.53,5196.83,9116.7
+INV001279,2025-02-09,CL0204,Bronze,Technology,Mumbai,Partner,Software,10,4632.82,1830.89,2801.93
+INV001280,2023-08-23,CL0248,Bronze,Finance,Hyderabad,Online,Software,20,14477.89,6728.16,7749.73
+INV001281,2025-03-24,CL0069,Silver,Retail,Chennai,Partner,Software,20,24355.65,9494.48,14861.17
+INV001282,2024-04-03,CL0141,Silver,Technology,Hyderabad,Online,Software,5,2247.71,1273.92,973.79
+INV001283,2025-01-08,CL0236,Gold,Technology,Hyderabad,Online,Software,5,2236.81,1952.0,284.81
+INV001284,2023-09-02,CL0240,Gold,Technology,Delhi,Partner,Subscription,10,11829.89,4391.79,7438.1
+INV001285,2025-02-12,CL0089,Platinum,Healthcare,Pune,Online,Services,19,6971.22,2630.6,4340.62
+INV001286,2023-12-26,CL0056,Gold,Finance,Chennai,Partner,Software,13,23496.18,3495.58,20000.6
+INV001287,2024-03-17,CL0162,Bronze,Technology,Hyderabad,Online,Hardware,5,20255.13,12446.32,7808.81
+INV001288,2023-03-26,CL0247,Platinum,Technology,Bangalore,Direct Sales,Hardware,9,15494.2,9746.17,5748.03
+INV001289,2023-09-28,CL0027,Platinum,Healthcare,Mumbai,Partner,Software,8,22151.8,10676.19,11475.61
+INV001290,2024-11-06,CL0155,Gold,Technology,Hyderabad,Direct Sales,Subscription,6,13789.66,5755.29,8034.37
+INV001291,2024-03-23,CL0106,Bronze,Technology,Mumbai,Partner,Subscription,3,16445.25,11162.66,5282.59
+INV001292,2023-01-17,CL0072,Gold,Healthcare,Bangalore,Direct Sales,Hardware,20,915.55,295.6,619.95
+INV001293,2024-10-29,CL0072,Silver,Retail,Hyderabad,Direct Sales,Subscription,17,24715.62,2190.54,22525.08
+INV001294,2024-05-23,CL0186,Gold,Healthcare,Delhi,Online,Software,16,19483.64,9394.91,10088.73
+INV001295,2024-06-16,CL0007,Silver,Healthcare,Delhi,Partner,Services,12,6246.3,3052.36,3193.94
+INV001296,2025-06-19,CL0061,Bronze,Healthcare,Bangalore,Direct Sales,Services,11,16349.62,9285.56,7064.06
+INV001297,2024-05-16,CL0118,Platinum,Retail,Pune,Direct Sales,Hardware,19,1069.21,735.2,334.01
+INV001298,2023-11-18,CL0226,Platinum,Technology,Bangalore,Direct Sales,Hardware,8,7568.82,4786.65,2782.17
+INV001299,2024-04-26,CL0079,Platinum,Manufacturing,Bangalore,Partner,Services,15,10018.48,4312.26,5706.22
+INV001300,2024-06-09,CL0083,Platinum,Finance,Pune,Direct Sales,Subscription,1,11336.73,2683.96,8652.77
+INV001301,2023-09-05,CL0161,Bronze,Finance,Mumbai,Online,Services,5,7479.81,2934.76,4545.05
+INV001302,2025-06-09,CL0244,Bronze,Finance,Delhi,Direct Sales,Software,16,17411.01,4255.47,13155.54
+INV001303,2025-03-01,CL0045,Platinum,Retail,Delhi,Partner,Subscription,6,7668.59,2014.33,5654.26
+INV001304,2025-01-26,CL0228,Silver,Manufacturing,Mumbai,Online,Subscription,12,10757.17,1895.03,8862.14
+INV001305,2024-06-05,CL0045,Bronze,Healthcare,Delhi,Online,Hardware,15,12339.71,5657.77,6681.94
+INV001306,2024-07-13,CL0183,Gold,Retail,Chennai,Online,Subscription,18,19699.57,998.48,18701.09
+INV001307,2024-11-04,CL0232,Gold,Healthcare,Pune,Partner,Services,14,8169.34,5798.18,2371.16
+INV001308,2025-11-02,CL0204,Bronze,Manufacturing,Mumbai,Partner,Hardware,17,11633.13,6806.91,4826.22
+INV001309,2024-01-31,CL0104,Silver,Manufacturing,Delhi,Partner,Services,8,4434.8,1642.62,2792.18
+INV001310,2025-11-08,CL0209,Silver,Manufacturing,Delhi,Online,Hardware,9,1039.11,552.22,486.89
+INV001311,2025-04-06,CL0154,Platinum,Retail,Delhi,Partner,Software,3,1544.76,419.89,1124.87
+INV001312,2023-01-29,CL0097,Platinum,Technology,Bangalore,Online,Services,15,16177.53,4584.89,11592.64
+INV001313,2025-06-05,CL0114,Gold,Technology,Delhi,Partner,Hardware,17,6707.91,819.75,5888.16
+INV001314,2025-12-05,CL0185,Bronze,Finance,Pune,Direct Sales,Software,1,2080.82,802.02,1278.8
+INV001315,2023-12-22,CL0068,Silver,Manufacturing,Mumbai,Partner,Subscription,5,21143.76,3600.39,17543.37
+INV001316,2024-07-19,CL0245,Silver,Retail,Delhi,Partner,Subscription,13,15274.83,12589.26,2685.57
+INV001317,2025-06-10,CL0219,Platinum,Healthcare,Hyderabad,Direct Sales,Services,11,2575.89,1993.61,582.28
+INV001318,2025-03-20,CL0005,Platinum,Healthcare,Bangalore,Direct Sales,Services,5,17778.94,5284.97,12493.97
+INV001319,2023-03-29,CL0065,Gold,Healthcare,Hyderabad,Partner,Hardware,8,659.29,382.66,276.63
+INV001320,2023-07-19,CL0120,Silver,Finance,Bangalore,Online,Software,5,16813.26,2234.14,14579.12
+INV001321,2024-08-02,CL0230,Bronze,Retail,Pune,Partner,Subscription,6,12066.41,10133.23,1933.18
+INV001322,2024-11-03,CL0038,Platinum,Technology,Chennai,Online,Hardware,9,7192.4,4574.88,2617.52
+INV001323,2025-02-10,CL0100,Silver,Technology,Hyderabad,Online,Services,2,11025.83,4617.02,6408.81
+INV001324,2024-03-07,CL0087,Bronze,Technology,Pune,Online,Subscription,14,9364.28,6131.66,3232.62
+INV001325,2024-12-17,CL0218,Bronze,Technology,Bangalore,Partner,Hardware,1,3652.46,1475.99,2176.47
+INV001326,2023-11-10,CL0100,Platinum,Technology,Bangalore,Direct Sales,Hardware,16,23427.98,3555.37,19872.61
+INV001327,2023-03-08,CL0015,Silver,Retail,Mumbai,Online,Hardware,18,9786.76,7959.96,1826.8
+INV001328,2023-03-04,CL0164,Bronze,Manufacturing,Mumbai,Online,Subscription,15,10732.1,5100.26,5631.84
+INV001329,2025-11-01,CL0105,Bronze,Retail,Bangalore,Partner,Hardware,13,24153.91,3641.62,20512.29
+INV001330,2023-04-06,CL0060,Silver,Finance,Bangalore,Partner,Software,9,15620.68,1786.52,13834.16
+INV001331,2023-09-26,CL0079,Platinum,Manufacturing,Bangalore,Direct Sales,Software,8,787.12,368.48,418.64
+INV001332,2024-09-24,CL0216,Platinum,Manufacturing,Hyderabad,Online,Services,15,15354.02,12954.86,2399.16
+INV001333,2025-04-08,CL0080,Platinum,Technology,Pune,Direct Sales,Software,7,22940.04,5293.76,17646.28
+INV001334,2025-02-13,CL0159,Bronze,Healthcare,Bangalore,Partner,Services,8,11849.62,4901.38,6948.24
+INV001335,2025-12-23,CL0147,Bronze,Technology,Bangalore,Direct Sales,Services,12,13695.28,5962.46,7732.82
+INV001336,2023-05-02,CL0119,Bronze,Technology,Bangalore,Online,Services,8,19767.6,9857.08,9910.52
+INV001337,2024-07-07,CL0032,Platinum,Finance,Hyderabad,Partner,Subscription,12,22937.06,11874.72,11062.34
+INV001338,2023-10-24,CL0129,Silver,Technology,Mumbai,Direct Sales,Software,11,5384.81,1916.41,3468.4
+INV001339,2024-03-27,CL0098,Platinum,Technology,Mumbai,Online,Software,6,8983.29,7789.37,1193.92
+INV001340,2025-04-26,CL0213,Bronze,Technology,Pune,Partner,Hardware,17,22491.85,12333.5,10158.35
+INV001341,2025-10-09,CL0066,Platinum,Healthcare,Delhi,Direct Sales,Subscription,15,14286.89,5542.64,8744.25
+INV001342,2024-12-10,CL0128,Gold,Retail,Delhi,Direct Sales,Hardware,10,24227.95,12539.53,11688.42
+INV001343,2023-04-04,CL0062,Gold,Technology,Hyderabad,Partner,Services,20,21479.87,14376.92,7102.95
+INV001344,2025-08-01,CL0100,Gold,Healthcare,Bangalore,Partner,Software,12,21850.71,11178.2,10672.51
+INV001345,2025-06-08,CL0112,Silver,Healthcare,Hyderabad,Partner,Software,11,3851.87,1580.28,2271.59
+INV001346,2025-01-05,CL0066,Gold,Manufacturing,Hyderabad,Partner,Services,4,23697.97,4432.56,19265.41
+INV001347,2024-06-03,CL0117,Silver,Finance,Hyderabad,Online,Hardware,15,7447.71,3043.57,4404.14
+INV001348,2025-12-25,CL0157,Platinum,Finance,Bangalore,Direct Sales,Hardware,14,19114.58,8373.8,10740.78
+INV001349,2024-03-09,CL0004,Gold,Manufacturing,Pune,Partner,Hardware,14,6157.3,4014.7,2142.6
+INV001350,2023-08-24,CL0062,Platinum,Healthcare,Mumbai,Direct Sales,Subscription,7,3532.25,2880.42,651.83
+INV001351,2023-01-16,CL0231,Bronze,Finance,Hyderabad,Direct Sales,Services,8,1347.07,1163.83,183.24
+INV001352,2023-09-29,CL0243,Gold,Manufacturing,Hyderabad,Online,Subscription,11,7854.66,1171.79,6682.87
+INV001353,2024-09-12,CL0131,Gold,Finance,Mumbai,Partner,Hardware,5,12117.71,9063.88,3053.83
+INV001354,2023-03-24,CL0186,Gold,Finance,Hyderabad,Online,Subscription,10,21614.92,2774.07,18840.85
+INV001355,2023-05-22,CL0121,Bronze,Finance,Chennai,Partner,Hardware,20,16752.36,3824.01,12928.35
+INV001356,2024-07-04,CL0009,Platinum,Finance,Pune,Online,Hardware,17,7751.28,2245.69,5505.59
+INV001357,2023-04-24,CL0175,Bronze,Manufacturing,Mumbai,Partner,Subscription,5,6183.52,2756.92,3426.6
+INV001358,2023-07-21,CL0214,Bronze,Retail,Hyderabad,Direct Sales,Subscription,15,13549.94,7038.78,6511.16
+INV001359,2023-02-08,CL0083,Silver,Retail,Bangalore,Direct Sales,Hardware,12,2539.8,980.05,1559.75
+INV001360,2024-03-22,CL0069,Platinum,Retail,Chennai,Direct Sales,Hardware,18,8881.15,6509.68,2371.47
+INV001361,2025-06-28,CL0106,Silver,Retail,Mumbai,Partner,Hardware,5,8909.3,1377.57,7531.73
+INV001362,2023-04-13,CL0144,Gold,Healthcare,Mumbai,Online,Services,9,14626.87,8887.26,5739.61
+INV001363,2025-12-17,CL0068,Platinum,Retail,Bangalore,Online,Subscription,13,13134.49,10313.0,2821.49
+INV001364,2025-11-17,CL0107,Platinum,Technology,Bangalore,Direct Sales,Software,9,8131.77,3802.3,4329.47
+INV001365,2025-06-01,CL0215,Silver,Retail,Bangalore,Online,Software,14,6381.33,4411.01,1970.32
+INV001366,2025-01-17,CL0061,Platinum,Healthcare,Hyderabad,Direct Sales,Hardware,14,8691.56,259.08,8432.48
+INV001367,2023-12-30,CL0013,Silver,Manufacturing,Pune,Online,Services,7,21266.07,3241.34,18024.73
+INV001368,2024-02-28,CL0178,Gold,Technology,Chennai,Online,Software,3,12114.44,8479.76,3634.68
+INV001369,2024-01-08,CL0070,Bronze,Technology,Mumbai,Online,Subscription,14,877.19,637.56,239.63
+INV001370,2024-11-28,CL0233,Silver,Technology,Bangalore,Online,Hardware,17,17222.89,3521.68,13701.21
+INV001371,2025-03-18,CL0157,Silver,Manufacturing,Chennai,Direct Sales,Software,15,4683.55,1603.24,3080.31
+INV001372,2025-08-24,CL0025,Bronze,Finance,Hyderabad,Direct Sales,Hardware,9,16515.4,3129.14,13386.26
+INV001373,2025-05-03,CL0056,Gold,Retail,Mumbai,Partner,Subscription,8,23749.69,2483.22,21266.47
+INV001374,2025-12-28,CL0010,Gold,Technology,Delhi,Online,Software,14,6047.91,408.03,5639.88
+INV001375,2023-07-10,CL0080,Gold,Retail,Hyderabad,Online,Hardware,8,6017.37,1753.13,4264.24
+INV001376,2023-04-28,CL0159,Platinum,Retail,Delhi,Partner,Subscription,20,14629.99,5474.33,9155.66
+INV001377,2024-09-29,CL0242,Bronze,Technology,Pune,Direct Sales,Subscription,1,9451.3,2713.72,6737.58
+INV001378,2023-11-16,CL0077,Platinum,Healthcare,Bangalore,Direct Sales,Hardware,15,3021.67,1829.87,1191.8
+INV001379,2025-11-09,CL0205,Bronze,Technology,Pune,Direct Sales,Software,8,18200.24,9020.99,9179.25
+INV001380,2025-07-29,CL0205,Platinum,Technology,Hyderabad,Partner,Hardware,12,8654.38,6027.86,2626.52
+INV001381,2024-05-22,CL0193,Gold,Healthcare,Pune,Partner,Software,13,21852.86,6848.79,15004.07
+INV001382,2023-02-26,CL0161,Gold,Manufacturing,Pune,Online,Subscription,19,18830.09,5172.37,13657.72
+INV001383,2024-01-13,CL0213,Silver,Technology,Chennai,Direct Sales,Software,14,8918.17,6628.43,2289.74
+INV001384,2025-08-31,CL0178,Bronze,Retail,Chennai,Direct Sales,Subscription,10,16951.48,13019.72,3931.76
+INV001385,2025-07-27,CL0045,Silver,Retail,Delhi,Online,Services,15,21635.8,1625.53,20010.27
+INV001386,2024-06-26,CL0079,Silver,Technology,Delhi,Online,Hardware,19,19970.74,5856.78,14113.96
+INV001387,2023-02-03,CL0041,Bronze,Technology,Bangalore,Online,Hardware,13,1356.54,767.92,588.62
+INV001388,2023-03-30,CL0001,Silver,Healthcare,Hyderabad,Direct Sales,Services,4,18895.47,3110.6,15784.87
+INV001389,2023-12-21,CL0145,Platinum,Healthcare,Hyderabad,Direct Sales,Software,15,4586.99,374.18,4212.81
+INV001390,2023-06-23,CL0235,Silver,Manufacturing,Hyderabad,Partner,Services,3,16263.41,4366.02,11897.39
+INV001391,2023-10-31,CL0025,Silver,Technology,Pune,Direct Sales,Hardware,6,5528.08,634.68,4893.4
+INV001392,2025-12-13,CL0124,Gold,Retail,Delhi,Direct Sales,Hardware,4,23354.9,9028.09,14326.81
+INV001393,2025-01-17,CL0232,Gold,Finance,Delhi,Online,Services,2,7789.04,1299.95,6489.09
+INV001394,2025-10-01,CL0048,Gold,Finance,Chennai,Partner,Subscription,12,7216.14,1950.92,5265.22
+INV001395,2025-05-15,CL0069,Silver,Finance,Chennai,Direct Sales,Services,3,6864.03,698.6,6165.43
+INV001396,2023-06-11,CL0049,Bronze,Healthcare,Delhi,Partner,Services,10,6662.78,5408.14,1254.64
+INV001397,2024-11-27,CL0213,Bronze,Healthcare,Bangalore,Online,Services,19,14857.43,10415.19,4442.24
+INV001398,2023-02-16,CL0204,Bronze,Healthcare,Bangalore,Online,Software,10,9674.48,2884.02,6790.46
+INV001399,2025-05-25,CL0016,Bronze,Finance,Hyderabad,Online,Subscription,13,17094.16,5820.1,11274.06
+INV001400,2024-06-05,CL0116,Bronze,Finance,Chennai,Partner,Services,18,2825.93,2519.12,306.81
+INV001401,2024-01-07,CL0174,Silver,Manufacturing,Pune,Direct Sales,Hardware,13,18939.54,4814.56,14124.98
+INV001402,2024-12-06,CL0099,Silver,Technology,Mumbai,Direct Sales,Hardware,3,11711.67,2824.22,8887.45
+INV001403,2024-07-19,CL0248,Platinum,Manufacturing,Delhi,Partner,Software,10,2774.71,1034.57,1740.14
+INV001404,2025-01-30,CL0250,Gold,Finance,Hyderabad,Direct Sales,Hardware,15,985.6,759.36,226.24
+INV001405,2024-06-01,CL0230,Gold,Finance,Bangalore,Direct Sales,Services,2,21263.34,14245.54,7017.8
+INV001406,2024-08-10,CL0149,Silver,Manufacturing,Chennai,Online,Subscription,15,15312.27,247.7,15064.57
+INV001407,2023-08-25,CL0232,Bronze,Manufacturing,Pune,Online,Software,14,11727.9,7377.86,4350.04
+INV001408,2023-08-08,CL0157,Silver,Healthcare,Delhi,Direct Sales,Hardware,10,4691.14,2935.3,1755.84
+INV001409,2024-06-16,CL0148,Silver,Healthcare,Delhi,Direct Sales,Services,18,22888.74,3055.72,19833.02
+INV001410,2025-09-12,CL0238,Bronze,Healthcare,Chennai,Direct Sales,Subscription,16,17830.61,9338.84,8491.77
+INV001411,2023-02-09,CL0184,Bronze,Healthcare,Pune,Partner,Software,8,1090.16,688.5,401.66
+INV001412,2024-11-01,CL0016,Platinum,Manufacturing,Chennai,Direct Sales,Services,11,10106.99,9072.66,1034.33
+INV001413,2025-08-14,CL0173,Bronze,Healthcare,Hyderabad,Online,Subscription,6,18052.14,724.88,17327.26
+INV001414,2025-05-30,CL0012,Platinum,Technology,Pune,Direct Sales,Hardware,16,18920.52,4427.34,14493.18
+INV001415,2025-04-01,CL0087,Bronze,Manufacturing,Bangalore,Online,Software,8,24995.64,8867.22,16128.42
+INV001416,2024-05-12,CL0093,Gold,Retail,Hyderabad,Direct Sales,Subscription,5,4095.84,2736.08,1359.76
+INV001417,2024-01-04,CL0092,Bronze,Technology,Hyderabad,Direct Sales,Subscription,10,3946.21,923.62,3022.59
+INV001418,2024-08-02,CL0113,Bronze,Finance,Chennai,Direct Sales,Software,19,6028.22,2402.43,3625.79
+INV001419,2024-06-25,CL0215,Platinum,Manufacturing,Bangalore,Online,Services,9,1730.87,212.74,1518.13
+INV001420,2023-10-10,CL0044,Platinum,Healthcare,Hyderabad,Partner,Services,8,15405.9,12683.5,2722.4
+INV001421,2024-08-14,CL0127,Bronze,Manufacturing,Bangalore,Direct Sales,Subscription,14,13266.17,7710.9,5555.27
+INV001422,2023-06-24,CL0040,Bronze,Retail,Delhi,Online,Subscription,18,15781.23,7891.7,7889.53
+INV001423,2023-04-30,CL0143,Platinum,Manufacturing,Mumbai,Online,Software,12,8264.1,4386.73,3877.37
+INV001424,2023-08-26,CL0153,Bronze,Technology,Chennai,Partner,Services,13,2883.51,1904.54,978.97
+INV001425,2023-08-10,CL0034,Platinum,Retail,Pune,Direct Sales,Subscription,9,2980.91,2166.75,814.16
+INV001426,2024-07-23,CL0055,Platinum,Retail,Delhi,Online,Software,16,3623.92,2477.91,1146.01
+INV001427,2023-09-10,CL0183,Gold,Finance,Mumbai,Online,Hardware,16,616.02,364.61,251.41
+INV001428,2023-04-18,CL0056,Platinum,Manufacturing,Delhi,Direct Sales,Hardware,7,17312.51,4842.49,12470.02
+INV001429,2025-04-21,CL0006,Bronze,Technology,Delhi,Online,Software,7,7780.51,3979.93,3800.58
+INV001430,2023-05-08,CL0151,Platinum,Retail,Hyderabad,Partner,Hardware,12,15940.32,6943.04,8997.28
+INV001431,2023-02-24,CL0027,Silver,Healthcare,Pune,Online,Services,16,20071.96,14374.97,5696.99
+INV001432,2025-05-19,CL0179,Silver,Manufacturing,Delhi,Partner,Subscription,2,22602.87,3326.18,19276.69
+INV001433,2024-01-14,CL0030,Platinum,Retail,Delhi,Online,Software,13,6348.44,248.99,6099.45
+INV001434,2023-02-05,CL0136,Gold,Manufacturing,Hyderabad,Partner,Services,4,4829.93,2806.37,2023.56
+INV001435,2023-12-15,CL0241,Silver,Healthcare,Pune,Direct Sales,Services,7,23494.32,6160.76,17333.56
+INV001436,2025-10-17,CL0063,Platinum,Healthcare,Bangalore,Direct Sales,Subscription,6,12999.93,8740.28,4259.65
+INV001437,2024-04-27,CL0237,Bronze,Retail,Chennai,Partner,Hardware,11,2210.2,554.86,1655.34
+INV001438,2025-02-16,CL0218,Silver,Retail,Delhi,Online,Software,9,3188.22,470.52,2717.7
+INV001439,2024-07-05,CL0205,Platinum,Finance,Bangalore,Online,Hardware,15,14759.75,8430.4,6329.35
+INV001440,2024-08-18,CL0070,Gold,Retail,Mumbai,Direct Sales,Subscription,5,968.3,458.83,509.47
+INV001441,2023-03-30,CL0122,Gold,Manufacturing,Chennai,Direct Sales,Hardware,4,10434.77,4690.21,5744.56
+INV001442,2025-04-30,CL0044,Bronze,Technology,Hyderabad,Direct Sales,Subscription,10,18406.91,7269.95,11136.96
+INV001443,2024-12-12,CL0088,Platinum,Finance,Delhi,Direct Sales,Hardware,12,20596.55,4841.8,15754.75
+INV001444,2025-07-05,CL0152,Silver,Finance,Pune,Partner,Hardware,8,1978.24,285.15,1693.09
+INV001445,2024-07-15,CL0131,Silver,Healthcare,Mumbai,Direct Sales,Subscription,13,17815.19,13691.96,4123.23
+INV001446,2025-02-19,CL0241,Bronze,Finance,Pune,Partner,Hardware,7,20357.15,10987.17,9369.98
+INV001447,2024-02-10,CL0195,Silver,Finance,Chennai,Partner,Services,6,16394.86,1416.53,14978.33
+INV001448,2025-11-20,CL0162,Bronze,Retail,Delhi,Online,Hardware,16,23358.15,7914.03,15444.12
+INV001449,2025-10-15,CL0113,Silver,Finance,Hyderabad,Direct Sales,Services,18,19600.6,3373.22,16227.38
+INV001450,2025-10-06,CL0243,Gold,Finance,Delhi,Partner,Software,19,4476.8,2368.28,2108.52
+INV001451,2024-05-04,CL0205,Bronze,Finance,Bangalore,Direct Sales,Hardware,13,16280.52,1082.78,15197.74
+INV001452,2025-07-08,CL0033,Platinum,Retail,Pune,Partner,Hardware,11,2612.69,543.2,2069.49
+INV001453,2024-10-09,CL0189,Silver,Retail,Chennai,Partner,Services,5,21119.23,525.07,20594.16
+INV001454,2023-09-06,CL0210,Bronze,Retail,Chennai,Partner,Software,10,15947.68,12089.33,3858.35
+INV001455,2023-01-06,CL0140,Platinum,Technology,Chennai,Online,Subscription,5,16089.01,10947.21,5141.8
+INV001456,2023-03-10,CL0241,Platinum,Finance,Delhi,Partner,Subscription,7,14988.52,6193.3,8795.22
+INV001457,2025-07-15,CL0124,Gold,Retail,Chennai,Partner,Services,19,11660.38,7988.37,3672.01
+INV001458,2024-05-28,CL0055,Gold,Retail,Mumbai,Partner,Services,5,24270.46,9612.26,14658.2
+INV001459,2023-04-14,CL0125,Silver,Retail,Hyderabad,Partner,Hardware,4,20745.13,12723.51,8021.62
+INV001460,2024-11-28,CL0053,Bronze,Retail,Chennai,Online,Software,4,7587.88,1333.85,6254.03
+INV001461,2023-08-23,CL0090,Gold,Manufacturing,Pune,Partner,Hardware,19,18804.92,9818.09,8986.83
+INV001462,2023-03-15,CL0100,Bronze,Manufacturing,Pune,Partner,Software,5,22248.91,9891.16,12357.75
+INV001463,2024-12-04,CL0089,Platinum,Technology,Hyderabad,Online,Hardware,12,3929.86,2474.75,1455.11
+INV001464,2025-06-20,CL0042,Silver,Technology,Chennai,Partner,Hardware,9,10611.1,5828.92,4782.18
+INV001465,2025-11-14,CL0058,Platinum,Finance,Hyderabad,Direct Sales,Services,8,16789.15,3428.47,13360.68
+INV001466,2024-04-29,CL0119,Platinum,Technology,Pune,Direct Sales,Software,1,12709.6,8579.05,4130.55
+INV001467,2023-07-13,CL0212,Silver,Manufacturing,Delhi,Partner,Software,14,8499.54,204.01,8295.53
+INV001468,2025-03-03,CL0025,Gold,Healthcare,Mumbai,Online,Software,4,8516.4,2834.75,5681.65
+INV001469,2023-03-27,CL0144,Gold,Retail,Hyderabad,Direct Sales,Services,2,1887.8,1161.35,726.45
+INV001470,2025-08-27,CL0168,Silver,Manufacturing,Chennai,Direct Sales,Subscription,18,15746.16,3427.71,12318.45
+INV001471,2023-03-23,CL0136,Bronze,Technology,Chennai,Direct Sales,Subscription,20,12318.16,501.31,11816.85
+INV001472,2023-05-20,CL0101,Platinum,Technology,Pune,Direct Sales,Services,2,13516.01,2964.85,10551.16
+INV001473,2025-01-14,CL0012,Bronze,Technology,Chennai,Online,Subscription,18,11074.92,9739.59,1335.33
+INV001474,2024-12-06,CL0061,Bronze,Healthcare,Hyderabad,Online,Services,14,16121.36,5440.42,10680.94
+INV001475,2023-07-08,CL0170,Silver,Manufacturing,Bangalore,Partner,Hardware,12,22755.6,7364.56,15391.04
+INV001476,2024-08-13,CL0023,Silver,Technology,Chennai,Partner,Software,16,18647.62,8903.37,9744.25
+INV001477,2025-03-21,CL0034,Silver,Finance,Pune,Direct Sales,Hardware,10,5672.03,476.85,5195.18
+INV001478,2025-06-03,CL0046,Bronze,Technology,Chennai,Online,Hardware,19,5377.74,4837.42,540.32
+INV001479,2025-04-03,CL0050,Bronze,Retail,Mumbai,Partner,Subscription,11,9259.61,7567.05,1692.56
+INV001480,2025-10-22,CL0250,Silver,Technology,Bangalore,Online,Hardware,3,23087.73,7942.98,15144.75
+INV001481,2024-10-16,CL0215,Platinum,Retail,Chennai,Online,Subscription,11,1561.27,536.13,1025.14
+INV001482,2023-09-23,CL0112,Platinum,Technology,Delhi,Online,Hardware,14,16366.63,1396.61,14970.02
+INV001483,2024-11-04,CL0008,Silver,Manufacturing,Chennai,Online,Hardware,13,18268.7,3438.63,14830.07
+INV001484,2024-02-11,CL0026,Bronze,Technology,Delhi,Online,Software,8,14268.37,3401.6,10866.77
+INV001485,2025-10-02,CL0233,Platinum,Finance,Hyderabad,Partner,Services,12,6438.38,3291.48,3146.9
+INV001486,2023-12-23,CL0057,Bronze,Retail,Pune,Partner,Subscription,18,2041.95,1683.3,358.65
+INV001487,2023-09-03,CL0126,Silver,Technology,Chennai,Direct Sales,Hardware,5,6598.66,2270.79,4327.87
+INV001488,2023-10-20,CL0035,Bronze,Technology,Pune,Direct Sales,Subscription,14,7502.74,2090.19,5412.55
+INV001489,2023-06-28,CL0189,Bronze,Technology,Hyderabad,Direct Sales,Subscription,19,10545.84,5558.62,4987.22
+INV001490,2023-08-10,CL0175,Platinum,Technology,Hyderabad,Partner,Subscription,2,6172.11,2986.18,3185.93
+INV001491,2023-04-02,CL0222,Silver,Finance,Delhi,Partner,Services,7,16306.39,1741.4,14564.99
+INV001492,2023-01-15,CL0204,Bronze,Retail,Hyderabad,Online,Services,9,13207.45,4425.07,8782.38
+INV001493,2023-12-23,CL0171,Gold,Technology,Bangalore,Direct Sales,Subscription,10,1492.32,886.13,606.19
+INV001494,2023-05-08,CL0148,Bronze,Finance,Chennai,Partner,Subscription,15,1258.97,693.79,565.18
+INV001495,2025-11-29,CL0021,Bronze,Technology,Mumbai,Online,Hardware,19,1394.02,555.46,838.56
+INV001496,2023-12-04,CL0105,Silver,Healthcare,Mumbai,Direct Sales,Services,4,11729.03,10429.95,1299.08
+INV001497,2024-10-29,CL0210,Silver,Technology,Bangalore,Direct Sales,Subscription,4,4534.09,2706.37,1827.72
+INV001498,2024-10-28,CL0077,Bronze,Technology,Hyderabad,Partner,Hardware,13,17846.73,4726.62,13120.11
+INV001499,2023-05-01,CL0199,Gold,Technology,Hyderabad,Partner,Subscription,5,8823.33,7420.17,1403.16
+INV001500,2023-01-02,CL0059,Gold,Manufacturing,Chennai,Direct Sales,Subscription,11,6157.0,1592.28,4564.72
